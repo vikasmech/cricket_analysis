@@ -1,0 +1,2842 @@
+player_name,team,innings,runs,balls,average,strike_rate,centuries,fifties,zeros
+JJ Roy,England,43,1176,993,27.34883721,96.1154016,2,7,7
+T Banton,England,33,817,899,24.75757576,92.28891701,1,4,2
+MM Ali,England,62,1437,1106,23.17741935,113.5957,0,7,6
+JM Vince,England,58,1785,1831,30.77586207,94.77065364,3,10,7
+EJG Morgan,England,15,206,188,13.73333333,77.22674956,0,0,4
+SW Billings,England,47,989,1056,21.04255319,102.5979143,0,3,3
+LA Dawson,England,44,789,1178,17.93181818,110.212169,1,2,2
+CJ Jordan,England,29,352,248,12.13793103,128.4806396,0,1,3
+AU Rashid,England,12,53,64,4.416666667,66.21082621,0,0,4
+S Mahmood,England,6,89,180,14.83333333,67.27443931,0,0,1
+BA King,West Indies,45,1236,1175,27.46666667,88.94143451,1,10,4
+SD Hope,West Indies,34,995,1232,29.26470588,82.74452405,3,4,1
+N Pooran,West Indies,65,1507,1417,23.18461538,95.32312054,0,11,4
+DM Bravo,West Indies,13,196,234,15.07692308,73.76923375,0,0,0
+KA Pollard,West Indies,41,662,614,16.14634146,107.9034482,0,1,2
+JO Holder,West Indies,45,605,764,13.44444444,94.82209714,0,1,6
+R Shepherd,West Indies,31,477,440,15.38709677,95.97753131,0,1,1
+OF Smith,West Indies,33,444,315,13.45454545,129.3346033,0,0,4
+FA Allen,West Indies,23,244,251,10.60869565,75.68264417,0,1,5
+AJ Hosein,West Indies,35,436,479,12.45714286,87.61759886,0,1,1
+R Powell,West Indies,53,1155,913,21.79245283,106.2192586,1,5,2
+LS Livingstone,England,52,1171,846,22.51923077,119.4591594,0,7,3
+HC Brook,England,57,2208,2094,38.73684211,115.0501952,6,8,2
+PD Salt,England,57,1671,1402,29.31578947,126.3528315,1,9,1
+GHS Garton,England,13,212,180,16.30769231,121.076413,0,1,1
+TS Mills,England,10,22,32,2.2,61,0,0,4
+RJW Topley,England,12,26,48,2.166666667,52.31150794,0,0,3
+KR Mayers,West Indies,47,1366,1347,29.06382979,94.60166829,3,6,3
+AZ Lees,England,19,620,1341,32.63157895,59.10946488,1,2,0
+Z Crawley,England,33,739,1174,22.39393939,62.25279334,1,3,3
+JE Root,England,27,911,1327,33.74074074,59.88002623,3,2,5
+DW Lawrence,England,27,697,1037,25.81481481,75.03779126,1,4,2
+BA Stokes,England,30,998,1146,33.26666667,84.40806306,3,3,1
+JM Bairstow,England,29,1135,1296,39.13793103,91.61975331,4,4,3
+BT Foakes,England,19,836,1734,44,42.33818535,2,5,1
+CR Woakes,England,9,165,265,18.33333333,87.49837557,0,0,1
+C Overton,England,17,262,354,15.41176471,86.9865619,0,0,3
+MA Wood,England,5,127,145,25.4,84.26533719,0,0,0
+MJ Leach,England,18,177,420,9.833333333,52.46455148,0,0,5
+KC Brathwaite,West Indies,7,460,1204,65.71428571,43.21773376,1,4,0
+JD Campbell,West Indies,5,143,271,28.6,81.89745557,0,0,0
+SSJ Brooks,West Indies,42,1200,1516,28.57142857,65.10012487,2,5,7
+NE Bonner,West Indies,9,219,614,24.33333333,34.82953924,1,0,2
+J Blackwood,West Indies,9,293,676,32.55555556,50.4749135,1,1,0
+J Da Silva,West Indies,8,237,642,29.625,37.64808324,1,0,1
+AS Joseph,West Indies,36,315,502,8.75,63.39767497,0,0,9
+KAJ Roach,West Indies,15,132,457,8.8,21.5607445,0,0,5
+V Permaul,West Indies,2,31,109,15.5,26.3061651,0,0,0
+JNT Seales,West Indies,10,41,134,4.1,35.17181633,0,0,4
+MD Fisher,England,3,18,64,6,18.72571873,0,0,1
+DA Warner,Australia,47,1721,1753,36.61702128,96.33401662,2,13,4
+MS Harris,Australia,24,1309,2328,54.54166667,55.98898182,4,8,2
+M Labuschagne,Australia,42,1464,2438,34.85714286,62.16890108,5,4,3
+SPD Smith,Australia,32,1432,2365,44.75,74.246865,3,9,2
+UT Khawaja,Australia,18,1104,2306,61.33333333,52.41456869,2,10,0
+C Green,Australia,28,801,1211,28.60714286,82.90635646,0,7,0
+AT Carey,Australia,34,1150,1567,33.82352941,75.81522563,1,7,1
+PJ Cummins,Australia,26,272,288,10.46153846,91.74376923,0,1,6
+MA Starc,Australia,17,183,410,10.76470588,46.89508832,0,0,1
+NM Lyon,Australia,12,143,174,11.91666667,91.04243325,0,0,1
+H Hameed,England,23,1154,1747,50.17391304,64.32466658,5,5,0
+DJ Malan,England,48,1810,1795,37.70833333,110.0956507,3,11,4
+JC Buttler,England,48,1973,1409,41.10416667,122.9510178,5,12,3
+SCJ Broad,England,12,177,199,14.75,72.1813311,0,0,1
+JM Anderson,England,10,44,83,4.4,47.43745728,0,0,3
+TM Head,Australia,27,1269,1452,47,77.0902401,4,7,2
+SM Boland,Australia,9,65,152,7.222222222,39.76844795,0,0,2
+RJ Burns,England,20,666,1309,33.3,59.75893329,3,0,2
+OJ Pope,England,24,1322,1834,55.08333333,76.26364599,4,9,1
+AJ Finch,Australia,52,1252,1191,24.07692308,89.74126693,0,10,6
+BR McDermott,Australia,49,1389,1522,28.34693878,91.06138318,1,11,6
+JP Inglis,Australia,22,561,431,25.5,113.7127208,0,3,1
+GJ Maxwell,Australia,52,1275,918,24.51923077,126.9806444,1,4,3
+MP Stoinis,Australia,48,945,689,19.6875,118.9504362,0,3,4
+MS Wade,Australia,46,1178,1081,25.60869565,116.6480642,1,5,1
+A Zampa,Australia,16,78,111,4.875,58.97082085,0,0,4
+JR Hazlewood,Australia,11,48,53,4.363636364,74.25964187,0,0,3
+P Nissanka,Sri Lanka,46,1523,1622,33.10869565,85.96374886,1,12,2
+MD Gunathilaka,Sri Lanka,19,254,251,13.36842105,79.12008965,0,1,4
+WIA Fernando,Sri Lanka,12,350,288,29.16666667,130.4465852,0,3,0
+KIC Asalanka,Sri Lanka,45,1068,1074,23.73333333,85.79428803,1,6,4
+PWH de Silva,Sri Lanka,34,436,340,12.82352941,112.8187201,0,2,2
+MD Shanaka,Sri Lanka,40,855,727,21.375,97.85427983,1,2,5
+LD Chandimal,Sri Lanka,30,1098,1477,36.6,89.90815878,2,5,2
+C Karunaratne,Sri Lanka,34,454,432,13.35294118,103.4638805,0,1,5
+PVD Chameera,Sri Lanka,19,113,116,5.947368421,101.1403509,0,0,3
+B Fernando,Sri Lanka,3,9,7,3,191.6666667,0,0,0
+M Theekshana,Sri Lanka,20,100,179,5,65.23127798,0,0,5
+BKG Mendis,Sri Lanka,47,1344,1461,28.59574468,83.22953364,0,13,3
+AC Agar,Australia,17,256,293,15.05882353,93.10728799,0,1,3
+JDF Vandersay,Sri Lanka,10,40,75,4,82.4057971,0,0,1
+DR Sams,Australia,41,539,364,13.14634146,112.1365273,0,3,5
+K Mishara,Sri Lanka,3,15,19,5,55.55555556,0,0,0
+J Liyanage,Sri Lanka,3,28,45,9.333333333,66.98773076,0,0,0
+KR Patterson,Perth Scorchers,23,633,811,27.52173913,87.34791549,1,3,2
+NR Hobson,Perth Scorchers,7,112,97,16,82.66474266,0,0,0
+LJ Evans,Perth Scorchers,31,687,498,22.16129032,116.6871776,0,3,2
+AJ Turner,Perth Scorchers,24,576,375,24,145.3288336,0,3,0
+AM Hardie,Perth Scorchers,24,459,548,19.125,115.0017936,0,1,1
+NCR Larkin,Melbourne Stars,9,95,105,10.55555556,75.77008761,0,0,0
+BJ Webster,Melbourne Stars,18,565,685,31.38888889,68.28453696,1,2,2
+JA Burns,Melbourne Stars,13,415,968,31.92307692,58.52628512,0,3,0
+HWR Cartwright,Melbourne Stars,31,812,1210,26.19354839,89.59530568,1,3,2
+JM Clarke,Melbourne Stars,57,1395,1453,24.47368421,89.45674694,1,8,6
+CD Hinchliffe,Melbourne Stars,3,18,22,6,62.3015873,0,0,0
+Qais Ahmad,Melbourne Stars,16,102,88,6.375,112.6165675,0,0,0
+SL Rainbird,Melbourne Stars,5,37,85,7.4,43.44625113,0,0,1
+Haris Rauf,Melbourne Stars,23,106,138,4.608695652,92.48274672,0,0,3
+CA Lynn,Brisbane Heat,21,763,555,36.33333333,117.1342056,2,4,1
+JJ Peirson,Brisbane Heat,18,455,634,25.27777778,82.56544681,1,0,1
+BM Duckett,Brisbane Heat,51,2010,1944,39.41176471,120.2059254,4,10,2
+SD Heazlett,Brisbane Heat,8,63,78,7.875,63.21924603,0,0,1
+M Bryant,Brisbane Heat,9,238,212,26.44444444,95.05901321,0,2,1
+XC Bartlett,Brisbane Heat,6,80,115,13.33333333,74.20942537,0,0,1
+JD Wildermuth,Brisbane Heat,3,40,49,13.33333333,75.24366472,0,0,0
+JJ Bazley,Brisbane Heat,13,255,279,19.61538462,84.05472309,0,2,3
+MT Steketee,Brisbane Heat,16,81,190,5.0625,57.09993132,0,0,4
+DJM Short,Hobart Hurricanes,16,400,405,25,103.7053834,0,2,0
+PSP Handscomb,Hobart Hurricanes,24,839,1383,34.95833333,70.96724442,1,3,1
+TH David,Hobart Hurricanes,67,1461,899,21.80597015,148.7385342,0,5,2
+JA Thompson,Hobart Hurricanes,40,458,532,11.45,91.48489556,0,2,6
+NT Ellis,Hobart Hurricanes,25,99,127,3.96,80.22365003,0,0,4
+TS Rogers,Hobart Hurricanes,8,72,60,9,105.7539683,0,0,1
+RP Meredith,Hobart Hurricanes,10,47,46,4.7,87.95238095,0,0,3
+CT Bancroft,Perth Scorchers,13,784,1802,60.30769231,48.44235129,5,0,0
+C Munro,Perth Scorchers,42,1159,906,27.5952381,117.0812551,0,6,1
+AJ Tye,Perth Scorchers,11,55,47,5,117.8030303,0,0,1
+JP Behrendorff,Perth Scorchers,8,48,51,6,73.26694139,0,0,1
+TF Rogers,Melbourne Stars,7,125,99,17.85714286,110.6718995,0,0,1
+CA Wakim,Melbourne Stars,2,32,35,16,96.21212121,0,0,0
+TL O'Connell,Melbourne Stars,2,3,10,1.5,18.75,0,0,1
+J Avendano,Melbourne Stars,8,101,89,12.625,82.25280825,0,1,1
+XA Crone,Melbourne Stars,1,1,4,1,25,0,0,0
+BL Couch,Melbourne Stars,3,4,9,1.333333333,22.22222222,0,0,2
+M Gilkes,Sydney Thunder,20,434,523,21.7,70.63558511,0,3,3
+BCJ Cutting,Sydney Thunder,14,274,194,19.57142857,120.2019676,0,1,2
+JJS Sangha,Sydney Thunder,21,666,1112,31.71428571,68.53211828,1,4,1
+O Davies,Sydney Thunder,11,210,147,19.09090909,113.0581161,0,1,0
+CJ Green,Sydney Thunder,28,310,248,11.07142857,125.5380754,0,1,2
+J Weatherald,Adelaide Strikers,17,398,690,23.41176471,57.41293183,2,0,3
+MW Short,Adelaide Strikers,23,695,822,30.2173913,98.93045499,0,4,0
+JW Wells,Adelaide Strikers,16,368,335,23,86.61183687,0,3,2
+HJ Hunt,Adelaide Strikers,15,381,720,25.4,67.10735431,1,1,1
+MT Renshaw,Adelaide Strikers,34,1309,2182,38.5,71.88920023,4,4,1
+T Kelly,Adelaide Strikers,16,222,262,13.875,89.45549332,0,0,2
+HJ Nielsen,Adelaide Strikers,10,293,597,29.3,81.34563196,0,2,1
+Rashid Khan,Adelaide Strikers,51,553,394,10.84313725,115.5436766,0,0,10
+WA Agar,Adelaide Strikers,9,133,186,14.77777778,62.93744649,0,1,1
+PM Siddle,Adelaide Strikers,24,212,326,8.833333333,73.38701835,0,0,4
+Fawad Ahmed,Adelaide Strikers,1,4,2,4,200,0,0,0
+TJ Dean,Melbourne Stars,9,248,601,27.55555556,35.93711214,1,0,2
+P Rowe,Melbourne Stars,1,3,6,3,50,0,0,0
+Ahmed Daniyal,Melbourne Stars,1,1,2,1,50,0,0,0
+SB Harper,Melbourne Renegades,22,396,773,18,56.23547431,1,1,4
+SE Marsh,Melbourne Renegades,12,353,439,29.41666667,105.0859786,0,3,0
+NJ Maddinson,Melbourne Renegades,36,811,1077,22.52777778,71.09016537,1,4,3
+MW Harvey,Melbourne Renegades,5,40,48,8,67.31774892,0,0,1
+Mohammad Nabi,Melbourne Renegades,37,494,472,13.35135135,89.67135478,0,0,5
+J Seymour,Melbourne Renegades,7,87,85,12.42857143,117.6001638,0,0,0
+IA Cockbain,Adelaide Strikers,22,474,384,21.54545455,103.5813732,0,3,1
+CP Jewell,Hobart Hurricanes,18,414,724,23,71.3205272,0,3,1
+W Parker,Hobart Hurricanes,1,4,2,4,200,0,0,0
+M Wright,Hobart Hurricanes,3,85,229,28.33333333,40.25016511,0,1,0
+MJ Owen,Hobart Hurricanes,3,26,19,8.666666667,181.8181818,0,0,0
+S Lamichhane,Hobart Hurricanes,14,93,81,6.642857143,91.67044596,0,0,3
+M Kelly,Perth Scorchers,13,194,374,14.92307692,51.35663278,0,0,0
+AD Hales,Sydney Thunder,61,1946,1288,31.90163934,136.8410708,0,17,3
+JS Lehmann,Brisbane Heat,10,201,298,20.1,41.28741467,0,2,3
+J Clayton,Brisbane Heat,10,246,621,24.6,35.91551791,1,1,2
+Fakhar Zaman,Brisbane Heat,31,1010,874,32.58064516,92.32291702,2,9,3
+TLW Cooper,Brisbane Heat,22,526,553,23.90909091,91.82683182,0,4,0
+LD Pfeffer,Brisbane Heat,4,109,100,27.25,98.7026862,0,1,0
+S McGiffin,Brisbane Heat,2,20,24,10,83.33333333,0,0,0
+W Prestwidge,Brisbane Heat,3,23,20,7.666666667,98.61111111,0,0,1
+W Sutherland,Melbourne Renegades,20,263,368,13.15,122.9017857,1,0,2
+JR Philippe,Sydney Sixers,27,473,526,17.51851852,79.47055847,0,3,2
+J Edwards,Sydney Sixers,11,168,227,15.27272727,67.94022569,0,0,0
+MC Henriques,Sydney Sixers,21,443,629,21.0952381,69.36683076,0,2,4
+DT Christian,Sydney Sixers,25,437,369,17.48,106.8505528,0,2,2
+JC Silk,Sydney Sixers,19,486,730,25.57894737,77.95220502,1,0,1
+SA Abbott,Sydney Sixers,22,347,392,15.77272727,108.6897617,0,2,2
+H Kerr,Sydney Sixers,22,471,459,21.40909091,103.9312881,0,2,1
+BJ Dwarshuis,Sydney Sixers,11,117,126,10.63636364,76.15994854,0,1,3
+JM Bird,Sydney Sixers,15,175,186,11.66666667,94.77507476,0,1,0
+BJ Holt,Sydney Thunder,11,134,247,12.18181818,51.19666697,0,0,1
+N McAndrew,Sydney Thunder,20,425,893,21.25,73.08928166,0,2,1
+KW Richardson,Melbourne Renegades,9,59,50,6.555555556,115.1058201,0,0,2
+JK Lalor,Melbourne Renegades,2,6,11,3,51.66666667,0,0,0
+Z Evans,Melbourne Renegades,1,0,2,0,0,0,0,1
+Zahir Khan,Melbourne Renegades,3,0,5,0,0,0,0,3
+JP Wood,Brisbane Heat,1,12,14,12,85.71428571,0,0,0
+PG Dooley,Brisbane Heat,5,27,32,5.4,97.5,0,0,0
+DMK Grant,Brisbane Heat,3,14,31,4.666666667,59.42684766,0,0,0
+DP Hughes,Sydney Sixers,13,470,801,36.15384615,70.2131426,0,4,2
+CJM Sabburg,Perth Scorchers,2,10,10,5,138.0952381,0,0,0
+RJ Gibson,Adelaide Strikers,1,0,2,0,0,0,0,1
+HNA Conway,Adelaide Strikers,6,26,114,4.333333333,33.61111111,0,0,1
+Shadab Khan,Sydney Sixers,40,835,614,20.875,130.5168172,0,4,0
+J Fraser-McGurk,Melbourne Renegades,8,101,144,12.625,79.66594162,0,0,0
+CJ Boyce,Melbourne Renegades,3,8,11,2.666666667,29.62962963,0,0,2
+NA McSweeney,Brisbane Heat,8,232,451,29,58.60502095,1,1,1
+MP Kuhnemann,Brisbane Heat,8,52,83,6.5,61.05217087,0,0,1
+Mujeeb Ur Rahman,Brisbane Heat,20,101,117,5.05,74.27881297,0,0,5
+L Guthrie,Brisbane Heat,1,0,2,0,0,0,0,1
+GS Sandhu,Sydney Thunder,9,149,310,16.55555556,53.88823798,0,0,1
+T Sangha,Sydney Thunder,6,35,66,5.833333333,50.63131313,0,0,1
+Mohammad Hasnain,Sydney Thunder,8,35,25,4.375,121.25,0,0,2
+JA Prestwidge,Melbourne Renegades,1,6,7,6,85.71428571,0,0,0
+P Hatzoglou,Perth Scorchers,2,13,14,6.5,96.15384615,0,0,0
+DJM Moody,Perth Scorchers,2,8,16,4,26.66666667,0,0,1
+LR Morris,Perth Scorchers,7,6,72,0.8571428571,10.48237477,0,0,4
+AI Ross,Sydney Thunder,9,172,123,19.11111111,119.3839707,0,1,2
+MG Neser,Brisbane Heat,23,522,852,22.69565217,62.58718725,1,2,2
+MR Marsh,Perth Scorchers,26,686,593,26.38461538,108.902499,0,4,2
+UBT Chand,Melbourne Renegades,2,35,32,17.5,97.91666667,0,0,0
+J Merlo,Melbourne Renegades,4,26,42,6.5,61.36363636,0,0,1
+MJ Swepson,Brisbane Heat,13,95,146,7.307692308,81.82609434,0,0,0
+NL Bertus,Sydney Sixers,2,19,23,9.5,75,0,0,0
+SNJ O'Keefe,Sydney Sixers,2,4,8,2,53.33333333,0,0,0
+JM Carder,Sydney Sixers,6,88,196,14.66666667,59.0835718,0,0,0
+JA Richardson,Perth Scorchers,9,80,141,8.888888889,55.39976484,0,0,1
+JS Lenton,Sydney Sixers,1,10,9,10,111.1111111,0,0,0
+R Hackney,New South Wales,4,49,208,12.25,13.34260195,0,0,2
+B Nikitaras,New South Wales,5,129,274,25.8,41.21792202,0,0,0
+LD Hearne,New South Wales,2,44,131,22,40.65217391,0,0,0
+CP Tremain,New South Wales,8,178,362,22.25,40.57241087,0,1,1
+TA Copeland,New South Wales,4,21,68,5.25,28.7524975,0,0,1
+BT Capel,South Australia,1,1,10,1,10,0,0,0
+L Scott,South Australia,3,55,148,18.33333333,36.06837607,0,0,0
+B Doggett,South Australia,8,86,119,10.75,89.77796053,0,0,1
+JS Buckingham,South Australia,5,6,39,1.2,16,0,0,3
+TP Ward,Tasmania,9,259,636,28.77777778,43.60283692,0,2,0
+JR Doran,Tasmania,9,362,802,40.22222222,45.5333761,0,3,0
+TD Andrews,Tasmania,3,64,75,21.33333333,98.98989899,0,0,0
+BAD Manenti,Tasmania,7,165,253,23.57142857,57.56701314,0,1,1
+JL Pattinson,Victoria,11,227,331,20.63636364,63.53091346,0,0,1
+M Perry,Victoria,8,123,284,15.375,66.61757262,0,1,2
+SM Whiteman,Western Australia,9,525,1079,58.33333333,36.90683557,1,3,2
+JS Paris,Western Australia,12,133,273,11.08333333,73.50465138,0,0,1
+AJ Nair,New South Wales,1,0,10,0,0,0,0,1
+RR Ayre,New South Wales,1,1,9,1,11.11111111,0,0,0
+PM Nevill,New South Wales,1,34,97,34,35.05154639,0,0,0
+EM Vines,Tasmania,1,0,1,0,0,0,0,1
+N Radhakrishnan,Tasmania,1,4,37,4,10.81081081,0,0,0
+DR Drew,South Australia,5,191,513,38.2,29.16908001,1,0,1
+L Pope,South Australia,1,6,13,6,46.15384615,0,0,0
+WJ Pucovski,Victoria,5,172,422,34.4,33.75523236,0,2,1
+JM Holland,Victoria,6,41,79,6.833333333,28.94736842,0,0,3
+BE Street,Queensland,5,150,437,30,30.63840921,0,1,0
+SJ Truloff,Queensland,5,75,186,15,34.61750578,0,0,1
+BL Edwards,Queensland,1,0,6,0,0,0,0,1
+BM Hope,Tasmania,1,2,11,2,18.18181818,0,0,0
+GT Bell,Tasmania,1,19,24,19,79.16666667,0,0,0
+CL McClure,Victoria,2,5,9,2.5,35.71428571,0,0,1
+T Wyllie,Western Australia,8,226,524,28.25,33.15587,1,0,2
+CJ Rocchiccioli,Western Australia,6,121,160,20.16666667,64.89492334,0,1,1
+TWM Latham,New Zealand,26,1127,1390,43.34615385,83.49863132,4,3,4
+WA Young,New Zealand,32,1245,1980,38.90625,61.12703254,4,7,1
+KS Williamson,New Zealand,34,1109,1437,32.61764706,84.77366281,1,5,1
+DP Conway,New Zealand,41,1551,1852,37.82926829,82.83548413,2,10,2
+DJ Mitchell,New Zealand,38,1269,1568,33.39473684,100.0524245,2,6,0
+TA Blundell,New Zealand,11,435,737,39.54545455,61.32935059,1,3,1
+C de Grandhomme,New Zealand,19,598,648,31.47368421,105.9754391,1,2,0
+KA Jamieson,New Zealand,8,67,106,8.375,81.95446001,0,0,0
+TG Southee,New Zealand,23,128,171,5.565217391,68.63093513,0,0,6
+AY Patel,New Zealand,7,119,117,17,93.17384612,0,1,1
+TA Boult,New Zealand,19,140,130,7.368421053,103.3689191,0,0,2
+MJ Potts,England,14,137,306,9.785714286,41.76630493,0,0,2
+MW Parkinson,England,17,110,236,6.470588235,54.60297826,0,0,4
+HM Nicholls,New Zealand,13,471,771,36.23076923,56.89105798,1,3,1
+MG Bracewell,New Zealand,26,793,687,30.5,95.78149528,2,4,2
+MJ Henry,New Zealand,11,177,177,16.09090909,77.31730313,0,1,3
+N Wagner,New Zealand,5,74,91,14.8,50.83333333,0,0,2
+J Overton,England,20,556,622,27.8,102.7597638,0,3,0
+RG Sharma,India,53,1217,1017,22.96226415,102.0689425,0,6,5
+Ishan Kishan,India,37,1311,1131,35.43243243,102.7738393,1,8,1
+DJ Hooda,India,33,906,747,27.45454545,110.1902246,1,4,2
+SA Yadav,India,51,1727,1134,33.8627451,147.3184379,2,13,2
+HH Pandya,India,42,1194,919,28.42857143,120.3527571,0,8,1
+AR Patel,India,31,470,386,15.16129032,114.1855336,0,2,2
+KD Karthik,India,38,617,405,16.23684211,141.8227256,0,2,2
+HV Patel,India,16,102,90,6.375,101.8362714,0,0,2
+B Kumar,India,14,38,58,2.714285714,73.57142857,0,0,1
+Arshdeep Singh,India,11,36,44,3.272727273,88.14616756,0,0,3
+SM Curran,England,36,981,971,27.25,109.8796035,1,7,2
+RR Pant,India,51,1504,1360,29.49019608,114.7347945,2,5,2
+V Kohli,India,53,1607,1667,30.32075472,88.93984926,2,13,6
+RA Jadeja,India,23,636,755,27.65217391,96.84915711,2,0,2
+DJ Willey,England,30,579,536,19.3,88.35187279,0,2,5
+RJ Gleeson,England,7,27,32,3.857142857,126.1904762,0,0,1
+SS Iyer,India,55,2050,2033,37.27272727,106.279858,1,17,3
+Avesh Khan,India,9,45,39,5,135.2136752,0,0,0
+Ravi Bishnoi,India,4,14,7,3.5,175,0,0,1
+BA Carse,England,17,194,220,11.41176471,93.64465088,0,0,1
+S Dhawan,India,37,1185,1377,32.02702703,81.09302227,0,9,0
+Mohammed Shami,India,7,80,135,11.42857143,52.15418425,0,0,1
+YS Chahal,India,5,29,60,5.8,52.73857302,0,0,0
+JJ Bumrah,India,11,73,103,6.636363636,43.08718198,0,0,6
+M Prasidh Krishna,India,5,8,22,1.6,32.76190476,0,0,2
+JN Malan,South Africa,28,715,802,25.53571429,78.13512384,0,4,3
+Q de Kock,South Africa,64,1862,1530,29.09375,104.0146136,2,12,6
+HE van der Dussen,South Africa,25,714,909,28.56,66.73415767,2,3,1
+AK Markram,South Africa,36,1019,995,28.30555556,103.3902364,0,8,2
+DA Miller,South Africa,58,1567,1169,27.01724138,124.8328114,1,9,2
+H Klaasen,South Africa,27,792,651,29.33333333,127.4126123,0,5,0
+D Pretorius,South Africa,30,465,396,15.5,119.5164463,0,1,2
+KA Maharaj,South Africa,20,380,496,19,69.21141916,0,1,2
+A Nortje,South Africa,13,61,128,4.692307692,68.498416,0,0,3
+L Ngidi,South Africa,13,36,105,2.769230769,56.95545782,0,0,5
+T Shamsi,South Africa,7,24,31,3.428571429,76.42857143,0,0,1
+RR Hendricks,South Africa,16,599,498,37.4375,113.4978202,0,6,1
+RR Rossouw,South Africa,48,1467,895,30.5625,134.2679469,2,12,6
+T Stubbs,South Africa,27,625,390,23.14814815,135.8828496,0,4,2
+AL Phehlukwayo,South Africa,11,128,116,11.63636364,104.3488597,0,0,0
+K Rabada,South Africa,23,160,246,6.956521739,64.77112863,0,0,4
+D Elgar,South Africa,12,311,658,25.91666667,42.23560051,0,2,0
+SJ Erwee,South Africa,9,287,624,31.88888889,38.01662191,1,1,1
+KD Petersen,South Africa,23,732,1203,31.82608696,59.95832414,0,7,2
+M Jansen,South Africa,13,243,469,18.69230769,56.83600042,0,1,0
+K Verreynne,South Africa,20,408,713,20.4,59.65215905,0,3,3
+SR Harmer,South Africa,28,345,692,12.32142857,60.47058616,0,2,7
+OE Robinson,England,9,140,213,15.55555556,66.15457527,0,0,1
+RD Rickelton,South Africa,12,326,526,27.16666667,78.79350164,0,2,0
+K Zondo,South Africa,15,312,339,20.8,90.49429344,0,1,1
+PWA Mulder,South Africa,31,1392,1620,44.90322581,81.72551674,3,8,2
+KL Rahul,India,43,1395,1413,32.44186047,88.45658534,2,13,3
+MA Agarwal,India,17,282,301,16.58823529,91.37478405,0,1,1
+CA Pujara,India,27,1592,2225,58.96296296,83.06497429,6,4,0
+AM Rahane,India,14,211,204,15.07142857,89.21834505,0,0,1
+GH Vihari,India,7,146,328,20.85714286,77.00797186,0,1,0
+R Ashwin,India,27,476,543,17.62962963,106.6089832,0,3,0
+SN Thakur,India,24,296,298,12.33333333,92.66406523,0,1,1
+Mohammed Siraj,India,17,90,153,5.294117647,61.57341505,0,0,1
+T Bavuma,South Africa,27,679,1127,25.14814815,62.89710677,1,3,2
+D Olivier,South Africa,5,24,94,4.8,17.4009324,0,0,1
+UT Yadav,India,21,166,145,7.904761905,92.5802462,0,0,6
+VR Iyer,India,19,360,313,18.94736842,103.5008106,0,2,1
+SSB Magala,South Africa,8,125,107,15.625,95.42410714,0,0,1
+DL Chahar,India,7,147,125,21,102.423265,0,1,1
+J Yadav,India,5,50,112,10,30.25462963,0,0,1
+JP Greaves,West Indies,3,29,91,9.666666667,31.6372549,0,0,0
+RL Chase,West Indies,17,196,293,11.52941176,85.45344365,0,0,0
+WTS Porterfield,Ireland,7,83,175,11.85714286,23.90423062,0,0,4
+A Balbirnie,Ireland,36,809,814,22.47222222,96.0765381,0,6,3
+AR McBrine,Ireland,16,539,723,33.6875,93.84078829,2,1,0
+HT Tector,Ireland,36,1024,1097,28.44444444,89.05787264,2,7,3
+C Campher,Ireland,26,434,461,16.69230769,88.61401241,0,1,3
+L Tucker,Ireland,33,696,606,21.09090909,99.87969849,0,3,2
+GH Dockrell,Ireland,33,671,555,20.33333333,112.4573827,0,2,3
+GJ Delany,Ireland,31,433,418,13.96774194,93.57067168,0,2,4
+NA Rock,Ireland,5,155,150,31,73.38619855,0,2,0
+MR Adair,Ireland,25,387,325,15.48,100.1099213,1,0,3
+CA Young,Ireland,8,14,22,1.75,50.41666667,0,0,4
+J Little,Ireland,13,59,78,4.538461538,74.42196692,0,0,3
+PR Stirling,Ireland,61,1418,1083,23.24590164,107.4536143,2,6,8
+Tamim Iqbal,Bangladesh,26,1070,1251,41.15384615,78.14021575,2,8,2
+Liton Das,Bangladesh,51,1819,2160,35.66666667,98.74324983,2,12,2
+Shakib Al Hasan,Bangladesh,47,1066,1027,22.68085106,89.85569783,0,9,5
+Mushfiqur Rahim,Bangladesh,30,920,1509,30.66666667,70.04403818,2,4,2
+Yasir Ali Chowdhury,Bangladesh,28,544,654,19.42857143,83.19468074,0,3,2
+Mahmudullah,Bangladesh,29,816,963,28.13793103,93.96804509,0,3,0
+Afif Hossain,Bangladesh,48,1152,1113,24,96.0238732,0,6,3
+Mehedi Hasan Miraz,Bangladesh,36,802,1123,22.27777778,83.97814576,1,1,0
+Taskin Ahmed,Bangladesh,17,84,138,4.941176471,63.92589389,0,0,2
+Shoriful Islam,Bangladesh,12,78,78,6.5,124.6011586,0,0,1
+Mustafizur Rahman,Bangladesh,12,52,70,4.333333333,67.99592564,0,0,3
+LB Williams,South Africa,7,52,141,7.428571429,30.04317111,0,0,2
+Mahmudul Hasan Joy,Bangladesh,16,518,942,32.375,65.48757641,1,3,3
+Shadman Islam,Bangladesh,3,38,96,12.66666667,51.59090909,0,0,0
+Nazmul Hossain Shanto,Bangladesh,38,811,1154,21.34210526,64.74094436,0,3,4
+Mominul Haque,Bangladesh,12,258,558,21.5,47.31303721,0,2,3
+Khaled Ahmed,Bangladesh,9,9,46,1,12.59259259,0,0,7
+Taijul Islam,Bangladesh,9,62,124,6.888888889,91.75860843,0,0,1
+Ebadat Hossain,Bangladesh,10,42,119,4.2,18.32186732,0,0,6
+Washington Sundar,India,19,351,398,18.47368421,84.72349731,0,1,2
+Kuldeep Yadav,India,12,98,184,8.166666667,77.79170148,0,0,2
+HR Walsh,West Indies,8,39,78,4.875,68.22916667,0,0,2
+RD Gaikwad,India,21,487,424,23.19047619,84.31469978,0,4,2
+DC Drakes,West Indies,12,112,110,9.333333333,83.43413229,0,0,1
+FDM Karunaratne,Sri Lanka,11,329,798,29.90909091,35.65387389,0,2,0
+HDRL Thirimanne,Sri Lanka,2,25,66,12.5,80.83333333,0,0,0
+AD Mathews,Sri Lanka,17,755,1346,44.41176471,81.24069085,2,2,1
+DM de Silva,Sri Lanka,27,555,653,20.55555556,78.92930463,0,3,3
+N Dickwella,Sri Lanka,26,407,416,15.65384615,74.19877113,0,4,5
+RAS Lakmal,Sri Lanka,9,36,73,4,56.10748003,0,0,3
+L Embuldeniya,Sri Lanka,4,7,28,1.75,26.5625,0,0,2
+MVT Fernando,Sri Lanka,3,25,97,8.333333333,40.07936508,0,0,1
+CBRLS Kumara,Sri Lanka,5,6,15,1.2,29.33333333,0,0,2
+P Jayawickrama,Sri Lanka,2,1,4,0.5,50,0,0,1
+SV Samson,India,32,980,758,30.625,130.0672205,0,6,0
+WD Parnell,South Africa,15,139,158,9.266666667,65.31026394,0,0,3
+Vikramjit Singh,Netherlands,18,427,604,23.72222222,63.75740456,0,3,1
+MP O'Dowd,Netherlands,29,749,888,25.82758621,74.04731415,0,7,2
+Musa Ahmed,Netherlands,7,111,182,15.85714286,56.48297038,0,0,0
+BFW de Leede,Netherlands,30,768,994,25.6,69.30810068,0,5,2
+LV van Beek,Netherlands,24,298,323,12.41666667,87.63127348,0,0,2
+SA Edwards,Netherlands,30,802,910,26.73333333,87.72712616,0,8,0
+PM Seelaar,Netherlands,10,156,250,15.6,64.17704034,0,0,2
+S Snater,Netherlands,25,517,551,20.68,93.38077742,0,4,1
+A Dutt,Netherlands,10,37,82,3.7,51.39646465,0,0,2
+PRP Boissevain,Netherlands,5,31,62,6.2,45.93253968,0,0,0
+AT Nidamanuru,Netherlands,11,171,213,15.54545455,60.62289562,0,1,2
+TJG Pringle,Netherlands,14,72,95,5.142857143,52.33134921,0,0,4
+FJ Klaassen,Netherlands,17,48,68,2.823529412,66.61764706,0,0,4
+PA van Meekeren,Netherlands,13,110,111,8.461538462,98.16239316,0,0,1
+Abdullah Shafique,Pakistan,21,547,901,26.04761905,78.36603833,1,2,1
+Imam-ul-Haq,Pakistan,19,992,1576,52.21052632,55.4463334,4,5,1
+Azhar Ali,Pakistan,23,993,1865,43.17391304,44.92387012,3,2,2
+Babar Azam,Pakistan,54,2481,2906,45.94444444,90.54227851,7,15,2
+Mohammad Rizwan,Pakistan,64,2417,2449,37.765625,92.5843702,1,23,2
+Iftikhar Ahmed,Pakistan,39,614,559,15.74358974,97.20102944,0,3,3
+Fawad Alam,Pakistan,3,37,126,12.33333333,19.33229814,0,0,1
+Faheem Ashraf,Pakistan,14,190,197,13.57142857,91.04840911,0,1,2
+Sajid Khan,Pakistan,6,81,140,13.5,35.07795479,0,1,1
+Hasan Ali,Pakistan,16,113,197,7.0625,66.58324315,0,0,5
+Nauman Ali,Pakistan,5,48,148,9.6,31.78008658,0,0,1
+Shaheen Shah Afridi,Pakistan,15,176,167,11.73333333,96.41722968,0,0,4
+Naseem Shah,Pakistan,17,89,172,5.235294118,69.81631114,0,0,4
+Saud Shakeel,Pakistan,5,148,300,29.6,48.13134383,0,1,0
+Khushdil Shah,Pakistan,28,464,385,16.57142857,131.8320711,0,0,0
+Mohammad Wasim,Pakistan,17,106,119,6.235294118,98.01443654,0,0,2
+Zahid Mahmood,Pakistan,5,29,77,5.8,36.25,0,0,2
+Asif Ali,Pakistan,31,306,235,9.870967742,116.3303542,0,0,3
+Usman Qadir,Pakistan,6,46,28,7.666666667,170,0,0,1
+LRPL Taylor,New Zealand,8,125,179,15.625,74.96251986,0,0,0
+R Ravindra,New Zealand,6,325,426,54.16666667,83.29162558,1,1,0
+Mohammad Naim,Bangladesh,11,71,115,6.454545455,59.82461597,0,0,1
+Nurul Hasan,Bangladesh,31,396,428,12.77419355,82.59016437,0,0,3
+Zubayr Hamza,South Africa,1,25,74,25,33.78378378,0,0,0
+GA Stuurman,South Africa,3,7,11,2.333333333,25.92592593,0,0,2
+L Sipamla,South Africa,2,2,9,1,25,0,0,1
+SJ Myburgh,Netherlands,13,231,212,17.76923077,85.6036115,0,1,2
+MJG Rippon,Netherlands,8,224,244,28,99.49288806,0,1,0
+BD Glover,Netherlands,4,26,36,6.5,81.04166667,0,0,0
+MJ Guptill,New Zealand,25,679,765,27.16,80.89163323,2,2,2
+DAJ Bracewell,New Zealand,8,142,113,17.75,126.7504085,0,0,0
+IS Sodhi,New Zealand,17,171,291,10.05882353,94.71198736,0,1,1
+BM Tickner,New Zealand,1,1,3,1,33.33333333,0,0,0
+C Floyd,Netherlands,3,5,10,1.666666667,63.33333333,0,0,0
+CJ Bowes,Canterbury,9,308,216,34.22222222,142.8834832,0,4,0
+CE McConchie,Canterbury,7,114,79,16.28571429,122.4782527,0,0,1
+CD Fletcher,Canterbury,7,209,139,29.85714286,142.8021978,0,2,0
+MJ Hay,Canterbury,4,11,16,2.75,65,0,0,0
+HB Shipley,Canterbury,5,72,69,14.4,100.8857809,0,0,0
+TD Astle,Canterbury,3,16,17,5.333333333,86.11111111,0,0,0
+W O'Rourke,Canterbury,2,15,13,7.5,112.5,0,0,0
+EJ Nuttall,Canterbury,3,17,16,5.666666667,90.27777778,0,0,0
+GH Worker,Auckland,7,93,93,13.28571429,98.67221157,0,0,0
+SM Solia,Auckland,7,115,117,16.42857143,55.56224964,0,1,2
+MS Chapman,Auckland,12,291,218,24.25,94.13194392,1,1,2
+GD Phillips,Auckland,43,1501,1197,34.90697674,125.0223522,2,12,2
+RR O'Donnell,Auckland,6,187,130,31.16666667,130.9280059,0,2,0
+BJ Horne,Auckland,6,123,97,20.5,101.2337858,0,1,1
+WER Somerville,Auckland,5,50,51,10,86.31868132,0,0,1
+LH Ferguson,Auckland,14,96,94,6.857142857,96.09384663,0,0,3
+RM ter Braak,Auckland,1,2,1,2,200,0,0,0
+WT O'Donnell,Auckland,4,47,54,11.75,81.39492754,0,0,0
+A Ashok,Auckland,4,10,13,2.5,70.83333333,0,0,1
+BG Lister,Auckland,3,13,10,4.333333333,200,0,0,0
+FH Allen,Wellington,46,1213,918,26.36956522,133.8722205,1,7,1
+HD Rutherford,Otago,14,169,172,12.07142857,79.11281179,0,0,2
+JJ Tasman-Jones,Otago,1,35,24,35,145.8333333,0,0,0
+NT Broom,Otago,3,91,73,30.33333333,137.2729856,0,0,0
+NF Kelly,Otago,5,116,86,23.2,100.4571355,0,1,1
+AK Kitchen,Otago,3,55,43,18.33333333,129.0598291,0,0,0
+LC Johnson,Otago,5,66,50,13.2,146.1372549,0,0,0
+B Wheeler-Greenall,Otago,1,7,4,7,175,0,0,0
+TB Robinson,Wellington,5,49,52,9.8,65.3003096,0,0,2
+TM Johnson,Wellington,5,69,71,13.8,84.94736842,0,0,1
+GK Beghin,Auckland,2,23,24,11.5,50,0,0,1
+CJ Briggs,Auckland,2,19,25,9.5,65.87301587,0,0,0
+KJ McClure,Canterbury,1,5,3,5,166.6666667,0,0,0
+LJ Carter,Canterbury,8,245,188,30.625,122.3722011,0,1,0
+MG Hughes,Central Districts,2,17,13,8.5,135.7142857,0,0,0
+BS Smith,Central Districts,6,256,180,42.66666667,149.3444791,0,2,0
+BL Wiggins,Central Districts,1,45,32,45,140.625,0,0,0
+JA Clarkson,Central Districts,6,259,131,43.16666667,183.3333333,0,3,0
+TC Bruce,Central Districts,6,125,87,20.83333333,126.3869849,0,1,0
+JDS Neesham,Wellington,46,785,565,17.06521739,127.5823852,0,2,4
+NG Smith,Wellington,5,24,27,4.8,60.41666667,0,0,0
+JD Gibson,Wellington,1,21,15,21,140,0,0,0
+OR Newton,Wellington,2,3,5,1.5,37.5,0,0,1
+BV Sears,Wellington,3,5,6,1.666666667,66.66666667,0,0,1
+JA Raval,Northern Districts,8,164,151,20.5,99.73346816,0,1,0
+TL Seifert,Northern Districts,24,634,559,26.41666667,92.95032667,1,3,3
+JF Carter,Northern Districts,5,86,84,17.2,81.03896104,0,0,1
+MJ Santner,Northern Districts,28,491,411,17.53571429,94.92596572,0,3,2
+HR Cooper,Northern Districts,5,58,56,11.6,95.52380952,0,0,0
+A Verma,Northern Districts,2,22,24,11,97.77777778,0,0,0
+SC Kuggeleijn,Northern Districts,5,41,21,8.2,149.0909091,0,0,1
+D Cleaver,Central Districts,11,292,245,26.54545455,105.6996855,0,1,0
+MTMMJ Ave,Central Districts,6,274,215,45.66666667,131.9148382,0,3,0
+JR Lennox,Central Districts,1,6,9,6,66.66666667,0,0,0
+SHA Rance,Central Districts,2,12,12,6,88.88888889,0,0,0
+DN Phillips,Otago,3,100,84,33.33333333,107.7313381,0,1,0
+MW Chu,Otago,2,15,18,7.5,82.5,0,0,0
+AW McKenzie,Otago,3,15,21,5,61.53846154,0,0,0
+JM Gibson,Otago,4,45,34,11.25,102.5252525,0,0,0
+JA Duffy,Otago,5,7,13,1.4,56.66666667,0,0,2
+PF Younghusband,Wellington,3,7,11,2.333333333,55.55555556,0,0,0
+HK Bennett,Wellington,1,4,4,4,100,0,0,0
+KD Clarke,Northern Districts,6,179,125,29.83333333,150.8809353,0,1,0
+AF Milne,Central Districts,5,41,34,8.2,96.66666667,0,0,1
+MD Rae,Otago,3,12,10,4,116.6666667,0,0,1
+Sharjeel Khan,Karachi Kings,10,231,183,23.1,108.9207309,0,1,1
+TA Lammonby,Karachi Kings,33,628,1054,19.03030303,88.09859288,0,2,2
+L Gregory,Karachi Kings,39,653,829,16.74358974,98.58711344,0,4,3
+Aamer Yamin,Karachi Kings,5,56,40,11.2,125.6666667,0,0,0
+Shan Masood,Multan Sultans,58,2491,2519,42.94827586,103.5056996,3,17,3
+Sohaib Maqsood,Multan Sultans,7,139,130,19.85714286,108.8092846,0,0,0
+Ahsan Ali,Quetta Gladiators,8,250,187,31.25,112.7814204,0,3,0
+WCF Smeed,Quetta Gladiators,30,826,552,27.53333333,110.3517907,1,5,2
+Mohammad Nawaz (3),Quetta Gladiators,33,445,415,13.48484848,99.35659035,0,0,2
+T Kohler-Cadmore,Peshawar Zalmi,30,819,962,27.3,85.79522693,1,6,3
+Yasir Khan,Peshawar Zalmi,4,87,57,21.75,154.5138889,0,0,0
+Haider Ali,Peshawar Zalmi,20,245,215,12.25,112.27442,0,0,2
+Shoaib Malik,Peshawar Zalmi,19,548,427,28.84210526,116.8988961,0,3,1
+Hussain Talat,Peshawar Zalmi,8,177,143,22.125,108.0536741,0,2,0
+SE Rutherford,Peshawar Zalmi,19,344,301,18.10526316,115.7578752,0,2,2
+Kamran Ghulam,Lahore Qalandars,13,299,264,23,96.78706251,0,1,1
+Mohammad Hafeez,Lahore Qalandars,13,323,253,24.84615385,116.7930899,0,1,1
+BR Dunk,Lahore Qalandars,1,9,12,9,75,0,0,0
+D Wiese,Lahore Qalandars,41,784,625,19.12195122,125.0415508,0,3,6
+Mohammad Taha,Karachi Kings,2,6,12,3,30,0,0,1
+Imad Wasim,Karachi Kings,27,388,335,14.37037037,108.498842,0,1,3
+Mohammad Ilyas,Karachi Kings,1,7,10,7,70,0,0,0
+Sarfraz Ahmed,Quetta Gladiators,8,238,293,29.75,104.0137048,0,2,0
+Wahab Riaz,Peshawar Zalmi,14,52,60,3.714285714,75.04676871,0,0,2
+Rahmanullah Gurbaz,Islamabad United,50,1312,1142,26.24,107.5342357,2,8,3
+Sahibzada Farhan,Karachi Kings,5,51,50,10.2,85.96825397,0,0,1
+Umaid Asif,Karachi Kings,3,12,14,4,55.55555556,0,0,1
+SR Patel,Lahore Qalandars,20,310,276,15.5,92.13815871,0,1,2
+Ashir Qureshi,Quetta Gladiators,1,0,1,0,0,0,0,1
+JP Faulkner,Quetta Gladiators,3,49,28,16.33333333,150,0,0,0
+Sohail Tanvir,Quetta Gladiators,5,27,32,5.4,69,0,0,1
+Azam Khan,Islamabad United,26,583,479,22.42307692,103.0379596,0,5,1
+Mubasir Khan,Islamabad United,3,36,35,12,104.1148325,0,0,0
+M de Lange,Islamabad United,6,23,32,3.833333333,49.55808081,0,0,2
+Hazratullah,Peshawar Zalmi,21,475,413,22.61904762,100.6287562,0,2,2
+Kamran Akmal,Peshawar Zalmi,6,152,113,25.33333333,122.8418803,0,1,0
+Arish Ali,Peshawar Zalmi,1,0,1,0,0,0,0,1
+Salman Irshad,Peshawar Zalmi,2,3,6,1.5,50,0,0,0
+Abdul Bangalzai,Quetta Gladiators,1,14,14,14,100,0,0,0
+Shahid Afridi,Quetta Gladiators,1,4,9,4,44.44444444,0,0,0
+Mohammad Umar,Peshawar Zalmi,2,3,10,1.5,18.75,0,0,1
+Usman Shinwari,Karachi Kings,3,15,19,5,92.92929293,0,0,0
+Anwar Ali,Multan Sultans,3,7,12,2.333333333,68.51851852,0,0,0
+Abbas Afridi,Multan Sultans,2,6,6,3,100,0,0,0
+Imran Tahir,Multan Sultans,6,36,33,6,183.531746,0,0,0
+B Muzarabani,Multan Sultans,11,26,67,2.363636364,23.94298718,0,0,5
+Shahnawaz Dhani,Multan Sultans,4,26,18,6.5,118.75,0,0,1
+Muhammad Akhlaq,Islamabad United,2,2,9,1,12.5,0,0,1
+Umar Akmal,Quetta Gladiators,5,101,60,20.2,134.2384948,0,1,0
+Mohammad Haris,Peshawar Zalmi,13,280,188,21.53846154,125.7465143,0,1,1
+Amad Butt,Peshawar Zalmi,2,10,7,5,125,0,0,0
+Hassan Khan,Quetta Gladiators,2,20,22,10,94.73684211,0,0,0
+Noor Ahmad,Quetta Gladiators,10,73,56,7.3,126.4047619,0,0,1
+Qasim Akram,Karachi Kings,4,99,65,24.75,138.3333333,0,1,0
+Khurram Shahzad (2),Quetta Gladiators,1,0,2,0,0,0,0,1
+Rohail Nazir,Karachi Kings,3,47,37,15.66666667,126.7094017,0,0,0
+Danish Aziz,Islamabad United,3,36,46,12,50.22624434,0,0,1
+Muhammad Musa,Islamabad United,2,32,26,16,121.9047619,0,0,0
+Ghulam Mudassar,Quetta Gladiators,1,0,2,0,0,0,0,1
+Mohammad Irfan,Quetta Gladiators,1,0,1,0,0,0,0,1
+Mir Hamza,Karachi Kings,2,2,18,1,28.125,0,0,0
+Zaman Khan,Lahore Qalandars,2,1,5,0.5,50,0,0,1
+Sohail Akhtar,Lahore Qalandars,2,34,28,17,133.3333333,0,0,0
+Waqas Maqsood,Islamabad United,2,1,6,0.5,10,0,0,1
+Nasir Nawaz,Islamabad United,1,14,17,14,82.35294118,0,0,0
+Mohammad Huraira,Islamabad United,1,2,8,2,25,0,0,0
+Zafar Gohar,Islamabad United,20,463,662,23.15,69.5258898,0,4,2
+Aamer Azmat,Multan Sultans,3,43,35,14.33333333,114.4444444,0,0,0
+Khalid Usman,Peshawar Zalmi,1,19,11,19,172.7272727,0,0,0
+BAC Howell,Peshawar Zalmi,36,505,323,14.02777778,129.0850483,0,0,3
+WG Jacks,Islamabad United,50,1776,1583,35.52,109.7657909,3,13,5
+Zeeshan Ashraf,Lahore Qalandars,1,7,5,7,140,0,0,0
+Asif Afridi,Multan Sultans,1,1,3,1,33.33333333,0,0,0
+Rumman Raees,Multan Sultans,1,6,7,6,85.71428571,0,0,0
+T Kaitano,Zimbabwe,8,126,193,15.75,50.55148584,0,0,2
+RW Chakabva,Zimbabwe,37,643,726,17.37837838,76.36025407,1,1,6
+CR Ervine,Zimbabwe,28,517,559,18.46428571,81.98809914,0,3,2
+SC Williams,Zimbabwe,24,666,628,27.75,94.5827847,1,3,1
+W Madhevere,Zimbabwe,36,608,651,16.88888889,77.37832707,0,4,3
+Sikandar Raza,Zimbabwe,48,1550,1404,32.29166667,96.33648829,3,8,7
+RP Burl,Zimbabwe,31,476,559,15.35483871,91.57741645,0,2,1
+WP Masakadza,Zimbabwe,7,20,41,2.857142857,40.71428571,0,0,1
+TL Chatara,Zimbabwe,10,42,76,4.2,59.52731092,0,0,1
+R Ngarava,Zimbabwe,13,103,104,7.923076923,111.4010989,0,0,2
+PHKD Mendis,Sri Lanka,13,406,493,31.23076923,99.06157846,0,4,0
+N Pradeep,Sri Lanka,6,18,25,3,70.8994709,0,0,2
+RTM Mendis,Sri Lanka,9,148,288,16.44444444,60.06999464,0,0,0
+M Shumba,Zimbabwe,22,202,248,9.181818182,77.42427186,0,0,0
+Usman Ghani,Afghanistan,11,237,278,21.54545455,62.74109011,0,1,1
+Rahmat Shah,Afghanistan,12,617,901,51.41666667,67.33116895,0,6,0
+Hashmatullah Shahidi,Afghanistan,14,398,572,28.42857143,70.41330974,0,3,0
+Najibullah Zadran,Afghanistan,35,785,716,22.42857143,95.79152366,0,6,4
+Shahidullah,Afghanistan,1,1,3,1,33.33333333,0,0,0
+Gulbadin Naib,Afghanistan,8,122,136,15.25,81.24295843,0,0,0
+CN Ackermann,Netherlands,37,1164,1541,31.45945946,75.51020216,2,6,4
+BHG Gorlee,Netherlands,3,29,58,9.666666667,50.15873016,0,0,0
+Saqib Zulfiqar,Netherlands,3,33,67,11,50.13071895,0,0,0
+VJ Kingma,Netherlands,6,2,18,0.3333333333,11.11111111,0,0,4
+R Klein,Netherlands,5,23,21,4.6,107.7777778,0,0,1
+Riaz Hassan,Afghanistan,3,86,129,28.66666667,61.84371184,0,1,0
+Azmatullah Omarzai,Afghanistan,15,139,157,9.266666667,91.62912088,0,0,0
+K Lewis,Chattogram Challengers,17,210,208,12.35294118,88.11823379,0,0,2
+Sabbir Rahman,Chattogram Challengers,10,140,141,14,89.68872147,0,0,1
+Shamim Hossain,Chattogram Challengers,10,164,144,16.4,107.8732828,0,1,1
+Naeem Islam,Chattogram Challengers,8,74,66,9.25,98.33333333,0,0,2
+Mukidul Islam,Chattogram Challengers,1,4,2,4,200,0,0,0
+Shykat Ali,Fortune Barishal,4,112,96,28,89.13828689,0,1,1
+Towhid Hridoy,Fortune Barishal,10,136,141,13.6,82.21041725,0,0,1
+Irfan Sukkur,Fortune Barishal,4,29,26,7.25,114.1025641,0,0,0
+Salman Hossain,Fortune Barishal,1,0,3,0,0,0,0,1
+DJ Bravo,Fortune Barishal,32,267,248,8.34375,93.54764197,0,0,4
+Ziaur Rahman,Fortune Barishal,6,55,48,9.166666667,89.60622711,0,0,1
+Mohammad Shahzad,Minister Group Dhaka,7,127,109,18.14285714,99.73922902,0,1,0
+AD Russell,Minister Group Dhaka,36,764,499,21.22222222,133.7840937,0,3,3
+Jahurul Islam,Minister Group Dhaka,6,58,78,9.666666667,56.26984127,0,0,1
+Shuvagata Hom,Minister Group Dhaka,8,142,118,17.75,142.5223214,0,0,0
+I Udana,Minister Group Dhaka,8,31,21,3.875,134.7222222,0,0,0
+Tanzid Hasan,Khulna Tigers,2,11,14,5.5,70,0,0,0
+ADS Fletcher,Khulna Tigers,28,905,733,32.32142857,104.7895787,2,4,2
+Rony Talukdar,Khulna Tigers,6,105,98,17.5,81.20791246,0,1,1
+NLTC Perera,Khulna Tigers,15,221,153,14.73333333,131.4698213,0,0,1
+Mahedi Hasan,Khulna Tigers,16,217,187,13.5625,125.4060935,0,1,2
+Anamul Haque,Sylhet Sunrisers,23,595,574,25.86956522,95.91940901,0,3,0
+CA Ingram,Sylhet Sunrisers,30,1288,1465,42.93333333,93.2949035,3,7,1
+Mohammad Mithun,Sylhet Sunrisers,7,128,117,18.28571429,87.6212938,0,1,0
+RS Bopara,Sylhet Sunrisers,35,747,584,21.34285714,107.0274175,0,2,1
+Mosaddek Hossain,Sylhet Sunrisers,26,362,299,13.92307692,96.93614617,0,0,5
+Alok Kapali,Sylhet Sunrisers,2,8,21,4,50,0,0,0
+Sohag Gazi,Sylhet Sunrisers,1,12,20,12,60,0,0,0
+Muktar Ali,Sylhet Sunrisers,3,13,16,4.333333333,65.87301587,0,0,1
+KOK Williams,Sylhet Sunrisers,3,10,21,3.333333333,28.33333333,0,0,1
+CS Delport,Comilla Victorians,9,165,115,18.33333333,124.3690609,0,1,0
+F du Plessis,Comilla Victorians,48,1352,977,28.16666667,111.8297034,2,7,4
+Imrul Kayes,Comilla Victorians,11,196,169,17.81818182,112.1186422,0,1,0
+Nahidul Islam,Comilla Victorians,5,18,24,3.6,44,0,0,2
+Ariful Haque,Comilla Victorians,4,16,18,4,50,0,0,2
+Karim Janat,Comilla Victorians,12,119,116,9.916666667,79.91446602,0,0,2
+Mahidul Islam Ankon,Comilla Victorians,5,50,39,10,125.5064935,0,0,0
+Shohidul Islam,Comilla Victorians,5,7,19,1.4,29.16666667,0,0,2
+Tanvir Islam,Comilla Victorians,4,34,31,8.5,82.58928571,0,0,1
+Nasum Ahmed,Chattogram Challengers,11,52,51,4.727272727,91.91919192,0,0,2
+Rubel Hossain,Minister Group Dhaka,3,24,12,8,216.6666667,0,0,0
+CH Gayle,Fortune Barishal,10,241,231,24.1,98.61569079,0,1,0
+Farhad Reza,Khulna Tigers,2,6,5,3,75,0,0,1
+Suhrawadi Shuvo,Khulna Tigers,1,1,1,1,100,0,0,0
+Kamrul Islam Rabbi,Khulna Tigers,1,14,7,14,200,0,0,0
+Naveen-ul-Haq,Khulna Tigers,11,45,56,4.090909091,74.63369963,0,0,2
+Mashrafe Mortaza,Minister Group Dhaka,3,4,12,1.333333333,33.33333333,0,0,1
+LMP Simmons,Sylhet Sunrisers,7,215,174,30.71428571,105.4811592,1,0,0
+JB Lintott,Fortune Barishal,12,108,102,9,105.4761905,0,0,0
+Nayeem Hasan,Fortune Barishal,2,9,54,4.5,8.490566038,0,0,1
+Rejaur Rahman,Chattogram Challengers,2,13,16,6.5,81.25,0,0,0
+Soumya Sarkar,Khulna Tigers,15,240,219,16,83.97214691,0,1,2
+S Prasanna,Khulna Tigers,8,53,48,6.625,96.19047619,0,0,1
+Alauddin Babu,Sylhet Sunrisers,6,62,40,10.33333333,127.6958689,0,0,0
+Mehedi Hasan Rana,Fortune Barishal,4,6,8,1.5,56.25,0,0,2
+Sharifullah,Khulna Tigers,1,1,2,1,50,0,0,0
+Mrittunjoy Chowdhury,Chattogram Challengers,4,38,33,9.5,112.5,0,0,0
+Imran Uzzaman,Minister Group Dhaka,3,29,29,9.666666667,97.61904762,0,0,0
+Munim Shahriar,Fortune Barishal,11,212,173,19.27272727,92.87639553,0,1,1
+CAK Walton,Chattogram Challengers,5,142,91,28.4,102.0004392,0,1,1
+Mohammad Akbar Ali,Chattogram Challengers,5,56,40,11.2,121,0,0,1
+Nadif Chowdhury,Sylhet Sunrisers,1,6,1,6,600,0,0,0
+SP Narine,Comilla Victorians,41,588,409,14.34146341,124.2997333,0,4,6
+Sumon Khan,Comilla Victorians,1,8,12,8,66.66666667,0,0,0
+Zakir Hasan,Chattogram Challengers,6,73,112,12.16666667,67.95235638,0,0,1
+Mizanur Rahman,Sylhet Sunrisers,2,0,4,0,0,0,0,2
+Aks Swadhin,Sylhet Sunrisers,1,1,1,1,100,0,0,0
+Jaker Ali,Khulna Tigers,1,5,5,5,100,0,0,0
+Ruyel Miah,Khulna Tigers,2,8,13,4,40,0,0,1
+Shamsur Rahman,Minister Group Dhaka,2,28,22,14,108.0357143,0,0,0
+Abu Hider,Comilla Victorians,3,26,35,8.666666667,83.73015873,0,0,0
+Nabil Samad,Khulna Tigers,1,2,3,2,66.66666667,0,0,0
+Parvez Hossain Emon,Comilla Victorians,2,9,13,4.5,66.66666667,0,0,0
+BGF Green,Somerset,21,403,372,19.19047619,124.4113452,1,0,1
+TB Abell,Somerset,31,1151,1713,37.12903226,83.27287631,4,4,1
+JC Hildreth,Somerset,9,243,440,27,42.90656287,0,3,1
+LP Goldsworthy,Somerset,21,618,1189,29.42857143,55.64782151,2,2,1
+SM Davies,Somerset,13,165,376,12.69230769,39.81949221,0,0,2
+RE van der Merwe,Somerset,19,245,250,12.89473684,91.99326227,0,1,5
+Kasey Aldridge,Somerset,12,81,248,6.75,31.30075943,0,0,1
+EO Leonard,Somerset,1,0,2,0,0,0,0,1
+JJ Weatherley,Hampshire,23,599,754,26.04347826,96.65654745,1,0,1
+IG Holland,Hampshire,25,615,1133,24.6,59.59646339,0,3,3
+NRT Gubbins,Hampshire,24,844,1366,35.16666667,54.84819014,2,4,2
+BC Brown,Hampshire,22,726,1154,33,55.27449496,1,4,1
+FS Organ,Hampshire,22,614,1208,27.90909091,59.3486538,2,2,1
+KHD Barker,Hampshire,17,526,658,30.94117647,83.41256802,0,4,0
+JK Fuller,Hampshire,36,686,643,19.05555556,104.5356912,0,1,3
+KJ Abbott,Hampshire,12,178,237,14.83333333,51.78113553,0,1,4
+Mohammad Abbas,Hampshire,9,13,55,1.444444444,29.53703704,0,0,5
+BG Charlesworth,Gloucestershire,8,289,508,36.125,57.09610556,0,2,0
+CDJ Dent,Gloucestershire,19,724,1247,38.10526316,71.46874917,3,2,2
+James Bracey,Gloucestershire,33,941,1164,28.51515152,74.12667687,2,5,4
+GL van Buuren,Gloucestershire,11,198,370,18,45.78931729,0,1,1
+Miles Hammond,Gloucestershire,33,630,986,19.09090909,91.07818559,0,2,3
+RF Higgins,Gloucestershire,25,585,850,23.4,79.75407002,0,3,1
+TC Lace,Gloucestershire,4,12,82,3,9.272727273,0,0,2
+MD Taylor,Gloucestershire,6,63,156,10.5,95.83827329,0,0,0
+AS Dale,Gloucestershire,8,54,87,6.75,37.72534014,0,0,3
+R Vasconcelos,Northamptonshire,21,672,948,32,57.81920496,3,2,3
+EN Gay,Northamptonshire,23,965,1535,41.95652174,70.35945681,3,3,0
+BJ Curran,Northamptonshire,15,266,239,17.73333333,82.60213858,0,2,1
+SA Zaib,Northamptonshire,25,654,687,26.16,93.96242125,1,4,2
+RI Keogh,Northamptonshire,28,901,1183,32.17857143,87.68091238,3,3,1
+JJ Cobb,Northamptonshire,26,589,623,22.65384615,91.90792251,0,6,2
+LD McManus,Northamptonshire,25,663,935,26.52,94.44155263,1,5,1
+TAI Taylor,Northamptonshire,20,270,431,13.5,61.04298353,0,2,3
+GK Berg,Northamptonshire,15,324,463,21.6,77.80483062,0,2,1
+NL Buck,Northamptonshire,6,59,78,9.833333333,144.4892473,0,0,1
+BW Sanderson,Northamptonshire,17,184,321,10.82352941,58.84295443,0,0,2
+RS Patel,Surrey,22,684,1022,31.09090909,63.3277915,1,5,2
+HM Amla,Surrey,14,548,1135,39.14285714,41.23384684,2,2,0
+JL Smith,Surrey,16,457,758,28.5625,81.49685526,1,1,0
+J Clark,Surrey,14,483,767,34.5,62.78051866,1,4,0
+JPA Taylor,Surrey,3,40,107,13.33333333,29.15525114,0,0,1
+RM Yates,Warwickshire,24,719,938,29.95833333,77.9150256,2,4,2
+DP Sibley,Warwickshire,21,1008,2052,48,46.71721217,5,4,1
+WMH Rhodes,Warwickshire,22,790,1295,35.90909091,60.73089008,1,3,0
+DR Briggs,Warwickshire,17,233,451,13.70588235,61.68911711,0,1,2
+SR Hain,Warwickshire,27,1211,2170,44.85185185,84.53337434,3,6,1
+MJ Lamb,Warwickshire,15,554,875,36.93333333,69.14183702,2,1,1
+DR Mousley,Warwickshire,10,256,306,25.6,95.68718015,0,2,1
+MGK Burgess,Warwickshire,17,830,999,48.82352941,71.29649852,2,4,3
+CN Miles,Warwickshire,12,88,204,7.333333333,51.43009187,0,0,0
+HJH Brookes,Warwickshire,16,100,233,6.25,54.96563066,0,0,3
+OJ Hannon-Dalby,Warwickshire,15,79,357,5.266666667,30.07836222,0,0,4
+DL Lloyd,Glamorgan,30,939,1118,31.3,82.2703619,1,6,1
+AG Salter,Glamorgan,18,315,572,17.5,60.97546053,0,0,1
+SA Northeast,Glamorgan,34,1631,1857,47.97058824,75.52647335,2,9,4
+KS Carlson,Glamorgan,30,663,863,22.1,73.92396947,0,4,3
+CB Cooke,Glamorgan,25,809,1226,32.36,65.82222364,2,4,3
+Callum Taylor,Glamorgan,3,34,77,11.33333333,49.15458937,0,0,0
+WJ Weighell,Glamorgan,12,199,228,16.58333333,122.2899244,0,0,2
+JAR Harris,Glamorgan,13,143,303,11,56.82118878,0,0,0
+T van der Gugten,Glamorgan,9,175,381,19.44444444,37.89912056,0,1,1
+MG Hogan,Glamorgan,13,77,120,5.923076923,64.02391726,0,0,2
+MA Jones,Durham,33,1217,1745,36.87878788,87.62434022,2,4,1
+SR Dickson,Durham,16,546,976,34.125,61.28992698,2,1,0
+SG Borthwick,Durham,27,799,1252,29.59259259,68.74892574,0,6,0
+DG Bedingham,Durham,19,699,896,36.78947368,83.19257293,2,2,0
+EJH Eckersley,Durham,21,346,470,16.47619048,97.64863469,0,1,4
+P Coughlin,Durham,22,484,450,22,98.90807787,1,1,3
+BA Raine,Durham,28,465,672,16.60714286,86.50208112,1,2,2
+L Trevaskis,Durham,31,591,852,19.06451613,86.41812177,0,4,4
+C Rushworth,Durham,13,90,114,6.923076923,80.44566545,0,0,1
+EJ Pollock,Worcestershire,28,540,689,19.28571429,83.65463429,0,3,4
+JD Libby,Worcestershire,31,867,1159,27.96774194,77.59880964,2,2,2
+JA Haynes,Worcestershire,23,771,1070,33.52173913,92.03877509,2,3,0
+BL D'Oliveira,Worcestershire,29,1056,1839,36.4137931,84.95245514,3,4,1
+EG Barnard,Worcestershire,34,1162,1677,34.17647059,79.49344831,2,7,0
+OB Cox,Worcestershire,21,469,476,22.33333333,108.2511289,0,4,1
+J Leach,Worcestershire,13,397,513,30.53846154,84.11328254,0,4,1
+JO Baker,Worcestershire,16,164,339,10.25,42.09555612,0,0,2
+CAJ Morris,Worcestershire,10,53,172,5.3,59.75629447,0,0,0
+DY Pennington,Worcestershire,20,212,293,10.6,94.36283633,0,0,1
+Hassan Azad,Leicestershire,11,210,593,19.09090909,37.69493023,0,2,1
+ST Evans,Leicestershire,10,237,624,23.7,39.37205521,0,2,0
+GH Rhodes,Leicestershire,3,8,52,2.666666667,10.43771044,0,0,1
+LJ Hill,Leicestershire,28,702,834,25.07142857,84.8250264,1,4,2
+HJ Swindells,Leicestershire,23,410,810,17.82608696,37.09635357,0,4,5
+BWM Mike,Leicestershire,21,446,521,21.23809524,101.5229466,0,2,3
+E Barnes,Leicestershire,13,176,424,13.53846154,38.388871,0,0,1
+CF Parkinson,Leicestershire,20,192,471,9.6,51.2400468,0,0,2
+CJC Wright,Leicestershire,16,218,363,13.625,66.17065855,0,0,1
+BE Hendricks,Leicestershire,16,168,316,10.5,76.45872393,0,0,1
+MD Stoneman,Middlesex,22,821,1370,37.31818182,64.55631414,2,3,1
+JM De Caires,Middlesex,4,113,217,28.25,56.81881083,0,1,0
+SS Eskinazi,Middlesex,30,1479,1624,49.3,107.0484244,6,4,0
+RG White,Middlesex,6,132,410,22,27.78861081,0,1,0
+MDE Holden,Middlesex,35,962,1315,27.48571429,86.99611052,0,6,1
+JLB Davies,Middlesex,13,241,296,18.53846154,83.41792111,0,0,2
+JA Simpson,Middlesex,32,1169,1975,36.53125,78.0406577,3,6,1
+TS Roland-Jones,Middlesex,17,332,507,19.52941176,52.75523297,0,3,1
+TG Helm,Middlesex,16,280,395,17.5,95.38297141,0,2,2
+ER Bamber,Middlesex,11,88,231,8,31.89822819,0,0,2
+TJ Murtagh,Middlesex,10,43,115,4.3,51.88636364,0,0,1
+BA Godleman,Derbyshire,17,426,929,25.05882353,41.92224952,1,1,1
+BD Guest,Derbyshire,34,936,1649,27.52941176,66.52784096,2,5,2
+WL Madsen,Derbyshire,38,1407,1816,37.02631579,95.97411057,3,9,4
+JL du Plooy,Derbyshire,39,1076,1428,27.58974359,92.70289911,1,6,3
+LM Reece,Derbyshire,34,954,1389,28.05882353,82.3015655,3,4,1
+Anuj Dal,Derbyshire,19,881,1512,46.36842105,65.88712985,2,5,0
+AT Thomson,Derbyshire,15,223,401,14.86666667,65.17415463,0,2,5
+S Conners,Derbyshire,19,48,226,2.526315789,28.17563285,0,0,5
+RN Sidebottom,Derbyshire,4,32,84,8,16.98179272,0,0,2
+AGH Orr,Sussex,29,1101,1462,37.96551724,81.04761617,1,6,2
+TJ Haines,Sussex,14,484,653,34.57142857,78.4542391,1,3,1
+TP Alsop,Sussex,30,1286,1688,42.86666667,83.11509995,4,4,1
+OJ Carter,Sussex,13,450,816,34.61538462,48.61265619,1,3,2
+TGR Clark,Sussex,22,768,1411,34.90909091,54.5720027,3,3,0
+D Ibrahim,Sussex,12,190,322,15.83333333,59.74264706,0,1,0
+DMW Rawlins,Sussex,30,686,790,22.86666667,104.6576283,0,3,0
+AC Lenham,Sussex,11,151,350,13.72727273,45.72522175,0,0,1
+ST Finn,Sussex,6,21,79,3.5,18.48484848,0,0,2
+HT Crocombe,Sussex,14,119,222,8.5,74.07883089,0,0,1
+JA Atkins,Sussex,3,11,37,3.666666667,22.35294118,0,0,1
+BT Slater,Nottinghamshire,23,908,1424,39.47826087,66.93788248,2,4,0
+LW James,Nottinghamshire,24,935,1530,38.95833333,64.47289295,3,3,1
+SJ Mullaney,Nottinghamshire,26,966,1254,37.15384615,66.43381655,2,5,4
+TJ Moores,Nottinghamshire,28,559,722,19.96428571,95.43599794,0,1,3
+LA Patterson-White,Nottinghamshire,18,439,526,24.38888889,76.5858169,0,3,3
+JDM Evison,Nottinghamshire,15,411,631,27.4,49.76940646,2,1,3
+BA Hutton,Nottinghamshire,13,156,225,12,66.53546923,0,0,2
+LJ Fletcher,Nottinghamshire,10,106,148,10.6,61.72570948,0,1,1
+NLJ Browne,Essex,17,612,1307,36,46.82716227,2,1,2
+AN Cook,Essex,14,692,1668,49.42857143,38.29326661,3,2,0
+T Westley,Essex,30,1016,1704,33.86666667,68.51493792,2,8,2
+JA Porter,Essex,10,23,67,2.3,24.91013072,0,0,4
+MJJ Critchley,Essex,28,673,860,24.03571429,86.73043203,1,3,1
+AM Rossington,Essex,35,746,707,21.31428571,103.7872594,1,2,3
+AJA Wheater,Essex,4,55,136,13.75,30.35714286,0,0,1
+SJ Cook,Essex,15,154,398,10.26666667,45.11650368,0,0,2
+BG Compton,Kent,22,1017,2102,46.22727273,47.66865265,3,7,2
+DJ Bell-Drummond,Kent,26,798,1328,30.69230769,64.76703179,3,2,4
+TS Muyeye,Kent,14,314,453,22.42857143,75.54547927,0,2,2
+JM Cox,Kent,39,1389,1872,35.61538462,92.65565877,2,7,1
+OG Robinson,Kent,33,993,1054,30.09090909,86.14171188,1,7,2
+DI Stevens,Kent,12,370,387,30.83333333,97.01729536,0,2,0
+ME Milnes,Kent,17,238,445,14,74.00689259,0,1,2
+NN Gilchrist,Kent,11,80,152,7.272727273,35.02197662,0,0,4
+MR Quinn,Kent,13,54,105,4.153846154,57.62515263,0,0,2
+GP Balderson,Lancashire,17,379,624,22.29411765,47.51474137,1,1,1
+LWP Wells,Lancashire,33,1036,1520,31.39393939,79.29773978,1,6,2
+JJ Bohannon,Lancashire,25,834,1627,33.36,51.35638262,1,3,2
+SJ Croft,Lancashire,39,1515,2203,38.84615385,85.19784206,3,8,4
+DJ Vilas,Lancashire,40,1249,1253,31.225,102.501471,3,5,1
+L Wood,Lancashire,21,232,419,11.04761905,69.08771321,0,1,2
+DJ Lamb,Lancashire,21,258,313,12.28571429,79.78998253,0,1,2
+TE Bailey,Lancashire,16,212,355,13.25,44.99690354,0,1,4
+Hamidullah Qadri,Kent,10,150,207,15,74.24938118,0,1,0
+D Paterson,Nottinghamshire,21,106,130,5.047619048,90.88744589,0,0,4
+OJ Gibson,Durham,11,28,88,2.545454545,53.47911892,0,0,4
+LPJ Kimber,Leicestershire,23,676,860,29.39130435,80.67492982,2,4,1
+NR Welch,Leicestershire,15,368,383,24.53333333,79.39749266,1,0,1
+WS Davis,Leicestershire,7,57,109,8.142857143,46.77759191,0,0,1
+N Potts,Derbyshire,9,45,90,5,104.2143659,0,0,1
+JM Coles,Sussex,8,152,302,19,46.89710681,0,2,1
+J Shaw,Gloucestershire,8,56,78,7,77.2085084,0,0,1
+A Lyth,Yorkshire,43,1404,1682,32.65116279,103.0495546,2,9,4
+GCH Hill,Yorkshire,23,551,1014,23.95652174,53.50870317,2,0,4
+JH Wharton,Yorkshire,3,7,56,2.333333333,18.00356506,0,0,1
+HG Duke,Yorkshire,16,525,1004,32.8125,49.86306997,1,2,0
+DM Bess,Yorkshire,24,414,759,17.25,54.21384189,0,3,3
+SA Patterson,Yorkshire,13,101,270,7.769230769,29.24628202,0,0,3
+GS Drissell,Durham,7,149,240,21.28571429,67.18419365,0,0,0
+G Stewart,Sussex,26,528,442,20.30769231,103.6546716,0,4,4
+GD Burrows,Sussex,2,0,7,0,0,0,0,2
+MH McKiernan,Derbyshire,19,367,480,19.31578947,103.0617412,1,1,1
+SD Robson,Middlesex,21,721,1110,34.33333333,57.22562263,2,5,2
+MK Andersson,Middlesex,22,417,500,18.95454545,92.27832784,0,2,2
+TN Walallawita,Middlesex,10,39,49,3.9,80.66666667,0,0,2
+AL Davies,Warwickshire,35,576,717,16.45714286,89.28100064,0,1,3
+LC Norwell,Warwickshire,7,37,81,5.285714286,52.75974026,0,0,1
+JH Davey,Somerset,13,210,356,16.15384615,108.58409,0,0,0
+JA Brooks,Somerset,15,241,321,16.06666667,68.01531655,0,0,1
+JD Warner,Gloucestershire,3,17,84,5.666666667,7.87037037,0,0,2
+ML Revis,Yorkshire,23,330,605,14.34782609,79.55324234,0,2,2
+SC Kerrigan,Northamptonshire,6,46,170,7.666666667,26.76443985,0,0,2
+LA Procter,Northamptonshire,13,643,1600,49.46153846,34.37691861,2,3,1
+AW Finch,Worcestershire,8,101,216,12.625,76.82934199,0,0,0
+PI Walter,Essex,28,783,1002,27.96428571,103.0473095,1,4,3
+FIN Khushi,Essex,19,694,826,36.52631579,74.99757818,3,1,1
+DJ Worrall,Surrey,10,120,151,12,96.20747113,0,0,1
+RP Jones,Lancashire,13,366,522,28.15384615,56.22165588,0,3,2
+JA Leaning,Kent,24,736,1291,30.66666667,69.46411581,1,5,3
+GF Linde,Kent,33,547,539,16.57575758,99.2386621,0,0,2
+TN Cullen,Glamorgan,7,176,277,25.14285714,54.56339442,0,1,0
+MET Salisbury,Durham,3,14,63,4.666666667,23.16370993,0,0,0
+MS Crane,Sussex,6,45,100,7.5,65.47498949,0,0,1
+AP Beard,Sussex,12,144,191,12,77.5938475,0,0,1
+LBK Hollman,Middlesex,31,742,1060,23.93548387,87.33736065,0,4,1
+CG Benjamin,Warwickshire,27,584,623,21.62962963,97.70096538,0,3,2
+KK Jennings,Lancashire,32,1785,2527,55.78125,84.26223931,6,4,1
+AHT Donald,Hampshire,22,496,581,22.54545455,70.94362579,0,4,3
+GFB Scott,Gloucestershire,6,103,144,17.16666667,66.08489305,0,0,1
+DC Goodman,Gloucestershire,1,18,61,18,29.50819672,0,0,0
+Mohammad Amir,Gloucestershire,4,1,6,0.25,12.5,0,0,3
+AAP Atkinson,Surrey,7,115,185,16.42857143,35.33527697,0,1,3
+RK Patel,Leicestershire,31,612,1002,19.74193548,67.30825191,0,4,4
+S Steel,Leicestershire,11,265,266,24.09090909,97.28554563,0,3,1
+AW Gorvin,Glamorgan,4,31,86,7.75,20.10964912,0,0,2
+SF Hunt,Sussex,10,23,74,2.3,23.16666667,0,0,6
+BC Cullen,Middlesex,1,1,6,1,16.66666667,0,0,0
+BJ Gibbon,Worcestershire,8,48,146,6,41.41882184,0,0,2
+TW Loten,Yorkshire,6,96,186,16,56.066758,0,0,0
+WT Root,Glamorgan,16,414,675,25.875,49.74419837,1,2,1
+JG Bethell,Gloucestershire,13,136,227,10.46153846,76.03468804,0,0,1
+ZJ Chappell,Gloucestershire,11,91,150,8.272727273,66.26926735,0,0,1
+BTJ Wheal,Gloucestershire,6,17,89,2.833333333,20.23809524,0,0,2
+WAR Fraine,Yorkshire,23,539,696,23.43478261,76.63112095,1,2,3
+AL Hughes,Derbyshire,10,140,168,14,110.6162206,0,0,0
+LJ Hurt,Derbyshire,3,34,66,11.33333333,58.7037037,0,0,0
+Rehan Ahmed,Leicestershire,18,158,189,8.777777778,75.73429657,0,0,3
+MJ Waite,Worcestershire,22,338,488,15.36363636,68.82982782,0,0,3
+BBA Geddes,Surrey,11,366,608,33.27272727,60.40375776,1,2,0
+CT Steel,Surrey,12,289,540,24.08333333,54.79805498,0,2,2
+EJ Byrom,Glamorgan,15,430,711,28.66666667,63.97022602,1,2,3
+JJ Bushnell,Durham,9,241,436,26.77777778,70.38879038,0,1,0
+TR Cornall,Worcestershire,12,334,528,27.83333333,47.00050652,0,3,2
+GH Roderick,Worcestershire,19,600,1195,31.57894737,56.9360974,2,1,3
+WSA Williams,Lancashire,9,47,162,5.222222222,33.3704567,0,0,2
+OJ Price,Gloucestershire,16,407,679,25.4375,63.10322712,0,3,1
+TJ Price,Gloucestershire,13,229,301,17.61538462,60.1125936,0,0,2
+MRJ Watt,Derbyshire,25,305,375,12.2,75.25147975,0,1,4
+THS Pettman,Derbyshire,4,8,27,2,17.23484848,0,0,2
+TE Lawes,Surrey,14,404,522,28.85714286,69.14906937,0,4,1
+JL Denly,Kent,25,847,974,33.88,84.98550808,1,5,2
+Jaskaran Singh (2),Kent,1,4,10,4,40,0,0,0
+MS Pepper,Essex,21,521,363,24.80952381,125.272632,0,3,2
+CJ White,Northamptonshire,10,56,64,5.6,84.21672772,0,0,1
+DA Payne,Gloucestershire,12,22,51,1.833333333,37.35380117,0,0,6
+JP Morley,Lancashire,3,2,17,0.6666666667,11.42857143,0,0,1
+GA Bartlett,Somerset,16,391,625,24.4375,64.25438297,0,1,0
+JEK Rew,Somerset,15,579,1046,38.6,48.57968028,2,2,2
+A Virdi,Somerset,6,43,75,7.166666667,68.23559481,0,0,0
+GA Garrett,Warwickshire,3,31,42,10.33333333,53.96825397,0,0,1
+BW Aitchison,Derbyshire,12,106,290,8.833333333,55.14882578,0,0,1
+TSS Mackintosh,Durham,11,192,260,17.45454545,63.61019821,0,1,3
+SJC McAlindon,Durham,8,149,244,18.625,69.79091439,0,1,0
+W Luxton,Yorkshire,6,161,156,26.83333333,94.33546777,0,1,1
+JA Tattersall,Yorkshire,18,594,957,33,63.39861271,1,1,1
+ST Gabriel,Yorkshire,2,2,11,1,10,0,0,1
+C McKerr,Surrey,14,73,189,5.214285714,66.57244838,0,0,3
+M Montgomery,Nottinghamshire,11,614,952,55.81818182,67.26741802,1,5,1
+JW Shutt,Yorkshire,3,6,48,2,11.79467085,0,0,0
+NA Saini,Kent,7,25,39,3.571428571,65.14041514,0,0,2
+HRC Came,Derbyshire,17,399,773,23.47058824,83.33065787,0,2,2
+GLS Scrimshaw,Derbyshire,6,22,48,3.666666667,66.67032164,0,0,1
+A Karvelas,Sussex,6,73,108,12.16666667,73.9260527,0,0,0
+BJ Currie,Sussex,6,12,40,2,35.26455026,0,0,2
+PJ Malan,Middlesex,23,993,1137,43.17391304,91.38581016,1,11,2
+RI Walker,Leicestershire,10,136,233,13.6,66.66695527,0,1,1
+GID Lavelle,Lancashire,8,202,202,25.25,107.1313697,0,2,1
+Kashif Ali,Worcestershire,11,398,416,36.18181818,92.14699152,1,2,0
+BO Coad,Yorkshire,9,102,207,11.33333333,48.67028683,0,0,1
+JJG Sales,Northamptonshire,10,214,419,21.4,73.64911026,0,1,0
+FJ Hudson-Prentice,Sussex,8,175,192,21.875,78.96616838,0,1,0
+MG Finan,Leicestershire,3,17,23,5.666666667,84.84848485,0,0,0
+Shubman Gill,Glamorgan,39,1650,1583,42.30769231,96.44305952,3,10,2
+JMR Taylor,Gloucestershire,23,733,682,31.86956522,118.7137133,0,5,0
+TW Hartley,Lancashire,15,117,137,7.8,116.8009481,0,0,1
+FJ Bean,Yorkshire,6,128,274,21.33333333,41.51746104,0,1,1
+BMJ Allison,Essex,8,177,314,22.125,69.85446571,0,2,1
+HW Podmore,Kent,6,68,88,11.33333333,95.55167055,0,0,0
+JJ Carson,Sussex,3,83,124,27.66666667,43.13292885,0,1,1
+SG Budinger,Leicestershire,17,496,393,29.17647059,126.1210681,0,4,2
+TAR Scriven,Leicestershire,7,164,247,23.42857143,63.86861501,0,2,1
+TK Curran,Surrey,10,276,218,27.6,173.8477343,1,0,1
+C Tear,Sussex,2,82,126,41,64.64849354,0,1,0
+TR Bevan,Glamorgan,7,231,298,33,67.72095333,1,0,1
+AR Sylvester,Derbyshire,1,11,28,11,39.28571429,0,0,0
+JC Tongue,Worcestershire,3,107,149,35.66666667,91.98895582,0,0,0
+JT Ball,Nottinghamshire,3,2,15,0.6666666667,13.88888889,0,0,1
+GJ Bell,Lancashire,4,84,110,21,68.19546195,0,0,0
+HZ Finch,Kent,7,189,213,27,81.55631678,0,1,1
+ARI Umeed,Somerset,6,108,182,18,52.08329797,0,1,0
+D Moriarty,Surrey,6,16,35,2.666666667,54.74664225,0,0,0
+PR Brown,Worcestershire,8,32,39,4,88.11813187,0,0,1
+CR Brathwaite,Birmingham Bears,19,180,136,9.473684211,157.2162756,0,0,2
+FJ Heldreich,Northamptonshire,1,4,10,4,40,0,0,0
+JB Cracknell,Middlesex,20,470,441,23.5,93.72127348,0,2,1
+TMJ Smith,Gloucestershire,10,67,84,6.7,79.51098901,0,0,0
+LJ Wright,Sussex,8,158,127,19.75,143.1032578,0,0,0
+HD Ward,Sussex,19,321,287,16.89473684,119.4390268,0,0,0
+WAT Beer,Sussex,4,14,14,3.5,73.33333333,0,0,1
+G Clark,Durham,20,557,610,27.85,85.97571511,0,5,3
+AM Lilley,Leicestershire,22,525,433,23.86363636,106.910912,0,3,1
+RA Whiteley,Hampshire,27,444,349,16.44444444,121.5284487,0,1,1
+CP Wood,Hampshire,5,49,43,9.8,101.1960784,0,0,0
+WEL Buttleman,Essex,7,84,99,12,67.75510204,0,0,0
+DA Douthwaite,Glamorgan,14,226,173,16.14285714,148.2246821,0,1,0
+JM Cooke,Glamorgan,5,102,118,20.4,97.42968143,0,0,0
+AJ Hose,Birmingham Bears,31,947,673,30.5483871,129.9477273,1,7,0
+CG Harrison,Nottinghamshire,6,38,35,6.333333333,90.27777778,0,0,0
+P Sisodiya,Glamorgan,6,28,25,4.666666667,112.5,0,0,1
+ASS Nijjar,Essex,12,85,118,7.083333333,77.58242008,0,0,3
+M Carter,Nottinghamshire,7,35,38,5,84.76190476,0,0,1
+AJ Blake,Kent,19,536,456,28.21052632,111.5559432,0,4,1
+OC McCoy,Sussex,10,51,56,5.1,87.73214286,0,0,1
+TJ Prest,Hampshire,23,718,725,31.2173913,83.34372678,1,6,2
+GG White,Northamptonshire,4,18,15,4.5,129.1666667,0,0,0
+TE Albert,Hampshire,16,422,416,26.375,107.3265392,0,2,0
+J Banton,Worcestershire,1,0,1,0,0,0,0,1
+OP Stone,Birmingham Bears,6,24,25,4,60,0,0,2
+MT Stanley,Worcestershire,3,9,11,3,79.16666667,0,0,0
+DJ Leech,Yorkshire,1,1,2,1,50,0,0,0
+NA Sowter,Durham,2,9,7,4.5,141.6666667,0,0,0
+AJ Horton,Glamorgan,2,1,6,0.5,16.66666667,0,0,1
+NMJ Reifer,Surrey,9,217,291,24.11111111,72.16231053,0,2,1
+MB Harris,Middlesex,4,34,33,8.5,111.7857143,0,0,0
+RJ Das,Essex,9,240,202,26.66666667,133.8395953,0,1,0
+TA Wood,Derbyshire,3,19,33,6.333333333,30.55555556,0,0,1
+BJJ Wells,Gloucestershire,8,192,219,24,77.69615801,0,1,0
+D Schadendorf,Nottinghamshire,7,52,96,7.428571429,54.54819877,0,0,1
+J Blake,Surrey,7,163,225,23.28571429,53.71041239,0,0,2
+NJH Kimber,Surrey,6,180,167,30,103.3107688,0,1,0
+MP Dunn,Surrey,6,57,48,9.5,81.76900585,0,0,2
+AK Russell,Northamptonshire,3,5,15,1.666666667,27.77777778,0,0,1
+L Doneathy,Durham,2,36,55,18,60,0,0,0
+NJ Bowley,Leicestershire,1,50,44,50,113.6363636,0,1,0
+S Baker,Somerset,3,5,17,1.666666667,24.07407407,0,0,1
+HA Sullivan,Yorkshire,3,21,41,7,43.7037037,0,0,0
+JS Rymell,Essex,6,90,135,15,59.20138889,0,0,0
+G Roelofsen,Essex,22,764,778,34.72727273,93.68441124,0,6,1
+JA Richards,Essex,7,137,154,19.57142857,84.5661598,0,0,2
+FS Middleton,Hampshire,9,219,285,24.33333333,86.41806368,0,1,0
+SW Currie,Hampshire,8,122,131,15.25,100.3869048,0,0,0
+JOI Campbell,Hampshire,3,1,9,0.3333333333,16.66666667,0,0,2
+JA Turner,Hampshire,7,23,46,3.285714286,32.38095238,0,0,3
+HJ Cullen,Worcestershire,2,11,28,5.5,38.75,0,0,0
+MTC Waller,Somerset,1,9,11,9,81.81818182,0,0,0
+KH Pandya,Warwickshire,21,430,376,20.47619048,105.8425661,0,2,2
+EA Brookes,Warwickshire,7,119,137,17,89.06143827,0,1,0
+Y Majid,Surrey,5,10,27,2,58.61111111,0,0,1
+AH Miller,Northamptonshire,4,56,62,14,173.8357843,0,0,0
+JP McIlroy,Glamorgan,1,10,13,10,76.92307692,0,0,0
+BJR Martindale,Nottinghamshire,1,1,6,1,16.66666667,0,0,0
+F Singh,Nottinghamshire,6,107,98,17.83333333,75.08635688,0,0,2
+RL Evitts,Worcestershire,1,10,14,10,71.42857143,0,0,0
+NA Barnwell,Surrey,2,32,37,16,60.91269841,0,0,0
+ARJ Ogborne,Somerset,3,39,78,13,46.49667406,0,0,0
+LM Benkenstein,Essex,5,72,88,14.4,54.49743335,0,1,1
+ORT Sale,Somerset,1,13,11,13,118.1818182,0,0,0
+TL Greatwood,Middlesex,2,7,10,3.5,83.33333333,0,0,0
+JPH Hayes,Nottinghamshire,1,1,1,1,100,0,0,0
+Hamza Shaikh,Warwickshire,4,62,94,15.5,73.88440517,0,0,0
+Kai Smith,Warwickshire,6,86,78,14.33333333,100.4658385,0,0,0
+RL Toole,Essex,3,15,26,5,36.66666667,0,0,1
+DC Kelly,Hampshire,1,17,36,17,47.22222222,0,0,0
+MJ Killeen,Durham,3,49,80,16.33333333,42.70990447,0,0,1
+JF Thomas,Somerset,3,12,25,4,39.82683983,0,0,0
+SSE Gumbs,Surrey,4,104,140,26,71.12586488,0,1,0
+A Harrison,Derbyshire,1,5,8,5,62.5,0,0,0
+RAJ Smith,Glamorgan,1,3,11,3,27.27272727,0,0,0
+JC Harding,Somerset,1,12,12,12,100,0,0,0
+JM Blatherwick,Lancashire,1,5,3,5,166.6666667,0,0,0
+GW Maddy,Warwickshire,1,7,11,7,63.63636364,0,0,0
+O Davidson,Worcestershire,2,16,36,8,54.54545455,0,0,0
+M van Lingen,Namibia,20,506,551,25.3,80.64877586,2,1,1
+D la Cock,Namibia,20,411,562,20.55,67.41317509,0,2,1
+JN Loftie-Eaton,Namibia,27,594,764,22,86.00549071,0,4,1
+SJ Baard,Namibia,15,290,400,19.33333333,68.06766198,0,2,1
+MG Erasmus,Namibia,30,1260,1491,42,80.52350243,2,9,1
+JN Frylinck,Namibia,18,382,441,21.22222222,87.3275539,0,2,0
+JJ Smit,Namibia,20,452,463,22.6,94.04225995,0,1,1
+PBB Rajapaksa,Sri Lanka,32,647,500,20.21875,115.050205,0,1,3
+Chirag Suri,United Arab Emirates,33,969,1210,29.36363636,69.70555225,2,6,2
+Waseem Muhammad,United Arab Emirates,37,1011,971,27.32432432,90.81799039,1,7,3
+Kashif Daud,United Arab Emirates,23,323,346,14.04347826,73.62780326,0,2,4
+V Aravind,United Arab Emirates,36,1236,1463,34.33333333,79.93437332,2,7,3
+Zawar Farid,United Arab Emirates,13,159,117,12.23076923,130.1158977,0,0,1
+Basil Hameed,United Arab Emirates,34,594,727,17.47058824,79.62902344,0,2,1
+CP Rizwan,United Arab Emirates,26,638,905,24.53846154,66.69855956,0,4,1
+Aayan Afzal Khan,United Arab Emirates,6,131,147,21.83333333,83.17753107,0,1,0
+Junaid Siddique (2),United Arab Emirates,14,82,76,5.857142857,122.5857009,0,0,2
+HG Munsey,Scotland,19,662,757,34.84210526,84.12683282,0,7,0
+MH Cross,Scotland,23,478,669,20.7826087,63.5022143,0,3,1
+RD Berrington,Scotland,21,609,805,29,70.20989602,2,2,1
+CS MacLeod,Scotland,19,767,888,40.36842105,81.23373421,2,4,1
+MA Leask,Scotland,22,451,420,20.5,102.4029119,0,2,1
+CN Greaves,Scotland,13,240,261,18.46153846,92.54812277,0,1,0
+E Lewis,West Indies,15,248,215,16.53333333,109.825127,0,1,0
+LM Jongwe,Zimbabwe,22,249,243,11.31818182,90.40332544,0,0,2
+Simi Singh,Ireland,13,170,199,13.07692308,77.1663961,0,0,2
+BJ McCarthy,Ireland,15,277,226,18.46666667,124.640873,1,0,0
+PM Liyanagamage,Sri Lanka,6,54,95,9,84.55128205,0,0,0
+Aryan Lakra,United Arab Emirates,7,140,183,20,80.48515889,0,1,0
+KP Meiyappan,United Arab Emirates,3,19,25,6.333333333,69.6969697,0,0,0
+Zahoor Khan,United Arab Emirates,11,38,76,3.454545455,59.30192614,0,0,3
+J Charles,West Indies,13,446,358,34.30769231,110.9549237,0,4,0
+T Munyonga,Zimbabwe,12,163,222,13.58333333,78.15452731,0,0,0
+A Sharafu,United Arab Emirates,8,148,217,18.5,71.53952991,0,0,1
+ZE Green,Namibia,12,160,194,13.33333333,87.74808087,0,0,0
+R Trumpelmann,Namibia,19,207,257,10.89473684,77.92597143,0,1,3
+BM Scholtz,Namibia,12,109,167,9.083333333,77.77253669,0,0,0
+Ibrahim Zadran,Afghanistan,20,797,837,39.85,91.82965738,3,1,0
+Fareed Ahmad,Afghanistan,3,9,25,3,35.55555556,0,0,0
+Fazalhaq Farooqi,Afghanistan,6,5,21,0.8333333333,17.26190476,0,0,3
+Hasan Mahmud,Bangladesh,7,5,17,0.7142857143,40.47619048,0,0,4
+Shariz Ahmad,Netherlands,6,37,36,6.166666667,102.020202,0,0,0
+F Hand,Ireland,8,111,118,13.875,91.166269,0,0,1
+B Evans,Zimbabwe,11,111,140,10.09090909,74.38646493,0,0,0
+CAK Rajitha,Sri Lanka,9,32,92,3.555555556,58.51139601,0,0,2
+Darwish Rasooli,Afghanistan,5,49,59,9.8,85.07142857,0,0,0
+K Bhurtel,Nepal,29,593,700,20.44827586,73.0765844,1,3,3
+Aasif Sheikh,Nepal,31,775,923,25,81.36599483,0,5,2
+G Malla,Nepal,19,500,671,26.31578947,74.04410935,0,3,1
+DS Airee,Nepal,36,961,990,26.69444444,81.82302908,2,5,3
+Aarif Sheikh,Nepal,30,614,902,20.46666667,72.12792123,0,4,3
+Lokesh Bam,Nepal,6,66,55,11,107.1545285,0,0,1
+B Yadav,Nepal,3,17,27,5.666666667,73.59307359,0,0,0
+KS Airee,Nepal,5,36,36,7.2,72.66666667,0,0,1
+Jatinder Singh,Oman,31,899,1052,29,81.11992144,2,5,2
+KH Prajapati,Oman,31,802,976,25.87096774,75.10818414,1,5,3
+Ayan Khan,Oman,21,530,673,25.23809524,74.75966731,0,4,2
+Khawar Ali,Oman,17,384,624,22.58823529,59.9974283,0,3,1
+Zeeshan Maqsood,Oman,25,825,955,33,87.79352949,2,4,1
+Aamir Kaleem,Oman,3,14,25,4.666666667,40.83333333,0,0,1
+Shoaib Khan,Oman,27,706,791,26.14814815,73.16855538,1,6,2
+Naseem Khushi,Oman,19,255,215,13.42105263,85.95829609,0,0,2
+Fayyaz Butt,Oman,9,66,87,7.333333333,94.93691494,0,0,0
+Kaleemullah,Oman,19,106,102,5.578947368,106.8462824,0,0,2
+Bilal Khan,Oman,11,12,41,1.090909091,30.46536797,0,0,4
+R Pathan,Canada,9,215,191,23.88888889,91.24793007,0,1,1
+M Spoors,Canada,13,338,341,26,73.85138169,1,1,1
+NS Dhaliwal,Canada,9,357,363,39.66666667,107.7402,2,1,0
+R Goodwin,Philippines,5,2,19,0.4,14,0,0,3
+J Hill,Philippines,4,19,47,4.75,32.08333333,0,0,1
+Kapil Kumar,Philippines,2,27,53,13.5,63.95833333,0,0,0
+DC Smith,Philippines,5,97,102,19.4,73.42592593,0,0,1
+HER Tyler,Philippines,5,40,58,8,66.41446725,0,0,0
+Vimal Kumar,Philippines,2,18,36,9,46.875,0,0,0
+M Podosky,Philippines,5,36,39,7.2,65.47619048,0,0,1
+Rohan Mustafa,United Arab Emirates,23,645,924,28.04347826,66.88569131,0,5,3
+SC Getkate,Ireland,6,80,69,13.33333333,105.9479629,0,0,0
+J Broad,Germany,9,288,250,32,113.0460551,0,3,0
+VB Chikkannaiah,Germany,3,69,73,23,75.18518519,0,1,0
+MJ Richardson,Germany,8,176,174,22,90.26279431,0,1,0
+DA Blignaut,Germany,9,142,152,15.77777778,74.71928733,0,0,1
+Faisal Mubashir,Germany,4,83,68,20.75,100.5159475,0,0,1
+V Ganesan,Germany,7,54,66,7.714285714,88.27783745,0,0,0
+Fayaz Khan,Germany,4,21,21,5.25,71.16071429,0,0,1
+D Klein,Germany,6,19,23,3.166666667,58.33333333,0,0,2
+Ghulam Ahmadi,Germany,4,8,11,2,83.75,0,0,1
+Muslim Yar,Germany,7,63,48,9,106.3131313,0,0,1
+SVE Bharathi,Germany,2,1,5,0.5,16.66666667,0,0,1
+Muhammad Younis,Bahrain,6,68,90,11.33333333,64.71627787,0,0,1
+Umer Imtiaz,Bahrain,8,163,146,20.375,80.71838815,0,1,1
+Junaid Aziz,Bahrain,5,89,98,17.8,72.71921182,0,1,0
+Sarfaraz Ali,Bahrain,18,315,237,17.5,108.1077232,0,2,2
+DK Mathias,Bahrain,14,325,332,23.21428571,86.00695718,0,2,0
+Haider Butt,Bahrain,18,419,338,23.27777778,115.2168013,0,1,1
+Ravinderpal Singh,Canada,16,323,252,20.1875,111.939992,0,1,2
+Saad Bin Zafar,Canada,12,173,165,14.41666667,110.814836,0,0,0
+Hamza Tariq,Canada,4,25,24,6.25,81.66666667,0,0,0
+H Thaker,Canada,14,302,340,21.57142857,127.906859,0,1,0
+D Heyliger,Canada,10,152,103,15.2,172.2228561,0,0,1
+Kushal Malla,Nepal,5,34,41,6.8,72.01680672,0,0,1
+J Alegra,Philippines,4,48,73,12,62.01636905,0,0,0
+GR Russ,Philippines,3,20,21,6.666666667,86.80555556,0,0,1
+Muzammil Shahzad,Philippines,3,2,16,0.6666666667,11.11111111,0,0,1
+G Chohan,Philippines,3,25,30,8.333333333,105.7575758,0,0,0
+Mohammad Boota,United Arab Emirates,3,24,15,8,225.1851852,0,0,0
+Talha Khan,Germany,11,249,238,22.63636364,87.75301613,0,2,1
+S Veerapathiran,Bahrain,12,116,97,9.666666667,113.4661172,0,0,2
+Muhammad Safdar,Bahrain,2,16,13,8,123.8095238,0,0,0
+Shoaib Azam Khan,Germany,4,20,29,5,74.72222222,0,0,1
+Muhammad Usman,United Arab Emirates,6,106,148,17.66666667,99.47174479,0,0,0
+Kaleem Sana,Canada,3,10,16,3.333333333,68.05555556,0,0,0
+Junaid Siddiqui,Canada,1,2,4,2,50,0,0,0
+Salman Nazar,Canada,4,72,94,18,77.36111111,0,1,0
+MP Biddappa,Philippines,3,28,56,9.333333333,30.61840121,0,0,1
+H Isorena,Philippines,1,6,14,6,42.85714286,0,0,0
+Huzaifa Mohammed,Philippines,3,15,26,5,67.46031746,0,0,0
+Khurram Nawaz,Oman,4,41,30,10.25,96.42857143,0,0,1
+P Kurup,Bahrain,6,150,122,25,111.4109813,0,1,0
+Shahbaz Badar,Bahrain,4,46,49,11.5,41.44736842,0,0,2
+Sikder Billah,Bahrain,5,51,39,10.2,72.76190476,0,0,2
+Imran Anwar,Bahrain,14,265,198,18.92857143,130.9936955,0,2,2
+Ahmed Raza,United Arab Emirates,16,116,168,7.25,57.45152417,0,0,4
+JK Mukhiya,Nepal,2,6,13,3,47.72727273,0,0,0
+A Bohara,Nepal,2,4,5,2,87.5,0,0,0
+G Axtell,Bahrain,1,0,2,0,0,0,0,1
+S Movva,Canada,6,113,176,18.83333333,86.74993427,0,0,0
+S Mohan,Philippines,1,0,1,0,0,0,0,1
+Mohammad Nadeem,Oman,13,279,286,21.46153846,79.28650943,0,2,0
+Sandeep Goud,Oman,15,190,284,12.66666667,71.45875272,0,0,1
+Nestor Dhamba,Oman,5,26,57,5.2,58.76190476,0,0,0
+PS Airee,Nepal,1,4,15,4,26.66666667,0,0,0
+S Vesawkar,Nepal,3,15,16,5,81.48148148,0,0,0
+C Tshiki,Boland,1,2,6,2,33.33333333,0,0,0
+C Fortuin,Boland,16,356,291,22.25,118.7002603,0,1,0
+C Jonker,Boland,8,176,147,22,115.2445362,0,0,0
+FD Adams,Boland,12,157,154,13.08333333,95.00935016,0,0,0
+GC Viljoen,Boland,12,162,111,13.5,142.5806704,0,0,0
+I Manack,Boland,4,54,37,13.5,139.4736842,0,0,0
+RE Levi,Western Province,6,138,89,23,121.6462418,0,1,1
+JA Bird,Western Province,7,182,171,26,85.07723075,0,1,1
+G Kaplan,Western Province,9,161,143,17.88888889,101.712963,0,0,0
+A Mgijima,Western Province,8,84,70,10.5,100.9926471,0,0,0
+MP Breetzke,Warriors,12,236,192,19.66666667,113.2377345,0,1,0
+WJ Lubbe,Warriors,12,340,312,28.33333333,93.2267743,0,3,1
+JT Smuts,Warriors,14,259,216,18.5,93.52795285,0,1,2
+DS Rosier,Warriors,10,177,179,17.7,86.62203319,0,1,0
+LC Ngoepe,Warriors,12,244,214,20.33333333,98.80439736,0,0,0
+S Qeshile,Warriors,9,79,63,8.777777778,119.9953315,0,0,0
+T van Vuuren,Warriors,3,13,10,4.333333333,72.22222222,0,0,2
+TB de Bruyn,Titans,18,379,325,21.05555556,121.2021467,0,1,1
+GL Cloete,Titans,10,274,233,27.4,103.9084698,0,3,1
+BS Makhanya,Titans,14,234,204,16.71428571,111.7774117,0,0,0
+D Ferreira,Titans,13,321,224,24.69230769,146.6196062,0,1,0
+A Gqamane,Titans,8,41,41,5.125,69.43452381,0,0,3
+C Bosch,Titans,13,230,215,17.69230769,85.80193675,0,2,2
+AM Phangiso,Titans,2,6,12,3,30,0,0,1
+HG Kuhn,North West,11,326,280,29.63636364,108.7376096,0,3,1
+WB Marshall,North West,14,294,210,21,131.3853595,0,1,1
+S Muthusamy,North West,13,217,178,16.69230769,102.968809,0,1,1
+NJ van den Bergh,North West,6,103,88,17.16666667,95.95238095,0,1,1
+L Senokwane,North West,10,187,207,18.7,84.47331098,0,0,0
+Z Pongolo,North West,4,50,46,12.5,70.05555556,0,0,1
+Duan Jansen,North West,16,222,145,13.875,137.5283889,0,0,0
+J Richards,Lions,5,49,60,9.8,60.57692308,0,0,1
+DA Hendricks,Lions,10,99,100,9.9,87.6547619,0,0,2
+M Van Buuren,Lions,12,344,279,28.66666667,110.7404049,0,2,1
+S Dadswell,Lions,7,125,104,17.85714286,90.68030654,0,0,1
+R Haasbroek,Lions,4,28,28,7,112.5,0,0,0
+PE Kruger,Knights,12,206,160,17.16666667,119.6483046,0,1,0
+R van Tonder,Knights,13,247,248,19,88.99569385,0,0,0
+GJ Snyman,Knights,14,402,280,28.71428571,145.0942516,0,2,0
+PJ van Biljon,Knights,14,172,159,12.28571429,92.11095357,0,0,2
+F Behardien,Knights,12,254,236,21.16666667,100.746707,0,1,0
+P Botha,Knights,2,6,11,3,48.21428571,0,0,0
+M Mosehle,Knights,6,45,50,7.5,88.63636364,0,0,0
+M Copeland,Boland,12,146,144,12.16666667,69.07534867,0,0,3
+S von Berg,Boland,7,22,21,3.142857143,102.3809524,0,0,0
+Siyabonga Mahima,Boland,2,4,4,2,100,0,0,0
+J Raubenheimer,Knights,2,21,28,10.5,71.33333333,0,0,0
+M Pretorius,Knights,13,150,108,11.53846154,118.582273,0,0,1
+G Coetzee,Knights,9,98,53,10.88888889,135.1972102,0,0,1
+G Mahlokwana,Knights,3,14,23,4.666666667,56.41025641,0,0,0
+SA Mothoa,Knights,4,3,19,0.75,15.625,0,0,2
+BC Fortuin,Lions,6,35,41,5.833333333,61.93121693,0,0,1
+MP Siboto,Lions,6,39,53,6.5,74.80519481,0,0,0
+JF Smith,Dolphins,9,191,176,21.22222222,115.8101042,0,0,0
+B Parsons,Dolphins,9,114,112,12.66666667,71.34684395,0,0,2
+R de Swardt,Dolphins,3,46,51,15.33333333,113.8888889,0,0,0
+P Subrayen,Dolphins,5,38,32,7.6,75.23809524,0,0,2
+DM Dupavillon,Dolphins,5,14,18,2.8,83.88888889,0,0,0
+A Mhletywa,Warriors,1,4,4,4,100,0,0,0
+D Brevis,Titans,30,758,529,25.26666667,123.364534,1,1,2
+CJ Dala,Titans,4,51,52,12.75,96.23015873,0,0,0
+N van Heerden,Knights,2,4,9,2,28.57142857,0,0,1
+K Rapulana,Lions,4,71,82,17.75,77.52011061,0,0,0
+T de Zorzi,Western Province,9,176,145,19.55555556,93.86939226,0,0,1
+MY Vallie,Western Province,3,38,38,12.66666667,97.5,0,0,0
+D Potgieter,North West,10,153,146,15.3,90.88114663,0,0,0
+CP Klijnhans,Knights,4,125,123,31.25,71.9851577,0,2,1
+Codi Yusuf,Lions,4,9,18,2.25,39.58333333,0,0,1
+M Mpongwana,Western Province,9,63,70,7,52.40740741,0,0,2
+BD Walters,Western Province,1,3,4,3,75,0,0,0
+T Isaacs,North West,2,7,15,3.5,25,0,0,1
+C Seleka,North West,4,19,31,4.75,41.66666667,0,0,1
+JN Diseko,North West,2,26,27,13,96.15384615,0,0,0
+H Hanabe,Boland,2,1,3,0.5,50,0,0,1
+NP Mvelase,North West,1,0,2,0,0,0,0,1
+EL Hawken,North West,4,21,15,5.25,125,0,0,0
+MJ Ackerman,Dolphins,5,52,53,10.4,98.28571429,0,0,0
+J Landsberg,Lions,2,28,20,14,133.3333333,0,0,0
+E Bosch,Dolphins,5,45,59,9,86.63846154,0,0,0
+K Mungroo,Dolphins,3,16,19,5.333333333,82.82828283,0,0,0
+OEG Baartman,Dolphins,3,0,4,0,0,0,0,3
+Daniel Smith,Western Province,7,193,187,27.57142857,91.26735939,0,1,0
+J Dawood,Western Province,4,9,14,2.25,70.83333333,0,0,0
+RS Second,Warriors,3,45,37,15,112.4338624,0,0,0
+Tsepo Ndwandwa,Warriors,2,3,4,1.5,75,0,0,0
+K Jacobs,Warriors,1,0,1,0,0,0,0,1
+A Mnyaka,Warriors,2,11,9,5.5,125,0,0,0
+SV Kitime,Boland,4,22,33,5.5,55.13392857,0,0,1
+Yamin Ahmadzai,Afghanistan,3,6,14,2,31.81818182,0,0,1
+KU Carty,West Indies,9,151,268,16.77777778,51.5791906,0,0,0
+Suraj Kumar,Oman,4,38,50,9.5,86.48496241,0,0,0
+Asif Khan,United Arab Emirates,5,115,174,23,51.78412698,0,1,0
+CG Williams,Namibia,15,324,425,21.6,62.5018466,0,2,1
+K Birkenstock,Namibia,1,2,10,2,20,0,0,0
+HN Ya France,Namibia,7,89,111,12.71428571,66.0731879,0,1,1
+T Lungameni,Namibia,3,22,45,7.333333333,47.14052288,0,0,0
+Wasim Ali,Oman,1,2,2,2,100,0,0,0
+L Louwrens,Namibia,15,295,501,19.66666667,59.17800671,0,1,0
+TP Ura,Papua New Guinea,29,717,626,24.72413793,92.12822454,0,6,3
+L Siaka,Papua New Guinea,26,472,583,18.15384615,74.70874429,0,1,3
+A Vala,Papua New Guinea,30,893,1122,29.76666667,81.89411835,0,7,1
+CJA Amini,Papua New Guinea,29,698,967,24.06896552,66.00660909,0,5,2
+H Hiri,Papua New Guinea,14,169,340,12.07142857,44.71968843,0,0,2
+CA Soper,Papua New Guinea,19,245,436,12.89473684,64.64609955,0,0,0
+N Vanua,Papua New Guinea,26,493,538,18.96153846,87.92059381,0,2,2
+R Hekure,Papua New Guinea,20,246,313,12.3,64.18164784,0,0,4
+SK Atai,Papua New Guinea,18,97,148,5.388888889,70.8958634,0,0,2
+D Bau,Papua New Guinea,3,34,50,11.33333333,57.35449735,0,0,0
+A Nao,Papua New Guinea,8,33,46,4.125,51.45833333,0,0,2
+RK Paudel,Nepal,30,918,1046,30.6,85.77082187,1,3,1
+B Bhandari,Nepal,4,50,113,12.5,50.74902453,0,0,0
+Karan KC,Nepal,15,140,146,9.333333333,91.70465337,0,0,1
+Sompal Kami,Nepal,18,175,324,9.722222222,56.99788325,0,0,2
+S Dhakal,Nepal,6,7,44,1.166666667,20.83333333,0,0,2
+S Bau,Papua New Guinea,27,546,761,20.22222222,67.99463314,0,2,2
+P Sarraf,Nepal,8,41,56,5.125,50.41666667,0,0,2
+Bikram Sob,Nepal,1,1,12,1,8.333333333,0,0,0
+KV Morea,Papua New Guinea,10,90,107,9,95.3452381,0,0,3
+GI Hume,Ireland,6,37,49,6.166666667,49.45760122,0,0,1
+RV Uthappa,Chennai Super Kings,11,230,181,20.90909091,85.25736171,0,2,1
+AT Rayudu,Chennai Super Kings,15,310,268,20.66666667,96.76534255,0,1,1
+S Dube,Chennai Super Kings,16,380,258,23.75,129.8624585,0,2,1
+MS Dhoni,Chennai Super Kings,12,232,198,19.33333333,125.7328452,0,1,0
+N Rana,Kolkata Knight Riders,18,572,412,31.77777778,122.7757342,1,2,1
+SP Jackson,Kolkata Knight Riders,10,150,143,15,79.1382568,0,1,2
+Anmolpreet Singh,Mumbai Indians,7,236,181,33.71428571,134.643825,0,3,0
+Tilak Varma,Mumbai Indians,17,566,440,33.29411765,120.4301846,0,5,1
+PP Shaw,Delhi Capitals,16,503,311,31.4375,138.5904879,1,2,1
+Mandeep Singh,Delhi Capitals,8,130,100,16.25,107.7144608,0,0,2
+Lalit Yadav,Delhi Capitals,10,184,170,18.4,95.85698612,0,0,0
+Anuj Rawat,Royal Challengers Bangalore,11,149,151,13.54545455,61.86611008,0,1,3
+RA Bawa,Punjab Kings,2,11,14,5.5,42.30769231,0,0,1
+M Shahrukh Khan,Punjab Kings,8,117,118,14.625,107.1203581,0,0,1
+MK Pandey,Lucknow Super Giants,7,133,114,19,102.0355384,0,0,0
+A Badoni,Lucknow Super Giants,14,197,178,14.07142857,113.9499833,0,1,1
+V Shankar,Gujarat Titans,4,19,36,4.75,37.67857143,0,0,1
+R Tewatia,Gujarat Titans,13,219,159,16.84615385,140.2915065,0,0,0
+A Manohar,Gujarat Titans,8,170,109,21.25,114.789894,0,1,1
+YBK Jaiswal,Rajasthan Royals,16,425,333,26.5625,113.4346217,0,3,0
+D Padikkal,Rajasthan Royals,17,376,317,22.11764706,99.26397172,0,1,1
+SO Hetmyer,Rajasthan Royals,33,726,571,22,119.4867543,0,2,0
+R Parag,Rajasthan Royals,17,338,219,19.88235294,138.116496,0,3,1
+NM Coulter-Nile,Rajasthan Royals,4,24,23,6,127.8409091,0,0,0
+Abhishek Sharma,Sunrisers Hyderabad,21,568,446,27.04761905,118.4201555,0,3,1
+RA Tripathi,Sunrisers Hyderabad,14,413,271,29.5,134.748036,0,3,2
+Abdul Samad,Sunrisers Hyderabad,2,4,7,2,33.33333333,0,0,1
+CV Varun,Kolkata Knight Riders,3,12,18,4,87.5,0,0,0
+Shahbaz Ahmed,Royal Challengers Bangalore,12,219,201,18.25,92.420601,0,0,1
+Harpreet Brar,Punjab Kings,5,26,28,5.2,103.5555556,0,0,0
+RD Chahar,Punjab Kings,9,85,74,9.444444444,98.57142857,0,0,2
+M Ashwin,Mumbai Indians,4,12,14,3,93.75,0,0,2
+KK Ahmed,Delhi Capitals,2,0,2,0,0,0,0,2
+JM Sharma,Punjab Kings,15,346,223,23.06666667,153.3606918,0,0,0
+VG Arora,Punjab Kings,5,7,16,1.4,45.71428571,0,0,1
+Mukesh Choudhary,Chennai Super Kings,2,6,6,3,100,0,0,0
+Umran Malik,Sunrisers Hyderabad,5,4,12,0.8,32,0,0,3
+SN Khan,Delhi Capitals,11,201,163,18.27272727,102.1712365,0,0,1
+B Sai Sudharsan,Gujarat Titans,5,145,118,29,125.8778259,0,1,0
+Ramandeep Singh,Mumbai Indians,9,92,76,10.22222222,128.2135076,0,0,0
+JD Unadkat,Mumbai Indians,11,100,90,9.090909091,133.255772,0,0,0
+Rasikh Salam,Kolkata Knight Riders,1,7,6,7,116.6666667,0,0,0
+K Gowtham,Lucknow Super Giants,2,30,16,15,107.1428571,0,0,1
+SS Prabhudessai,Royal Challengers Bangalore,7,83,84,11.85714286,92.47268604,0,0,0
+Akash Deep,Royal Challengers Bangalore,1,0,2,0,0,0,0,1
+KR Sen,Rajasthan Royals,2,2,7,1,25,0,0,1
+Aman Hakim Khan,Kolkata Knight Riders,6,63,36,10.5,182.6587302,0,0,0
+P Simran Singh,Punjab Kings,7,180,136,25.71428571,93.83753501,0,2,1
+WP Saha,Gujarat Titans,12,318,269,26.5,92.82875186,0,3,1
+KK Nair,Rajasthan Royals,2,16,18,8,80,0,0,0
+Shivam Mavi,Kolkata Knight Riders,3,3,8,1,27.77777778,0,0,1
+HR Shokeen,Mumbai Indians,2,43,48,21.5,89.13043478,0,0,0
+Yash Dayal,Gujarat Titans,1,0,1,0,0,0,0,1
+RK Singh,Kolkata Knight Riders,8,253,172,31.625,134.473239,0,1,0
+RM Patidar,Royal Challengers Bangalore,10,455,308,45.5,132.9412558,1,4,0
+Shashank Singh,Sunrisers Hyderabad,6,71,53,11.83333333,150.7275132,0,0,0
+B Indrajith,Kolkata Knight Riders,3,21,31,7,54.41176471,0,0,1
+Harshit Rana,Kolkata Knight Riders,2,2,2,1,100,0,0,1
+Mohsin Khan (2),Lucknow Super Giants,3,23,19,7.666666667,113.3333333,0,0,0
+R Dhawan,Punjab Kings,8,50,56,6.25,121.3603878,0,0,0
+MK Lomror,Royal Challengers Bangalore,7,148,116,21.14285714,139.7661342,0,1,0
+PJ Sangwan,Gujarat Titans,1,2,6,2,33.33333333,0,0,0
+Simarjeet Singh,Chennai Super Kings,3,7,8,2.333333333,88.88888889,0,0,0
+S Gopal,Sunrisers Hyderabad,1,9,7,9,128.5714286,0,0,0
+Kartik Tyagi,Sunrisers Hyderabad,2,7,6,3.5,70,0,0,1
+AS Roy,Kolkata Knight Riders,1,0,2,0,0,0,0,1
+J Suchith,Sunrisers Hyderabad,2,2,8,1,14.28571429,0,0,1
+KS Bharat,Delhi Capitals,5,41,37,8.2,107,0,0,1
+RV Patel,Delhi Capitals,5,59,43,11.8,161.9047619,0,0,0
+K Kartikeya,Mumbai Indians,1,3,6,3,50,0,0,0
+KS Sharma,Lucknow Super Giants,3,78,86,26,90.91666667,0,1,0
+N Jagadeesan,Chennai Super Kings,2,40,40,20,66.66666667,0,0,0
+PK Garg,Sunrisers Hyderabad,4,52,41,13,79.67032967,0,0,1
+R Sanjay Yadav,Mumbai Indians,1,0,2,0,0,0,0,1
+A Tomar,Kolkata Knight Riders,1,4,8,4,50,0,0,0
+PN Mankad,Punjab Kings,6,96,61,16,171.1580087,0,1,0
+ST Doheny,North-West Warriors,4,146,229,36.5,52.97651456,0,1,0
+G Kennedy,North-West Warriors,3,69,124,23,37.97241119,0,1,0
+SJ MacBeth,North-West Warriors,2,23,53,11.5,42.88793103,0,0,0
+W McClintock,North-West Warriors,3,12,20,4,26.66666667,0,0,2
+NJ McGuire,North-West Warriors,2,6,23,3,18.75,0,0,1
+J Wilson,North-West Warriors,3,51,66,17,90.47619048,0,0,0
+R MacBeth,North-West Warriors,2,32,36,16,82.8125,0,0,0
+C Olphert,North-West Warriors,2,10,17,5,56.81818182,0,0,0
+TH Tector,Leinster Lightning,4,55,137,13.75,20.49107143,0,0,2
+JA McCollum,Northern Knights,5,155,251,31,57.6282404,0,1,0
+R Pretorius,Northern Knights,5,51,91,10.2,52.06060606,0,0,0
+JL Lawlor,Northern Knights,4,72,133,18,52.01631702,0,0,0
+M Burton,Northern Knights,1,16,16,16,100,0,0,0
+GR Adair,Northern Knights,5,129,101,25.8,126.7157785,0,0,0
+MJ Humphreys,Northern Knights,5,23,44,4.6,31.90977444,0,0,2
+J Manley,Northern Knights,4,27,90,6.75,28.48150624,0,0,1
+B White,Northern Knights,5,20,34,4,53.80952381,0,0,1
+PJ Moor,Munster Reds,5,210,202,42,81.42089094,1,0,1
+M Commins,Munster Reds,4,43,102,10.75,29.64782239,0,0,1
+TE Kane,Munster Reds,5,87,138,17.4,60.38038449,0,0,0
+KJ O'Brien,Munster Reds,5,133,159,26.6,100.1576412,0,1,0
+M Ford,Munster Reds,3,76,81,25.33333333,73.64864865,0,1,1
+DC Delany,Munster Reds,3,47,63,15.66666667,58.56553148,0,0,1
+J Carty,Leinster Lightning,1,23,40,23,57.5,0,0,0
+AP Chore,Northern Knights,4,171,253,42.75,70.42926834,0,1,0
+M Topping,Northern Knights,1,3,21,3,14.28571429,0,0,0
+MT Foster,Northern Knights,2,2,10,1,33.33333333,0,0,1
+L McCarthy,Munster Reds,2,59,55,29.5,109.6816976,0,0,0
+M Frost,Munster Reds,1,7,12,7,58.33333333,0,0,0
+T Mayes,Northern Knights,2,2,10,1,16.66666667,0,0,1
+JB Tector,Leinster Lightning,1,7,24,7,29.16666667,0,0,0
+G Ford,Leinster Lightning,2,22,33,11,49.30555556,0,0,0
+G Hoey,Leinster Lightning,2,24,37,12,33.33333333,0,0,1
+M O'Reilly,Leinster Lightning,1,0,7,0,0,0,0,1
+C Hassett,Munster Reds,1,9,29,9,31.03448276,0,0,0
+CMJ McLoughlin-Gavin,Leinster Lightning,1,67,96,67,69.79166667,0,1,0
+C Carmichael,Northern Knights,1,43,35,43,122.8571429,0,0,0
+C Robertson,Northern Knights,1,2,5,2,40,0,0,0
+J Kila,Papua New Guinea,3,15,22,5,47.72727273,0,0,1
+AK Sah,Nepal,2,7,25,3.5,38.04347826,0,0,0
+D Khanal,Nepal,10,253,395,25.3,50.30228016,0,2,1
+B Sharki,Nepal,2,43,37,21.5,115.6432749,0,0,0
+Virandeep Singh,Malaysia,24,762,761,31.75,103.4264893,0,6,3
+Zubaidi Zulkifle,Malaysia,23,509,344,22.13043478,116.2789046,0,2,5
+Ahmed Faiz Mohammad Noor,Malaysia,23,629,665,27.34782609,91.61862347,0,5,2
+Syed Aziz,Malaysia,26,646,571,24.84615385,112.6582832,0,4,2
+N Pokana,Papua New Guinea,3,15,25,5,61.11111111,0,0,1
+S Muniandy,Malaysia,18,259,320,14.38888889,91.04492399,0,0,3
+Muhammad Amir,Malaysia,11,244,329,22.18181818,82.59575785,0,2,0
+Ainool Hafizs,Malaysia,7,69,70,9.857142857,89.80519481,0,0,1
+Ammar Zuhdi Hazalan,Malaysia,1,0,3,0,0,0,0,1
+S Vijay Unni,Malaysia,4,3,7,0.75,25,0,0,3
+Pavandeep Singh,Malaysia,8,19,91,2.375,29.90451389,0,0,2
+D Nath,Nepal,3,15,12,5,62.5,0,0,2
+Mohammad Aadil Alam,Nepal,11,160,147,14.54545455,116.461594,0,0,0
+M Syahadat Ramli,Malaysia,11,134,139,12.18181818,102.4872383,0,0,1
+Syazrul Idrus,Malaysia,2,1,6,0.5,50,0,0,1
+Muhammad Wafiq,Malaysia,5,6,21,1.2,30.66666667,0,0,2
+SI Kamea,Papua New Guinea,11,11,39,1,35.37878788,0,0,5
+N Thushara,Sri Lanka,6,7,12,1.166666667,83.33333333,0,0,2
+DN Wellalage,Sri Lanka,11,162,191,14.72727273,105.5699856,0,0,0
+AM Fernando,Sri Lanka,5,19,51,3.8,103.5612536,0,0,0
+NGRP Jayasuriya,Sri Lanka,3,11,35,3.666666667,26.79738562,0,0,1
+OJ Hairs,Scotland,2,11,5,5.5,287.5,0,0,0
+SM Sharif,Scotland,14,222,298,15.85714286,70.35015557,0,0,0
+CB Sole,Scotland,6,28,26,4.666666667,118.1196581,0,0,0
+GT Main,Scotland,3,81,92,27,73.34802774,0,1,0
+AC Evans,Scotland,1,8,6,8,133.3333333,0,0,0
+Hamza Tahir,Scotland,7,29,85,4.142857143,37.77531685,0,0,2
+KJ Coetzer,Scotland,20,491,686,24.55,61.59141832,1,2,2
+DE Budge,Scotland,7,84,114,12,54.32590427,0,0,1
+A Neill,Scotland,4,22,37,5.5,64.16666667,0,0,0
+CM McBride,Scotland,7,145,209,20.71428571,59.12700395,0,0,0
+BOP Fernando,Sri Lanka,5,178,287,35.6,50.57258531,0,2,1
+A Otwani,Uganda,8,107,167,13.375,50.22970085,0,1,2
+K Waiswa,Uganda,24,266,382,11.08333333,70.63609072,0,0,3
+S Sesazi,Uganda,28,862,809,30.78571429,98.31778804,1,7,5
+Riazat Ali Shah,Uganda,17,492,504,28.94117647,93.63208696,0,2,1
+DM Nakrani,Uganda,14,268,226,19.14285714,94.85865712,0,2,3
+F Akankwasa,Uganda,7,38,52,5.428571429,86.66666667,0,0,1
+D Muhumuza,Uganda,8,178,205,22.25,69.8048724,0,2,0
+JP Kotze,Namibia,3,91,71,30.33333333,128.6021505,0,0,0
+B Masaba,Uganda,15,180,260,12,68.46239468,0,0,1
+F Nsubuga,Uganda,14,141,195,10.07142857,81.80618401,0,0,2
+J Miyaji,Uganda,12,104,111,8.666666667,66.43849206,0,0,4
+F Achelam,Uganda,9,47,102,5.222222222,36.65223665,0,0,4
+C Kyewuta,Uganda,9,44,51,4.888888889,64.25925926,0,0,2
+Raza Iqbal,Norway,7,126,116,18,94.27046343,0,1,0
+Khizer Ahmed,Norway,4,47,62,11.75,44.60200747,0,0,1
+Walid Ghauri,Norway,3,67,88,22.33333333,72.88359788,0,0,0
+Bilal Safdar,Norway,4,24,46,6,88.33333333,0,0,0
+Tafseer Ali,Norway,3,17,29,5.666666667,60.34858388,0,0,0
+Ali Saleem,Norway,7,123,117,17.57142857,91.03593611,0,1,0
+Sher Sahak,Norway,7,121,80,17.28571429,102.0152262,0,1,0
+Wahidullah Sahak,Norway,4,5,22,1.25,49.70238095,0,0,0
+IDA Damarell,Guernsey,10,203,212,20.3,88.54887837,0,1,0
+MWR Stokes,Guernsey,9,219,196,24.33333333,110.3671392,0,0,0
+J Butler,Guernsey,10,166,166,16.6,90.76087947,0,0,1
+OB Nightingale,Guernsey,3,10,12,3.333333333,58.33333333,0,0,1
+OE Newey,Guernsey,1,14,13,14,107.6923077,0,0,0
+LB Ferbrache,Guernsey,6,102,127,17,80.16272565,0,0,0
+DR Hooper,Guernsey,4,33,40,8.25,100.4545455,0,0,0
+T Nightingale,Guernsey,9,163,164,18.11111111,85.66970105,0,0,0
+DE Martel,Guernsey,2,4,9,2,41.66666667,0,0,0
+D Doyle-Calle,Spain,12,207,209,17.25,97.36099183,0,0,0
+Awais Ahmed,Spain,8,105,100,13.125,87.59952512,0,0,1
+J Trembeath-Moro,Spain,6,128,153,21.33333333,91.7791171,0,0,0
+Yasir Ali,Spain,11,177,189,16.09090909,74.904515,0,0,1
+Hamza Dar,Spain,10,150,139,15,82.70856169,0,0,1
+LA Burns,Spain,8,90,84,11.25,96.61417959,0,0,1
+C Munoz-Mills,Spain,8,119,83,14.875,117.6054797,0,0,0
+Mohammad Kamran,Spain,9,109,103,12.11111111,88.25897868,0,1,0
+Abdullah Sheikh,Norway,2,3,7,1.5,45.83333333,0,0,0
+Ahmadullah Shinwari,Norway,4,13,18,3.25,72.91666667,0,0,1
+Aminullah Tanha,Norway,3,5,17,1.666666667,47.47474747,0,0,1
+D Abeyrathna,Norway,5,95,99,19,94.25025025,0,0,0
+B Wentzel,Guernsey,1,1,2,1,50,0,0,0
+W Peatfield,Guernsey,3,13,10,4.333333333,83.33333333,0,0,1
+LT Bichard,Guernsey,1,2,5,2,40,0,0,0
+R Panchal,Spain,3,24,28,8,91.38655462,0,0,0
+Zulqarnain Haider (2),Spain,3,8,13,2.666666667,63.49206349,0,0,0
+C Rumistrzewicz,Spain,5,17,27,3.4,62.08791209,0,0,1
+Vinay Ravi,Norway,3,16,20,5.333333333,79.25925926,0,0,0
+SA Ahmad,Denmark,14,434,453,31,92.58590116,0,3,1
+HAM Shah,Denmark,15,684,837,45.6,70.83879631,1,5,1
+T Bharaj,Denmark,11,268,295,24.36363636,78.54126492,0,2,0
+Rizwan Mahmood,Denmark,7,105,86,15,106.3852814,0,0,0
+Musa Shaheen,Denmark,7,49,68,7,67.81949143,0,0,0
+Surya Anand,Denmark,11,228,296,20.72727273,85.13058518,0,0,0
+A Khan,Denmark,2,14,12,7,90,0,0,0
+J Jojo,Denmark,5,47,55,9.4,99.07801418,0,0,1
+FA Klokker,Denmark,2,9,3,4.5,325,0,0,0
+Abdul Hashim,Denmark,5,47,62,9.4,75.61561562,0,0,0
+Sapan Mehta,Finland,5,74,84,14.8,76.51828847,0,0,0
+NG Collins,Finland,8,156,191,19.5,73.92558921,0,0,0
+AK Mohan,Finland,8,133,156,16.625,78.50619208,0,1,0
+Amjad Sher,Finland,7,62,47,8.857142857,113.6446886,0,0,0
+A Pusthay,Finland,3,18,29,6,62.6984127,0,0,0
+VS Padhaal,Finland,6,102,100,17,101.6287879,0,0,0
+JOP Scamans,Finland,7,52,55,7.428571429,63.88888889,0,0,3
+PF Gallagher,Finland,8,87,54,10.875,126.6477273,0,0,3
+MB Tambe,Finland,5,21,24,4.2,91.06060606,0,0,1
+Raaz Mohammad,Finland,2,0,4,0,0,0,0,2
+Mohammad Asaduzzaman,Finland,2,1,2,0.5,50,0,0,1
+Saran Aslam,Denmark,5,76,36,15.2,181.25,0,0,0
+Atif Rasheed,Finland,3,80,55,26.66666667,146.1904762,0,0,0
+M Brasier,Finland,1,1,3,1,33.33333333,0,0,0
+BA Pai,Gibraltar,10,406,368,40.6,111.9915075,0,3,0
+M Gouws,Gibraltar,7,82,63,11.71428571,96.36506351,0,0,1
+L Bruce,Gibraltar,10,209,205,20.9,62.8763856,0,2,2
+KJ Ferrary,Gibraltar,3,56,77,18.66666667,79.1943734,0,0,0
+K Nestor,Gibraltar,4,45,44,11.25,75.37878788,0,0,1
+RJ Hatchman,Gibraltar,6,69,51,11.5,110,0,0,0
+A Reyes,Gibraltar,5,87,113,17.4,63.10340776,0,0,0
+M Whelan,Gibraltar,5,50,45,10,98.43137255,0,0,0
+G Chaturvedi,Malta,5,57,52,11.4,92.51111111,0,0,0
+B George,Malta,9,331,235,36.77777778,129.4513544,0,3,0
+B Arora,Malta,8,179,195,22.375,86.81823185,0,1,0
+HS Gericke,Malta,8,207,146,25.875,127.0041937,0,1,0
+VP Thamotharam,Malta,7,179,113,25.57142857,149.9319728,0,2,0
+Aaftab Alam Khan,Malta,8,130,99,16.25,98.85416667,0,1,1
+N Khanna,Malta,5,54,47,10.8,127.7525253,0,0,0
+Bilal Muhammad,Malta,5,25,15,5,154,0,0,1
+Khaibar Deldar,Hungary,7,95,85,13.57142857,84.23867799,0,0,1
+Abhijeet Ahuja,Hungary,9,203,216,22.55555556,74.59208983,0,1,1
+Abhishek Ahuja,Hungary,6,130,137,21.66666667,73.04089677,0,1,1
+Zahir Mohammed,Hungary,9,165,121,18.33333333,113.4963252,0,1,0
+HV Mandhyan,Hungary,9,146,144,16.22222222,88.39387464,0,0,1
+A Kheterpal,Hungary,8,143,129,17.875,101.630298,0,0,1
+Ali Farasat,Hungary,7,90,69,12.85714286,129.8484848,0,0,0
+AG Weligamage,Hungary,7,72,69,10.28571429,108.0742297,0,0,0
+S Bodha,Gibraltar,4,29,25,7.25,121.9871795,0,0,0
+J Marples,Gibraltar,4,11,17,2.75,62.02380952,0,0,0
+R Satheesan,Romania,11,313,254,28.45454545,112.9095858,0,2,1
+Taranjeet Singh,Romania,11,428,268,38.90909091,142.8775615,1,2,0
+Ijaz Hussain,Romania,9,79,90,8.777777778,83.43758256,0,0,0
+S Periyalwar,Romania,10,163,191,16.3,73.31751582,0,1,0
+V Saini,Romania,11,264,232,24,100.7806856,0,2,1
+Abdul Shakoor (2),Romania,6,90,97,15,83.97760445,0,0,0
+Zeeshan Khan,Malta,3,41,53,13.66666667,47.22222222,0,0,1
+S Davizi,Czech Republic,14,589,414,42.07142857,128.8316352,2,2,0
+Dylan Steyn,Czech Republic,14,460,365,32.85714286,110.7817388,1,2,0
+V Jagannivasan,Czech Republic,3,15,33,5,31.67701863,0,0,1
+S Wickramasekara,Czech Republic,14,277,209,19.78571429,118.9142011,0,2,3
+A Ashokan,Czech Republic,13,368,309,28.30769231,122.726046,0,1,0
+Sazib Bhuiyan,Czech Republic,8,96,65,12,130.9775641,0,1,0
+Ritik Tomar,Czech Republic,13,164,124,12.61538462,93.51309734,0,0,3
+N Advani,Gibraltar,2,0,7,0,0,0,0,2
+R Cunningham,Gibraltar,1,7,10,7,70,0,0,0
+SA Mohandas,Hungary,4,40,38,10,88.43434343,0,0,1
+H Lakov,Bulgaria,15,312,329,20.8,81.52256691,0,1,0
+P Mishra,Bulgaria,15,306,241,20.4,109.6380335,0,2,0
+Saim Hussain,Bulgaria,14,491,352,35.07142857,116.272384,1,4,1
+IA De Silva,Bulgaria,16,388,367,24.25,94.24930091,0,3,1
+Omar Rassol,Bulgaria,12,279,211,23.25,101.0951143,0,2,1
+Asad Ali Rehemtulla,Bulgaria,8,37,46,4.625,60.89552808,0,0,3
+DV Varghese,Bulgaria,5,25,46,5,57.59259259,0,0,0
+J Albin,Bulgaria,7,41,54,5.857142857,66.78571429,0,0,0
+Ahsan Khan,Bulgaria,2,10,9,5,100,0,0,0
+I Katzarski,Bulgaria,3,6,14,2,51.85185185,0,0,1
+SSM Stanislaus,Malta,4,49,56,12.25,87.07054094,0,0,0
+Imran Ameer,Malta,5,83,80,16.6,119.2222222,0,0,0
+Washeem Abbas,Malta,3,10,8,3.333333333,150,0,0,0
+S Ramakrishnan,Czech Republic,3,31,45,10.33333333,58.73015873,0,0,0
+Divyendra Singh,Czech Republic,4,27,32,6.75,99.84737485,0,0,0
+S Sengupta,Czech Republic,2,12,15,6,81.25,0,0,0
+KC D'Souza,Bulgaria,15,397,240,26.46666667,124.2854479,0,2,1
+Gaurav Mishra,Romania,4,62,53,15.5,109.3850267,0,0,0
+R Kumar,Romania,1,13,6,13,216.6666667,0,0,0
+Naveed Ahmed,Czech Republic,4,16,27,4,61.17424242,0,0,0
+SJ Patel,Czech Republic,3,2,11,0.6666666667,11.11111111,0,0,2
+S Nadigotla,Romania,6,39,54,6.5,59.34343434,0,0,1
+S Ashwathnarayana,Hungary,5,101,74,20.2,131.7747748,0,1,0
+CM Rocca,Gibraltar,1,14,19,14,73.68421053,0,0,0
+Amar Sharma,Malta,1,22,13,22,169.2307692,0,0,0
+H Carlyon,Jersey,12,334,392,27.83333333,94.60888621,0,1,0
+NA Greenwood,Jersey,12,562,537,46.83333333,109.572416,1,3,0
+AM Tribe,Jersey,9,383,439,42.55555556,92.63416964,0,3,0
+JW Jenner,Jersey,12,234,232,19.5,70.68921441,1,0,1
+J Sumerauer,Jersey,9,139,103,15.44444444,95.57390208,0,1,2
+DG Blampied,Jersey,8,159,167,19.875,92.38860291,0,0,0
+LC Le Tissier,Guernsey,6,95,70,15.83333333,128.7559503,0,0,1
+ACF Stokes,Guernsey,3,23,31,7.666666667,46.73046252,0,0,1
+DT Tiripano,Zimbabwe,6,50,61,8.333333333,72.96626984,0,0,1
+B Mavuta,Zimbabwe,2,2,4,1,33.33333333,0,0,1
+I Kaia,Zimbabwe,18,402,600,22.33333333,61.20825569,1,2,0
+R Mutumbami,Zimbabwe,2,28,25,14,76.78571429,0,0,0
+TL Chivanga,Zimbabwe,4,11,16,2.75,67.5,0,0,1
+D Myers,Zimbabwe,1,3,15,3,20,0,0,0
+A Ndlovu,Zimbabwe,2,23,28,11.5,89.76608187,0,0,0
+T Marumani,Zimbabwe,8,159,247,19.875,58.73683179,0,0,0
+Ihsanullah,Afghanistan,1,20,14,20,142.8571429,0,0,0
+Afsar Zazai,Afghanistan,1,24,30,24,80,0,0,0
+Sharafuddin Ashraf,Afghanistan,1,5,7,5,71.42857143,0,0,0
+Nijat Masood,Afghanistan,1,4,5,4,80,0,0,0
+C Madande,Zimbabwe,2,26,58,13,34.42028986,0,0,0
+Agha Salman,Pakistan,9,384,566,42.66666667,75.38114843,1,4,0
+W Barresi,Netherlands,2,5,15,2.5,33.92857143,0,0,0
+M Vohra,Lucknow Super Giants,1,19,12,19,158.3333333,0,0,0
+Steven Ryan Taylor,United States of America,24,804,855,33.5,86.67807863,2,3,1
+SJ Modani,United States of America,17,517,769,30.41176471,62.58017214,1,4,2
+MD Patel,United States of America,23,872,988,37.91304348,90.21219803,1,5,0
+Aaron Jones,United States of America,24,848,1088,35.33333333,70.77258455,1,5,1
+G Singh,United States of America,23,558,688,24.26086957,83.13644868,0,4,1
+SR Mukkamalla,United States of America,8,150,241,18.75,58.09257925,0,0,1
+NK Patel,United States of America,18,272,327,15.11111111,75.42379361,0,0,1
+CAH Stevenson,United States of America,12,92,142,7.666666667,56.30709568,0,0,2
+NP Kenjige,United States of America,14,179,240,12.78571429,71.74036942,0,0,1
+SN Netravalkar,United States of America,11,24,44,2.181818182,49.77272727,0,0,2
+J Theron,United States of America,3,4,8,1.333333333,58.33333333,0,0,1
+RN Bhatia,United Arab Emirates,1,24,22,24,109.0909091,0,0,0
+Ali Khan,United States of America,3,1,8,0.3333333333,16.66666667,0,0,2
+RM Jariwala,United States of America,4,30,53,7.5,51.83213716,0,0,0
+S Dhamala,Nepal,1,12,40,12,30,0,0,0
+SP Khakurel,Nepal,1,3,7,3,42.85714286,0,0,0
+S Bhari,Nepal,2,1,4,0.5,16.66666667,0,0,1
+Yasir Mohammad,United States of America,2,19,31,9.5,57,0,0,0
+A Phillip,West Indies,6,81,129,13.5,93.35109335,0,0,0
+KMA Paul,West Indies,16,230,190,14.375,116.4556571,0,1,3
+RL Vitas,Serbia,6,82,116,13.66666667,67.04687856,0,0,0
+WAE Burton,Serbia,11,203,121,18.45454545,96.79195953,0,1,4
+LA Dunbar,Serbia,11,386,288,35.09090909,102.9168086,1,2,0
+A Mene-Ejegi,Serbia,9,106,70,11.77777778,119.049469,0,0,2
+ML Kostic,Serbia,7,37,50,5.285714286,81.52882206,0,0,0
+N Zimonjic,Serbia,3,32,21,10.66666667,110.6227106,0,0,1
+NR Johns-Wickberg,Serbia,6,33,56,5.5,55.20307178,0,0,0
+V Zimonjic,Serbia,6,43,34,7.166666667,94.79166667,0,0,2
+M Kadyan,Bulgaria,8,81,63,10.125,206.9960586,0,1,2
+A Dizija,Serbia,10,303,279,30.3,78.85401356,0,3,1
+S Tosic,Serbia,3,14,35,4.666666667,50.1984127,0,0,0
+Fayaz Mohammad,Bulgaria,3,21,18,7,115,0,0,0
+RA Reifer,West Indies,12,277,273,23.08333333,86.65161585,0,1,1
+G Motie,West Indies,7,63,70,9,72.11811998,0,0,0
+VM Nyauchi,Zimbabwe,5,37,47,7.4,62.91666667,0,0,1
+Y Cariah,West Indies,4,56,89,14,77.97619048,0,1,0
+T Chanderpaul,West Indies,2,98,181,49,55.3176967,0,1,0
+DC Thomas,West Indies,10,82,97,8.2,90.95850037,0,0,0
+MJ Mindley,West Indies,1,11,32,11,34.375,0,0,0
+K Sinclair,West Indies,1,3,4,3,75,0,0,0
+JAD Lawrenson,Jersey,7,313,422,44.71428571,79.64562792,1,2,0
+BDH Stevens,Jersey,5,45,94,9,50.0015949,0,0,0
+AW Hawkins-Kay,Jersey,3,49,74,16.33333333,57.69230769,0,0,0
+E Hasahya,Uganda,6,25,41,4.166666667,81.82539683,0,0,0
+RB Patel,Uganda,13,369,553,28.38461538,60.49897877,0,3,1
+A Gorawara,Hong Kong,2,41,54,20.5,76.75862069,0,0,0
+Nizakat Khan,Hong Kong,13,433,454,33.30769231,83.56033494,1,3,1
+JJ Atkinson,Hong Kong,2,15,30,7.5,52.5,0,0,0
+Babar Hayat,Hong Kong,13,315,297,24.23076923,90.00331458,0,2,2
+KD Shah,Hong Kong,12,292,319,24.33333333,89.77398477,1,0,0
+Aizaz Khan,Hong Kong,11,160,195,14.54545455,72.73743483,0,1,0
+Yasim Murtaza,Hong Kong,11,271,253,24.63636364,79.46625344,1,1,0
+Haroon Arshad,Hong Kong,5,39,25,7.8,103.5714286,0,0,1
+A Shukla,Hong Kong,3,6,10,2,61.11111111,0,0,1
+Mohammad Ghazanfar,Hong Kong,5,7,10,1.4,93.33333333,0,0,2
+Ehsan Khan,Hong Kong,7,11,18,1.571428571,38.43537415,0,0,3
+NL Smith,Italy,4,49,87,12.25,49.49917898,0,0,1
+BBJL Perera,Italy,7,70,100,10,63.31861121,0,0,1
+Manpreet Singh,Italy,30,584,669,19.46666667,90.87675649,0,3,2
+M Campopiano,Italy,12,430,448,35.83333333,85.12469188,0,4,1
+NA Maiolo,Italy,4,97,146,24.25,65.60480693,0,0,0
+GP Meade,Italy,15,269,285,17.93333333,87.64437591,0,1,1
+CJPF Kalugamage,Italy,6,97,146,16.16666667,73.54145167,0,1,0
+Hasnat Ahmed,Italy,3,1,21,0.3333333333,2.777777778,0,0,2
+Jaspreet Singh,Italy,7,152,128,21.71428571,70.30584592,0,2,1
+MGSM Fernando,Italy,2,19,20,9.5,55.88235294,0,0,1
+DDE Richardson,Bermuda,2,17,44,8.5,38.63636364,0,0,0
+DAW Hollis,Bermuda,2,17,59,8.5,30.3030303,0,0,0
+Najiyah Raynor,Bermuda,1,0,2,0,0,0,0,1
+KS Leverock,Bermuda,4,97,121,24.25,79.03232732,0,0,0
+MO Jones,Bermuda,2,16,23,8,51.66666667,0,0,0
+S Bremar,Bermuda,4,23,49,5.75,86.78070175,0,0,0
+D Sabir,Bermuda,4,63,126,15.75,35.54263566,0,0,0
+Amari Ebbin,Bermuda,2,20,48,10,46.21848739,0,0,0
+C Trott,Bermuda,4,86,99,21.5,72.38005051,0,1,0
+Z Burgess,Bermuda,4,50,83,12.5,112.3735274,0,0,0
+JT Darrell,Bermuda,3,12,29,4,41.91919192,0,0,0
+RN Patel,Kenya,14,386,412,27.57142857,104.3366156,0,2,0
+AA Obanda,Kenya,9,211,248,23.44444444,59.61005979,1,0,1
+IA Karim,Kenya,18,575,852,31.94444444,79.23223633,0,4,0
+RR Patel,Kenya,17,568,539,33.41176471,100.8921473,1,3,1
+NM Odhiambo,Kenya,9,131,119,14.55555556,92.97930039,0,1,1
+CO Obuya,Kenya,17,486,422,28.58823529,139.8077798,0,2,0
+JE Dunford,Jersey,4,44,73,11,45,0,0,1
+CW Perchard,Jersey,4,27,56,6.75,48.27467219,0,0,0
+EJB Miles,Jersey,4,18,32,4.5,44.30555556,0,0,1
+SR Bhudia,Kenya,8,134,108,16.75,107.9099336,0,0,1
+SO Ngoche,Kenya,10,94,83,9.4,118.1428571,0,0,2
+EB Ringera,Kenya,4,27,53,6.75,39.3995098,0,0,0
+E Otieno,Kenya,4,25,24,6.25,104.5833333,0,0,0
+Vraj Patel,Kenya,3,12,18,4,63.88888889,0,0,1
+H Ssenyondo,Uganda,7,18,47,2.571428571,57.65306122,0,0,1
+CAW Jeffers,Bermuda,2,9,32,4.5,15.51724138,0,0,1
+Sukhwinder Singh,Italy,1,0,3,0,0,0,0,1
+Tanzeel Sheikh,Kenya,7,120,115,17.14285714,84.8325484,0,0,1
+E Ochieng,Kenya,3,17,21,5.666666667,66.06060606,0,0,0
+Amir Sharif,Italy,2,15,21,7.5,77.77777778,0,0,0
+DKD Warnakulasuriya,Italy,2,0,15,0,0,0,0,2
+Sachin Mandy,Germany,4,43,55,10.75,58.21428571,0,0,1
+Abdul Stanikzai,Germany,4,71,93,17.75,76.63089226,0,0,0
+Abdul-Shakoor Rahimzei,Germany,4,62,39,15.5,138.8655462,0,0,0
+W Behr,Germany,4,19,18,4.75,101.6666667,0,0,0
+Iqbal Hossain,Austria,7,304,175,43.42857143,185.6323727,0,2,0
+M Simpson-Parker,Austria,7,47,74,6.714285714,48.43997058,0,0,1
+Razmal Shigiwal,Austria,11,344,255,31.27272727,122.9688784,0,1,1
+Abrar Bilal,Austria,3,36,40,12,88.70573871,0,0,0
+Shahil Momin,Austria,8,156,158,19.5,79.47022469,0,0,1
+Aqib Iqbal,Austria,7,99,108,14.14285714,75.12546977,0,0,1
+Mirza Ahsan,Austria,10,193,136,19.3,102.2348485,0,2,1
+Abdullah Akbarjan,Austria,7,33,53,4.714285714,51.90999477,0,0,1
+Jaweed Sadran,Austria,5,35,26,7,112.0606061,0,0,0
+A Nathwani,Austria,3,9,15,3,71.42857143,0,0,0
+Hamid Mahmood,Sweden,8,189,193,23.625,81.73647186,0,2,1
+Umar Nawaz (2),Sweden,9,189,195,21,90.07631874,0,1,0
+W Boshoff,Sweden,6,81,100,13.5,65.35087719,0,0,0
+A Venkatesh,Sweden,9,113,133,12.55555556,65.25998115,0,0,2
+Azam Khalil,Sweden,7,98,83,14,115.5810658,0,0,0
+Samiallah Khalil,Sweden,2,3,6,1.5,50,0,0,0
+Tasaduq Hussain,Sweden,2,2,6,1,25,0,0,1
+Zaker Taqawi,Sweden,6,38,54,6.333333333,71.11111111,0,0,0
+L Karlsson,Sweden,4,30,28,7.5,100.1388889,0,0,0
+Baz Aybui,Sweden,2,3,17,1.5,20.19230769,0,0,0
+Lemar Momand,Sweden,2,2,6,1,25,0,0,1
+Ahmed Wardak,Germany,1,10,17,10,58.82352941,0,0,0
+Sahel Zadran,Austria,4,36,28,9,109.2857143,0,0,0
+Sajid Liaqat,Germany,1,15,15,15,100,0,0,0
+A Randhawa,Austria,5,61,80,12.2,73.17460317,0,0,0
+MPS Cheema,Austria,4,32,27,8,119.0972222,0,0,0
+Khalid Zahid,Sweden,4,37,29,9.25,115.8333333,0,0,0
+Ismaeel Zia,Sweden,6,54,72,9,58.96296296,0,0,1
+V Aritharan,Germany,1,7,11,7,63.63636364,0,0,0
+F Choudary,Sweden,1,0,1,0,0,0,0,1
+Yasir Shah,Pakistan,2,44,153,22,29.47349043,0,0,0
+PA Raikes,Gibraltar,4,62,78,15.5,71.47435897,0,0,0
+KJ Stagno,Gibraltar,4,97,68,24.25,122.3057644,0,0,0
+IDM Latin,Gibraltar,4,84,68,21,115.1388889,0,0,0
+JD Freyone,Gibraltar,4,21,16,5.25,75,0,0,2
+Aziz Mohammad,Belgium,5,114,86,22.8,98.00958392,0,1,0
+Muhammad Muneeb,Belgium,5,120,110,24,92.7757085,0,0,0
+Omid Mailk Khel,Belgium,3,51,51,17,119.1358025,0,0,0
+Shaheryar Butt,Belgium,5,86,70,17.2,103.7939394,0,0,0
+Sheraz Sheikh,Belgium,5,41,65,8.2,67.66798419,0,0,1
+Kuldeep,Portugal,4,101,81,25.25,127.9545455,0,0,0
+SP Gomes,Portugal,4,82,86,20.5,75.00710429,0,1,1
+Najjam Shahzad,Portugal,4,22,22,5.5,72.61904762,0,0,1
+F Stoman,Portugal,3,45,69,15,45.83333333,0,0,1
+Amir Zaib,Portugal,3,49,58,16.33333333,55.32212885,0,0,1
+Sirajullah Khadim,Portugal,3,38,40,12.66666667,93.40659341,0,0,0
+Zohaib Sarwar,Portugal,2,9,19,4.5,48.07692308,0,0,0
+Amandeep Singh,Portugal,3,29,26,9.666666667,93.45238095,0,0,0
+Fakhrul Mohon,Portugal,2,8,9,4,66.66666667,0,0,1
+Syed Maisam Ali,Portugal,3,26,21,8.666666667,121.2121212,0,0,0
+ND Laegsgaard,Denmark,12,408,334,34,113.0223055,0,4,1
+OD Hald,Denmark,10,128,115,12.8,98.44444444,0,0,2
+IM Farrell,Gibraltar,1,0,2,0,0,0,0,1
+JA Fitzgerald,Gibraltar,3,32,17,10.66666667,195.5555556,0,0,0
+M Cohen,Israel,2,33,33,16.5,97.97794118,0,0,0
+S Bangera,Israel,1,23,17,23,135.2941176,0,0,0
+J Evans,Israel,3,9,14,3,51.85185185,0,0,1
+E Solomon,Israel,3,87,86,29,103.6953243,0,0,0
+E Kahamker,Israel,3,47,41,15.66666667,130.9163059,0,0,0
+A Amado,Israel,2,19,28,9.5,58.75,0,0,0
+Yair Nagavkar,Israel,2,11,11,5.5,110.4166667,0,0,0
+Niv Nagavkar,Israel,2,11,17,5.5,52.38095238,0,0,0
+E Samson,Israel,2,3,3,1.5,75,0,0,1
+T Kahamker,Israel,1,1,1,1,100,0,0,0
+Zeeshan Kukikhel,Hungary,3,56,45,18.66666667,128.1684982,0,0,0
+M Fontaine,Hungary,2,3,8,1.5,41.66666667,0,0,0
+BP Adapaka,Hungary,2,1,2,0.5,50,0,0,1
+A Raza,Belgium,2,51,34,25.5,96.20689655,0,1,0
+Saber Zakhil,Belgium,4,73,58,18.25,105.5092593,0,0,0
+Shagharai Sefat,Belgium,1,4,10,4,40,0,0,0
+Ahmad Khalid Ahmadzai,Belgium,3,2,11,0.6666666667,23.33333333,0,0,1
+Murid Ekrami,Belgium,3,36,24,12,135.4395604,0,0,0
+Sajad Ahmadzai,Belgium,3,26,23,8.666666667,119.3650794,0,0,0
+Imran Khan (4),Portugal,1,10,13,10,76.92307692,0,0,0
+J Khan,Portugal,1,0,1,0,0,0,0,1
+J Shaju,Malta,1,1,4,1,25,0,0,0
+Yogev Nagavkar,Israel,2,39,47,19.5,45.34883721,0,0,1
+G Schachat,Israel,2,90,80,45,111.4420063,0,1,0
+Maqsood Ahmad,Belgium,1,13,19,13,68.42105263,0,0,0
+Khalid Ahmadi,Belgium,2,13,8,6.5,92.85714286,0,0,1
+Omar Hayat,Denmark,1,6,4,6,150,0,0,0
+Saud Munir,Denmark,3,1,9,0.3333333333,16.66666667,0,0,2
+Muhammad Fahim,Belgium,1,2,4,2,50,0,0,0
+Azhar Andani,Portugal,2,8,15,4,52.77777778,0,0,0
+S Thanikaithasan,Denmark,7,155,192,22.14285714,105.0147006,0,1,0
+Atif Mehmood,Spain,2,20,16,10,125,0,0,0
+Raja Adeel,Spain,3,3,10,1,33.33333333,0,0,0
+Ali Yalmaz,Hungary,1,2,6,2,33.33333333,0,0,0
+Muhammad Shoaib Ahmed,Cyprus,5,90,89,18,80.1010101,0,0,1
+AUKDS Kalugala,Cyprus,5,68,69,13.6,88.14285714,0,0,0
+CPPM Sadun,Cyprus,5,110,109,22,100.253268,0,1,0
+Gurpratap Singh,Cyprus,5,89,73,17.8,106.6012821,0,0,0
+S Austin,Cyprus,5,60,61,12,76.33333333,0,0,1
+R Mazumder,Cyprus,5,80,69,16,107.9020979,0,0,0
+NK Tiwari,Cyprus,4,44,54,11,51.68269231,0,0,1
+Tejwinder Singh,Cyprus,5,68,31,13.6,184.8412698,0,0,1
+SN Pathirana,Cyprus,3,9,13,3,62.22222222,0,0,0
+SRMJJ Arachchilage,Cyprus,2,6,12,3,30,0,0,1
+Riyaz Kajalwala,Cyprus,2,1,9,0.5,8.333333333,0,0,1
+A McAuley,Isle of Man,4,61,81,15.25,69.78385949,0,0,0
+N Knights,Isle of Man,5,111,70,22.2,102.0460526,0,1,1
+G Burrows,Isle of Man,5,210,162,42,134.3671379,0,3,0
+C Hartmann,Isle of Man,5,81,76,16.2,119.2261905,0,0,0
+M Jenkinson,Finland,4,72,64,18,96.68831169,0,0,0
+Waqas Haider,Sweden,3,35,21,11.66666667,183.3333333,0,0,0
+Imal Zuwak,Sweden,3,29,33,9.666666667,80.55555556,0,0,0
+Rohit Kumar,Romania,2,8,21,4,36.81818182,0,0,0
+Shamsullah Ehsan,Turkey,4,16,41,4,30.86538462,0,0,1
+I Elec,Turkey,4,10,32,2.5,25.25252525,0,0,1
+R Nath,Turkey,4,40,80,10,46.92460317,0,0,0
+C Bayraktar,Turkey,3,26,41,8.666666667,65.01035197,0,0,0
+E Kuyumcu,Turkey,3,17,48,5.666666667,26.76767677,0,0,1
+Zafer Durmaz,Turkey,2,0,3,0,0,0,0,2
+M Ozturk,Turkey,4,28,59,7,50.95571096,0,0,0
+GG Alta,Turkey,4,56,77,14,63.8047138,0,0,0
+Ilyas Ataullah,Turkey,4,48,33,12,121.7105263,0,0,1
+A Turkmen,Turkey,4,28,34,7,62.22222222,0,0,1
+Iftekar Jaman,Cyprus,3,43,31,14.33333333,114.7727273,0,0,0
+M Koli,Romania,3,18,18,6,53.88888889,0,0,1
+M Gherasim,Romania,1,2,4,2,50,0,0,0
+S Vashisht,Romania,3,11,16,3.666666667,55.05050505,0,0,0
+C Zavoiu,Romania,2,1,4,0.5,25,0,0,1
+CP Turkich,Croatia,5,49,106,9.8,39.37674419,0,0,1
+SD Valjalo,Croatia,5,42,56,8.4,77.20437457,0,0,0
+JD Newton,Croatia,4,32,51,8,31.69191919,0,0,2
+DJ Turkich,Croatia,5,65,82,13,70.98051948,0,0,0
+D Marsic,Croatia,4,41,75,10.25,40.77380952,0,0,1
+JM Vujinovich,Croatia,5,51,101,10.2,42.40887495,0,0,1
+WK Bitis,Croatia,2,1,7,0.5,10,0,0,1
+A Maheshwari,Croatia,2,3,9,1.5,39.28571429,0,0,0
+B Jerkovic,Croatia,4,27,60,6.75,58.77504848,0,0,0
+J Grzinic,Croatia,4,15,40,3.75,29.28240741,0,0,2
+Sohail Ahmad,Croatia,1,6,7,6,85.71428571,0,0,0
+EF Beard,Isle of Man,3,81,56,27,143.2263815,0,0,0
+JA Burrows,Isle of Man,3,2,4,0.6666666667,50,0,0,1
+D Jansen,Isle of Man,3,35,38,11.66666667,51.04166667,0,0,1
+MJ Ansell,Isle of Man,3,24,31,8,88.14814815,0,0,0
+CJ Langford,Isle of Man,3,16,20,5.333333333,88.88888889,0,0,0
+S Ivetic,Serbia,8,256,286,32,92.48311656,0,2,0
+MV Pavlovic,Serbia,6,45,77,7.5,45.09803922,0,0,1
+J Mosca,Italy,8,148,149,18.5,87.94663155,0,0,1
+HJ Manenti,Italy,7,93,128,13.28571429,74.43664357,0,0,1
+Baljit Singh,Italy,2,54,37,27,139.2857143,0,0,0
+T Turan,Turkey,2,0,6,0,0,0,0,2
+AA Gajic,Serbia,1,3,5,3,60,0,0,0
+Alexandros Karvelas,Greece,3,70,74,23.33333333,91.11111111,0,0,0
+P Magafas,Greece,3,49,55,16.33333333,123.015873,0,0,0
+G Fatouros,Greece,3,69,54,23,94.76190476,0,1,0
+A Manousis,Greece,3,11,12,3.666666667,36.66666667,0,0,2
+S Bogdos,Greece,3,5,21,1.666666667,34.77633478,0,0,0
+C Bogdanos,Greece,3,31,45,10.33333333,67.67598344,0,0,0
+AS Mehmi,Greece,3,8,12,2.666666667,74.44444444,0,0,0
+Aslam Mohammad,Greece,2,1,7,0.5,12.5,0,0,1
+A Gasteratos,Greece,1,4,10,4,40,0,0,0
+GC Galanis,Greece,3,9,12,3,75,0,0,0
+T Zotos,Greece,3,6,9,2,50,0,0,2
+Ziaur Rehman,Finland,3,48,41,16,108.9460784,0,0,0
+I Bardis,Greece,2,2,6,1,33.33333333,0,0,1
+Muhammad Farooq,Cyprus,1,5,4,5,125,0,0,0
+T Ulutuna,Turkey,1,1,2,1,50,0,0,0
+D Mutu,Turkey,1,0,3,0,0,0,0,1
+Hasan Cakir,Turkey,1,0,2,0,0,0,0,1
+AJ Mosca,Italy,6,353,349,58.83333333,102.7703609,2,1,0
+Ankit Dubey,Sweden,1,5,3,5,166.6666667,0,0,0
+Ali Abdulla Popalzae,Greece,1,0,3,0,0,0,0,1
+N Davidovic,Croatia,2,20,11,10,164.2857143,0,0,0
+M Sarenac,Serbia,2,2,6,1,50,0,0,1
+J Clough,Isle of Man,1,9,13,9,69.23076923,0,0,0
+Habib Ahmadzai,Austria,7,103,114,14.71428571,73.28520341,0,0,1
+TC Barker,Luxembourg,9,105,112,11.66666667,63.02246555,0,0,3
+G Venkateswaran,Luxembourg,6,72,89,12,103.3994709,0,0,0
+J Mees,Luxembourg,9,161,165,17.88888889,103.6521364,0,0,0
+SKS Gill,Luxembourg,8,193,196,24.125,86.41823743,0,0,1
+V Vijh,Luxembourg,7,58,89,8.285714286,41.79878945,0,0,2
+J Barker,Luxembourg,8,138,140,17.25,88.45575477,0,0,1
+S Kushretha,Luxembourg,3,14,23,4.666666667,40.70512821,0,0,1
+WJ Cope,Luxembourg,7,78,75,11.14285714,66.29637435,0,0,2
+Atif Kamal,Luxembourg,5,23,28,4.6,69.04761905,0,0,1
+M Dixit,Luxembourg,4,44,41,11,70.22058824,0,0,1
+P Malav,Luxembourg,4,17,23,4.25,70.53571429,0,0,1
+Ali Masood,Estonia,3,115,103,38.33333333,87.01159951,0,1,0
+Arslan Amjad,Estonia,3,33,37,11,61.9047619,0,0,1
+Maidul Islam,Estonia,3,9,17,3,21.42857143,0,0,2
+Habib Khan,Estonia,3,21,25,7,65,0,0,1
+S Hook,Estonia,3,95,89,31.66666667,97.08754209,0,1,0
+MMR Obili,Estonia,2,3,8,1.5,21.42857143,0,0,1
+Elias Hasan,Estonia,2,12,16,6,68.25396825,0,0,0
+Saqib Naveed,Estonia,1,4,14,4,28.57142857,0,0,0
+Ali Raza,Estonia,1,4,3,4,133.3333333,0,0,0
+K Vislapuu,Estonia,2,2,6,1,33.33333333,0,0,0
+JC Martin,Guernsey,3,35,37,11.66666667,84.23076923,0,0,0
+Sulaiman Ali,Bulgaria,4,48,47,12,106.2770563,0,0,0
+R Dhiman,Bulgaria,3,17,17,5.666666667,100,0,0,0
+D Nikolov,Bulgaria,2,3,4,1.5,50,0,0,1
+G Mckeon,France,4,290,182,72.5,134.3482443,2,1,0
+HA Jackson,France,4,80,98,20,78.02770464,0,0,0
+Zain Ahmad,France,4,21,32,5.25,33.75,0,0,2
+Noman Amjad,France,4,69,70,17.25,104.9873737,0,0,0
+Jubaid Ahamed,France,3,6,8,2,72.22222222,0,0,0
+L Canessane,France,4,21,33,5.25,55.58035714,0,0,1
+Abdul Rahman,France,9,134,156,14.88888889,68.57623858,0,1,1
+UNGB Thenannahelage,Czech Republic,3,21,24,7,89.56228956,0,0,0
+SMK Waththage,Czech Republic,2,8,9,4,87.5,0,0,0
+P Pustoslemsek,Slovenia,4,33,57,8.25,52.14371981,0,0,0
+Ayyaz Qureshi,Slovenia,4,55,76,13.75,66.76349966,0,0,0
+Muhammad Siddiqui,Slovenia,3,81,64,27,125.6944444,0,0,0
+Ramanjot Singh,Slovenia,4,87,100,21.75,78.75174825,0,0,0
+S Koppolu,Slovenia,3,7,16,2.333333333,31.66666667,0,0,1
+MH Oman,Slovenia,3,5,22,1.666666667,30.55555556,0,0,0
+Shahid Arshad,Slovenia,4,30,43,7.5,53.68371212,0,0,1
+Taher Muhammad,Slovenia,4,19,35,4.75,61.69386169,0,0,0
+Mazhar Khan,Slovenia,3,9,19,3,47.91666667,0,0,1
+Awais Ikram,Slovenia,2,4,6,2,66.66666667,0,0,0
+NL Ujawe,Slovenia,3,3,4,1,83.33333333,0,0,0
+Rahmatullah Mangal,France,3,21,25,7,74.78632479,0,0,0
+Faheem Nazir,Switzerland,5,307,203,61.4,154.57933,2,1,0
+A Andrews,Switzerland,1,4,6,4,66.66666667,0,0,0
+Arjun Vinod,Switzerland,5,34,52,6.8,54.54545455,0,0,1
+Jai Sinh,Switzerland,3,7,17,2.333333333,26.51515152,0,0,1
+Osama Mahmood,Switzerland,3,4,10,1.333333333,16.66666667,0,0,2
+Asad Mahmood,Switzerland,2,9,15,4.5,62.5,0,0,0
+Sathya Narayanan,Switzerland,5,35,51,7,48.57471264,0,0,1
+NK Aneesh Kumar,Switzerland,3,9,14,3,48.14814815,0,0,1
+Ali Nayyer,Switzerland,4,105,67,26.25,173.5198135,0,0,0
+K Fletcher,Switzerland,2,3,9,1.5,37.5,0,0,1
+Ashwin Vinod,Switzerland,2,3,5,1.5,37.5,0,0,1
+Anoop Orsu,Luxembourg,5,46,42,9.2,88.66165414,0,0,2
+Umair Tariq,Austria,2,21,20,10.5,132.1428571,0,0,0
+Waqar Khan,Slovenia,3,13,10,4.333333333,96.66666667,0,0,1
+Ibrahim Jabarkhel,France,2,12,12,6,54.54545455,0,0,1
+R Mangal,France,2,3,6,1.5,70,0,0,0
+Ansar Iqbal,Norway,3,56,42,18.66666667,141.9047619,0,0,0
+M Shahbaz Butt,Norway,3,35,40,11.66666667,76.66666667,0,0,0
+Usman Arif (2),Norway,3,74,31,24.66666667,203.2323232,0,0,0
+Ibrahim Rahimi,Norway,1,0,4,0,0,0,0,1
+Qamar Mushtaque,Norway,3,19,12,6.333333333,133.3333333,0,0,0
+RHO Saunders,Norway,2,15,23,7.5,49.34210526,0,0,0
+TK Lal,Czech Republic,1,3,2,3,150,0,0,0
+M Vaik,Estonia,1,4,23,4,17.39130435,0,0,0
+A Paul,Estonia,1,14,19,14,73.68421053,0,0,0
+R Tanna,Estonia,1,2,3,2,66.66666667,0,0,0
+Bhagwant Sandhu,Slovenia,1,2,5,2,40,0,0,0
+Azeem Nazir,Switzerland,2,36,42,18,45,0,0,1
+Noorkhan Ahmedi,Switzerland,2,52,30,26,175.1196172,0,0,0
+Anser Mehmood,Switzerland,1,3,7,3,42.85714286,0,0,0
+A Nanda,Luxembourg,3,18,13,6,116.6666667,0,0,0
+DK Pallekonda,Slovenia,1,1,1,1,100,0,0,0
+A Martel,Guernsey,1,23,13,23,176.9230769,0,0,0
+S Santhirakumaran,France,1,7,9,7,77.77777778,0,0,0
+Dawood Ahmadzai,France,1,3,14,3,21.42857143,0,0,0
+N Wijesekera,Austria,3,13,8,4.333333333,158.3333333,0,0,0
+A Bhadauria,Luxembourg,2,40,32,20,126.1904762,0,0,0
+SL Clephane,Czech Republic,1,1,6,1,16.66666667,0,0,0
+KM Venkataswamy,Czech Republic,1,55,46,55,119.5652174,0,1,0
+Itibarshah Deedar,Austria,1,4,7,4,57.14285714,0,0,0
+Khizar Hayat,Malaysia,10,134,209,13.4,79.2790609,0,0,0
+Aritra Dutta,Singapore,10,255,264,25.5,88.65445987,0,1,0
+S Chandramohan,Singapore,21,372,376,17.71428571,80.1043844,1,0,2
+R Gaznavi,Singapore,14,173,266,12.35714286,69.72256034,0,0,0
+NMS Param,Singapore,5,94,85,18.8,90.69444444,0,0,1
+Janak Prakash,Singapore,26,432,483,16.61538462,98.18413922,0,1,2
+U Aryaman Sunil,Singapore,26,293,263,11.26923077,89.67902102,0,1,4
+Amjad Mahboob,Singapore,15,71,81,4.733333333,78.88792689,0,0,2
+R Rohan,Singapore,11,235,335,21.36363636,58.29444042,0,1,1
+Aman Desai,Singapore,21,373,363,17.76190476,119.9091625,0,2,1
+V Baskaran,Singapore,18,92,185,5.111111111,58.71255759,0,0,2
+A Mutreja,Singapore,10,292,272,29.2,80.49925043,0,3,2
+A Krishna,Singapore,4,26,29,6.5,86.36363636,0,0,0
+B Ward,Jersey,4,88,61,22,130.0865801,0,0,0
+JS Malhotra,United States of America,12,202,214,16.83333333,73.52207361,0,2,1
+HGV Vare,Papua New Guinea,6,37,44,6.166666667,69.19191919,0,0,1
+D Ravu,Papua New Guinea,6,31,41,5.166666667,94.44444444,0,0,0
+Zeeshan Ali (2),Hong Kong,9,138,133,15.33333333,93.04284677,0,0,0
+SS McKechnie,Hong Kong,7,49,49,7,103.8265306,0,0,0
+RG Mukasa,Uganda,8,163,126,20.375,97.3828125,0,1,2
+MO Kain,United States of America,4,21,24,5.25,43.75,0,0,2
+AR Puri,Singapore,11,19,64,1.727272727,40.82291446,0,0,3
+Shahid Wasif,Hong Kong,3,39,45,13,96.66666667,0,0,0
+Bilal Hassun,Uganda,6,27,28,4.5,69.74747475,0,0,1
+RJG Palmer,Jersey,1,1,2,1,50,0,0,0
+D Siva Kumar,United States of America,1,7,14,7,50,0,0,0
+Aftab Hussain,Hong Kong,1,1,1,1,100,0,0,0
+ZM Tribe,Jersey,1,5,11,5,45.45454545,0,0,0
+VM Vaghela,United States of America,1,29,32,29,90.625,0,0,0
+Nazril Rahman,Malaysia,1,20,15,20,133.3333333,0,0,0
+Namgay Thinley,Bhutan,6,46,88,7.666666667,39.62843005,0,0,1
+J Singye,Bhutan,5,76,94,15.2,74.66666667,0,0,0
+T Jamtsho,Bhutan,6,151,137,25.16666667,106.0531874,0,1,1
+N Chejay,Bhutan,4,21,42,5.25,37.5,0,0,1
+GK Ghalley,Bhutan,5,54,72,10.8,55.46783626,0,0,1
+RM Dorji,Bhutan,5,11,43,2.2,32.95454545,0,0,1
+S Pradhan,Bhutan,5,25,41,5,42.23057644,0,0,2
+Manoj Adhikari,Bhutan,3,17,41,5.666666667,56.17816092,0,0,0
+T Wangchuk,Bhutan,2,5,9,2.5,71.42857143,0,0,0
+Ngawang Thinley,Bhutan,4,22,26,5.5,95.55555556,0,0,1
+S Desungnoen,Thailand,4,9,33,2.25,25.1984127,0,0,1
+N Nuntarach,Thailand,5,20,37,4,45.39393939,0,0,1
+J Pakhiaokajee,Thailand,5,30,39,6,112,0,0,1
+C Chatphaisan,Thailand,5,34,35,6.8,69.07563025,0,0,2
+Vichanath Singh,Thailand,5,47,80,9.4,62.12865497,0,0,0
+P Suanchuai,Thailand,5,88,121,17.6,83.51126859,0,0,0
+Y Saranonnakkun,Thailand,5,17,28,3.4,35.35087719,0,0,2
+C Pengkumta,Thailand,5,21,52,4.2,30.42443064,0,0,1
+P Thongsa,Thailand,2,3,14,1.5,33.33333333,0,0,0
+K Senamontree,Thailand,5,15,29,3,64.85714286,0,0,1
+K Namchaikul,Thailand,3,1,8,0.3333333333,6.666666667,0,0,2
+Tenjin Rabgey,Bhutan,4,30,39,7.5,46.5530303,0,0,1
+S Yeshi,Bhutan,2,3,9,1.5,25,0,0,1
+Ahmed Hassan,Maldives,4,45,47,11.25,58.80325815,0,0,1
+Umar Adam,Maldives,4,28,31,7,93.69047619,0,0,0
+Azyan Farhath,Maldives,4,49,91,12.25,55,0,0,0
+Mohamed Rishwan,Maldives,4,46,46,11.5,116.6666667,0,0,0
+Hassan Rasheed,Maldives,4,63,53,15.75,108.4429825,0,0,0
+Mohamed Azzam,Maldives,3,29,35,9.666666667,92.42979243,0,0,0
+Shunan Ali,Maldives,1,11,24,11,45.83333333,0,0,0
+L Shafeeg,Maldives,2,1,3,0.5,25,0,0,1
+Ibrahim Hassan,Maldives,4,32,35,8,77.3018648,0,0,0
+Ibrahim Rizan,Maldives,4,10,12,2.5,53.57142857,0,0,1
+S Loday,Bhutan,2,28,35,14,78.24074074,0,0,0
+Abdullah Shahid,Maldives,2,11,17,5.5,50.96153846,0,0,0
+Ibrahim Nashath,Maldives,2,2,9,1,12.5,0,0,1
+Ameel Mauroof,Maldives,2,18,27,9,70.83333333,0,0,0
+T Yotharat,Thailand,2,10,18,5,63.07692308,0,0,0
+Basir Ahamad,Nepal,2,3,13,1.5,16.66666667,0,0,1
+B Shikongo,Namibia,2,4,12,2,37.5,0,0,0
+K Mahato,Nepal,1,0,9,0,0,0,0,1
+CD Wallace,Scotland,4,92,108,23,107.3136646,0,0,0
+Sabir Ali,United Arab Emirates,2,12,12,6,100,0,0,0
+Mohammad Saifuddin,Bangladesh,2,4,6,2,80,0,0,0
+LC Hatcher,New South Wales,1,0,2,0,0,0,0,1
+S Fanning,Western Australia,4,102,373,25.5,22.15562053,0,1,0
+TD Paine,Tasmania,4,42,62,10.5,61.12550607,0,0,0
+JA Freeman,Tasmania,6,144,231,24,48.35741464,0,1,1
+F O'Neill,Victoria,3,62,182,20.66666667,35.37763253,0,0,0
+AP Chandrasinghe,Victoria,4,137,446,34.25,16.30066934,1,0,1
+T Murphy,Victoria,2,5,15,2.5,82.69230769,0,0,0
+CJ Gannon,Western Australia,1,10,19,10,52.63157895,0,0,0
+CH Stobo,Western Australia,1,27,69,27,39.13043478,0,0,0
+TW Gray,New South Wales,1,4,15,4,26.66666667,0,0,0
+MW Edwards,New South Wales,2,13,22,6.5,48.24561404,0,0,0
+C Kellaway,Victoria,6,79,153,13.16666667,100.62434,0,0,0
+SM Elliott,Victoria,2,34,84,17,42.20816561,0,0,0
+JC Carmichael,St Kitts and Nevis Patriots,3,13,23,4.333333333,54.82295482,0,0,0
+JL Jaggesar,St Kitts and Nevis Patriots,1,10,10,10,100,0,0,0
+LS Lugg,St Lucia Kings,1,13,21,13,61.9047619,0,0,0
+M Deyal,St Lucia Kings,6,66,62,11,61.04700855,0,0,2
+RS Primus,St Lucia Kings,7,97,87,13.85714286,91.53465582,0,0,1
+AWJ Auguste,St Lucia Kings,2,15,21,7.5,70,0,0,0
+MW Forde,St Lucia Kings,5,83,62,16.6,136.0952381,0,1,0
+T Webster,Trinbago Knight Riders,6,81,81,13.5,60.05150287,0,1,2
+SS Cottrell,St Kitts and Nevis Patriots,3,3,10,1,46.66666667,0,0,1
+RRS Cornwall,Barbados Royals,9,242,180,26.88888889,107.591794,0,1,0
+C Hemraj,Guyana Amazon Warriors,10,156,150,15.6,86.15747703,0,0,1
+AA Jangoo,Jamaica Tallawahs,6,93,121,15.5,76.86668812,0,0,0
+J Bishop,Barbados Royals,2,10,4,5,166.6666667,0,0,1
+K Pierre,Trinbago Knight Riders,2,16,21,8,56.61764706,0,0,0
+JM James,Jamaica Tallawahs,1,1,1,1,100,0,0,0
+R Rampaul,Trinbago Knight Riders,4,22,17,5.5,128.452381,0,0,0
+LM Edward,St Lucia Kings,1,6,6,6,100,0,0,0
+A Dananjaya,St Kitts and Nevis Patriots,3,12,18,4,55.55555556,0,0,0
+JA Sinclair,Guyana Amazon Warriors,4,40,34,10,233.5897436,0,0,0
+LJA Julien,Trinbago Knight Riders,2,3,8,1.5,43.33333333,0,0,0
+KSA McKenzie,Jamaica Tallawahs,1,15,16,15,93.75,0,0,0
+SA Lewis,Trinbago Knight Riders,1,1,3,1,33.33333333,0,0,0
+RR Simmonds,Barbados Royals,1,13,9,13,144.4444444,0,0,0
+NA Gordon,Jamaica Tallawahs,1,5,5,5,100,0,0,0
+J Royal,St Lucia Kings,1,3,6,3,50,0,0,0
+TK Musakanda,Zimbabwe,1,4,5,4,80,0,0,0
+Tarun Yadav,Bulgaria,2,14,11,7,130,0,0,0
+SG Shinde (2),Serbia,1,6,22,6,27.27272727,0,0,0
+A Djorovic,Serbia,1,15,26,15,57.69230769,0,0,0
+B Dugic,Serbia,1,0,1,0,0,0,0,1
+V Viyaskanth,Jaffna Kings,5,18,19,3.6,77.22222222,0,0,1
+MNK Fernando,Galle Gladiators,8,211,170,26.375,135.1456785,0,2,0
+M Subasingha,Galle Gladiators,2,42,41,21,85.96491228,0,0,0
+Sammu Ashan,Galle Gladiators,1,1,2,1,50,0,0,0
+Pulina Tharanga,Galle Gladiators,2,7,9,3.5,72.5,0,0,0
+M Lakshan,Colombo Stars,2,6,5,3,100,0,0,1
+S Daniel,Dambulla Aura,8,175,155,21.875,95.31415344,0,1,1
+PC de Silva,Dambulla Aura,4,41,35,10.25,94.47916667,0,0,0
+LD Madushanka,Dambulla Aura,3,15,17,5,77.77777778,0,0,0
+S Samarawickrama,Jaffna Kings,9,294,233,32.66666667,121.7955496,0,1,0
+DA Randika,Jaffna Kings,2,31,15,15.5,296.4285714,0,0,0
+PTM Dabare,Galle Gladiators,7,152,126,21.71428571,85.03414098,0,1,1
+KNA Bandara,Kandy Falcons,8,244,209,30.5,113.1931562,0,0,0
+ND Paranavithana,Colombo Stars,4,15,19,3.75,68.18181818,0,0,1
+KTH Ratnayake,Dambulla Aura,2,15,17,7.5,90,0,0,0
+LU Igalagamage,Galle Gladiators,6,112,98,18.66666667,90.83889966,0,0,1
+RS Fernando,Dambulla Aura,2,19,15,9.5,73.07692308,0,0,1
+MADI Hemantha,Dambulla Aura,1,2,4,2,50,0,0,0
+SMA Priyanjan,Kandy Falcons,1,1,1,1,100,0,0,0
+KNM Fernando,Colombo Stars,5,61,90,12.2,62.74242424,0,0,0
+L Croospulle,Dambulla Aura,3,17,15,5.666666667,76.66666667,0,0,1
+Asad Shafiq,Galle Gladiators,5,106,72,21.2,122.1356421,0,1,0
+D Madushanka,Jaffna Kings,2,8,6,4,112.5,0,0,0
+Waqar Salamkheil,Jaffna Kings,1,6,5,6,120,0,0,0
+PADLR Sandakan,Galle Gladiators,3,6,21,2,52.2875817,0,0,0
+M Bhanuka,Kandy Falcons,2,20,18,10,106.4935065,0,0,0
+Kaveen Bandara,Kandy Falcons,1,27,17,27,158.8235294,0,0,0
+C Wijesinghe,Kandy Falcons,1,6,7,6,85.71428571,0,0,0
+DS Thilakaratne,Dambulla Aura,1,21,26,21,80.76923077,0,0,0
+KKV Perera,Dambulla Aura,1,0,1,0,0,0,0,1
+D Lakshan,Colombo Stars,2,3,8,1.5,37.5,0,0,0
+N Vimukthi,Galle Gladiators,1,5,5,5,100,0,0,0
+LN Malinga,Galle Gladiators,1,3,6,3,50,0,0,0
+C Wickramasinghe,Dambulla Aura,1,2,6,2,33.33333333,0,0,0
+S Jayathilake,Dambulla Aura,1,7,5,7,140,0,0,0
+SSD Arachchige,Galle Gladiators,1,53,33,53,160.6060606,0,1,0
+Josh Brown,Brisbane Heat,1,7,11,7,63.63636364,0,0,0
+HTRY Thornton,Adelaide Strikers,1,3,4,3,75,0,0,0
+Izharulhaq Naveed,Sydney Sixers,1,1,1,1,100,0,0,0
+AE Paraam,Singapore,5,252,315,50.4,83.08048386,0,2,0
+Kamran Khan (2),Qatar,12,143,158,11.91666667,102.5726432,0,0,1
+Zaheer Ibrahim,Qatar,5,85,117,17,54.22458154,0,0,1
+I Liyanage,Qatar,12,359,403,29.91666667,77.61952421,0,4,2
+Mohammad Rizlan,Qatar,12,266,332,22.16666667,70.07045653,0,3,3
+Muhammad Tanveer,Qatar,9,305,340,33.88888889,88.17593594,0,3,0
+Imraz Rafi,Qatar,4,63,118,15.75,47.69397269,0,0,0
+Akash Babu,Qatar,10,209,269,20.9,55.27229776,0,2,2
+Ikramullah Khan,Qatar,8,135,184,16.875,68.2923906,0,1,2
+Muhammad Murad,Qatar,4,40,73,10,40.97222222,0,0,1
+Mohammed Nadeem,Qatar,7,31,49,4.428571429,42.13250518,0,0,3
+Musawar Shah,Qatar,2,1,3,0.5,50,0,0,1
+Zameer Khan,Denmark,7,191,320,27.28571429,59.7454496,0,0,0
+J Rasu,Vanuatu,10,134,233,13.4,87.5229928,0,0,0
+N Nipiko,Vanuatu,8,159,140,19.875,105.5812281,0,1,1
+JP Kaltapau,Vanuatu,11,239,342,21.72727273,57.58068637,0,2,2
+A Mansale,Vanuatu,7,221,226,31.57142857,113.8637527,0,2,1
+BA Viraliliu,Vanuatu,4,16,46,4,23.40277778,0,0,1
+JD Allan,Vanuatu,10,147,251,14.7,63.436736,0,0,0
+R Tari,Vanuatu,8,77,139,9.625,63.31842128,0,0,2
+W Nalisa,Vanuatu,5,49,91,9.8,60.13949843,0,0,1
+AL Stephen,Vanuatu,2,24,15,12,92.30769231,0,0,1
+RSK Samson,Vanuatu,1,2,6,2,33.33333333,0,0,0
+Obed Yosef,Vanuatu,4,4,12,1,56.25,0,0,1
+NR Kirton,Canada,6,251,302,41.83333333,62.64801438,1,1,1
+V Sehdev,Canada,2,33,72,16.5,30.83333333,0,0,0
+D Mogan,Malaysia,1,5,11,5,45.45454545,0,0,0
+Anwar Rahman,Malaysia,4,34,74,8.5,31.53846154,0,0,2
+Saif Ullah Malik,Malaysia,3,36,77,12,49.31034483,0,0,0
+Assad Borham,Qatar,8,48,106,6,46.76350948,0,0,0
+SH Obed,Vanuatu,3,1,13,0.3333333333,11.11111111,0,0,2
+J Vira,Vanuatu,4,44,131,11,31.66635005,0,0,0
+D Wotu,Vanuatu,4,15,38,3.75,26.93452381,0,0,1
+Gayan Munaweera,Qatar,6,44,82,7.333333333,64.43019943,0,0,2
+D Samarawickrama,Italy,7,111,214,15.85714286,42.39816366,0,1,0
+N Pauththuwadura,Italy,2,8,22,4,21.05263158,0,0,1
+Ahmed Nisar,Italy,4,41,58,10.25,63.95424837,0,0,0
+Ali Hasan,Italy,5,35,31,7,72.29691877,0,0,1
+RSJ Burrows,Bermuda,2,31,101,15.5,24.43589744,0,0,0
+Z Tomlinson,Bermuda,2,20,48,10,21.73913043,0,0,1
+TS Fray,Bermuda,2,8,36,4,20.73578595,0,0,0
+K Furbert,Bermuda,1,0,1,0,0,0,0,1
+NPF Ranhaluge,Italy,2,20,40,10,54.98721228,0,0,0
+Sukhdeep Singh,Kenya,11,174,201,15.81818182,79.92756793,0,0,1
+Jagmeet Singh,Italy,1,9,8,9,112.5,0,0,0
+K Kekulawala,Italy,1,4,13,4,30.76923077,0,0,0
+ISW Ranepura,Italy,1,0,2,0,0,0,0,1
+D Birrell,Jersey,1,1,9,1,11.11111111,0,0,0
+AR Gandhi,Kenya,1,0,1,0,0,0,0,1
+Aamer Jamal,Pakistan,1,10,7,10,142.8571429,0,0,0
+M Pathirana,Sri Lanka,1,5,12,5,41.66666667,0,0,0
+Meet Bhavsar,Kuwait,6,128,94,21.33333333,130.527519,0,1,1
+Adnan Idrees,Kuwait,5,47,38,9.4,70.72681704,0,0,2
+R Sandaruwan,Kuwait,6,167,111,27.83333333,145.0343915,0,1,0
+Usman Patel,Kuwait,6,180,130,30,109.8083051,0,2,1
+Muhammad Kashif,Kuwait,2,10,9,5,91.66666667,0,0,0
+Shiraz Khan,Kuwait,5,83,65,16.6,101.3256705,0,0,0
+MNM Aslam,Kuwait,4,60,62,15,101.6361437,0,0,0
+ED Silva,Kuwait,5,108,62,21.6,168.3333333,0,1,0
+Mohamed Shafeeq,Kuwait,3,12,9,4,195.5555556,0,0,0
+Haroon Shahid,Kuwait,1,7,3,7,233.3333333,0,0,0
+Nawaf Ahmed,Kuwait,1,10,4,10,250,0,0,0
+J Chaturanga,Bahrain,2,4,7,2,33.33333333,0,0,1
+Sachin Kumar,Bahrain,6,93,77,15.5,102.6102757,0,0,1
+Shahid Mahmood,Bahrain,4,21,26,5.25,63.69047619,0,0,1
+Bilal Tahir,Kuwait,4,55,34,13.75,125.3277972,0,0,1
+Sayed Monib,Kuwait,4,61,27,15.25,213.3333333,0,0,0
+Imran Khan (5),Bahrain,2,0,7,0,0,0,0,2
+LN Oluoch,Kenya,5,81,50,16.2,144.4859585,0,0,0
+A Saud,Nepal,10,195,333,19.5,52.20704621,0,1,2
+NN Odhiambo,Kenya,4,72,58,18,151.4563741,0,0,0
+Shahab Alam,Nepal,1,0,1,0,0,0,0,1
+Avi Dixit,Singapore,11,78,141,7.090909091,54.10266458,0,0,1
+Yasin Patel,Kuwait,1,9,7,9,128.5714286,0,0,0
+Sultan Ahmed (2),United Arab Emirates,2,1,4,0.5,25,0,0,1
+A Bhargava,Singapore,2,7,7,3.5,108.3333333,0,0,0
+Mohammad Ali (2),Pakistan,2,0,8,0,0,0,0,2
+Abrar Ahmed,Pakistan,3,17,32,5.666666667,80.55555556,0,0,0
+Jasdeep Singh,United States of America,4,25,54,6.25,56.56682028,0,0,0
+R Nehonde,Botswana,9,222,233,24.66666667,86.80400775,0,1,0
+S Kollery,Botswana,2,31,43,15.5,85.36585366,0,0,0
+K Motlanka,Botswana,9,261,218,29,112.9346996,0,2,0
+V Balakrishnan,Botswana,8,60,71,7.5,84.88771645,0,0,0
+Z Abbasi,Botswana,3,20,13,6.666666667,111.1111111,0,0,1
+V Mbazo,Botswana,6,45,53,7.5,51.26022126,0,0,2
+I Master,Botswana,4,43,44,10.75,82.73809524,0,0,1
+B Maphosa,Botswana,3,24,34,8,56.26262626,0,0,0
+P Silas,Botswana,7,81,61,11.57142857,107.4690799,0,0,2
+M Mooketsi,Botswana,3,17,18,5.666666667,110.1851852,0,0,0
+AR Ramjani,Uganda,3,100,72,33.33333333,115.3452685,0,1,0
+AR Patwa,Tanzania,13,370,288,28.46153846,118.4842218,0,3,1
+II Selemani,Tanzania,21,495,319,23.57142857,134.5857245,0,2,2
+SA Jumbe,Tanzania,14,142,152,10.14285714,87.38895558,0,0,2
+AP Rajeevan,Tanzania,20,441,376,22.05,103.6462775,0,3,0
+Jitin Singh,Tanzania,4,41,53,10.25,72.66666667,0,0,1
+K Nassoro,Tanzania,18,296,295,16.44444444,88.72011263,0,1,0
+Akhil Anil,Tanzania,12,146,111,12.16666667,116.6743827,0,1,1
+HA Chohan,Tanzania,5,22,12,4.4,165,0,0,1
+Amoluk Singh,Ghana,4,43,59,10.75,62.82051282,0,0,0
+TK Joseph,Ghana,7,47,46,6.714285714,93.7755102,0,0,1
+R Baaleri,Ghana,6,69,106,11.5,62.16333845,0,0,0
+R Bakum,Ghana,8,162,106,20.25,129.8342427,0,1,0
+OH Agbomadzie,Ghana,7,168,144,24,96.11978125,1,0,0
+Devender Singh,Ghana,7,91,101,13,85.74450549,0,0,0
+DK Anefie,Ghana,6,95,57,15.83333333,107.9594017,0,0,2
+JK Vifah,Ghana,8,138,135,17.25,91.87099359,0,1,0
+Gagandeep Singh (2),Ghana,2,4,7,2,55,0,0,0
+J Bulele,Mozambique,9,248,282,27.55555556,73.11393642,0,2,0
+F Damiao Couana,Mozambique,9,271,233,30.11111111,95.70882817,0,3,1
+VE Tembo,Mozambique,2,13,29,6.5,24.07407407,0,0,1
+FA Cossa,Mozambique,7,126,126,18,78.03926483,0,0,1
+JJ Huo,Mozambique,8,116,118,14.5,88.06174504,0,0,1
+L Emilio,Mozambique,6,60,64,10,75.63237688,0,0,1
+SK Awiah,Ghana,7,158,184,22.57142857,75.44907473,0,0,1
+KM Awala,Ghana,1,0,1,0,0,0,0,1
+KS Bagabena,Ghana,4,36,31,9,129.1666667,0,0,0
+Aziz Sualley,Ghana,2,4,2,2,200,0,0,1
+P Murungi,Uganda,9,101,91,11.22222222,101.5277778,0,0,1
+SDJJ Dima,Mozambique,2,2,10,1,50,0,0,1
+FE Carava,Mozambique,3,24,57,8,39.08496732,0,0,0
+AA Navicha,Mozambique,4,24,49,6,41.66666667,0,0,1
+BA Simango,Mozambique,2,0,6,0,0,0,0,2
+LA Simango,Mozambique,3,6,20,2,33.54978355,0,0,0
+T Tshose,Botswana,5,89,49,17.8,144.8917749,0,0,0
+GF Gomes,Mozambique,1,0,1,0,0,0,0,1
+ZE Matsinhe,Mozambique,1,1,9,1,11.11111111,0,0,0
+RK Kiseto,Tanzania,1,0,1,0,0,0,0,1
+M Yunusu Issa,Tanzania,9,65,50,7.222222222,132.5356125,0,0,1
+D Kansonkho,Malawi,3,23,22,7.666666667,94.13919414,0,0,1
+Sami Sohail,Malawi,2,50,47,25,118.8541667,0,0,0
+MA Baig,Malawi,1,74,60,74,123.3333333,0,1,0
+GM Ntambalika,Malawi,1,4,9,4,44.44444444,0,0,0
+D Jakiel,Malawi,1,11,12,11,91.66666667,0,0,0
+G Kansonkho,Malawi,2,7,14,3.5,52.08333333,0,0,0
+BN Toube,Cameroon,6,119,130,19.83333333,74.44146629,0,0,1
+KA Jadhav,Cameroon,1,2,14,2,14.28571429,0,0,0
+I Tchakou,Cameroon,6,41,61,6.833333333,68.95424837,0,0,0
+AN Toube,Cameroon,6,29,48,4.833333333,46.38888889,0,0,1
+DB Loic,Cameroon,5,29,40,5.8,38.27272727,0,0,2
+AB Mengoumou,Cameroon,3,4,24,1.333333333,9.523809524,0,0,2
+JB Abega,Cameroon,6,19,49,3.166666667,29.09356725,0,0,2
+RGA Amah,Cameroon,6,76,94,12.66666667,84.63166144,0,0,0
+FJ Mpegna,Cameroon,1,2,8,2,25,0,0,0
+AN Aminou,Cameroon,5,48,44,9.6,107.6190476,0,0,0
+AR Balla,Cameroon,5,6,26,1.2,18.78787879,0,0,2
+L Maphane,Botswana,1,0,1,0,0,0,0,1
+Sanvir Singh,Punjab,5,119,62,23.8,169.3956044,0,1,0
+Tanmay Agarwal,Hyderabad (India),3,88,76,29.33333333,76.98412698,0,1,1
+MSR Charan,Hyderabad (India),1,0,2,0,0,0,0,1
+Pragnay Reddy,Hyderabad (India),2,0,4,0,0,0,0,2
+Ravi Teja,Hyderabad (India),3,9,14,3,62.96296296,0,0,1
+Mickil Jaiswal,Hyderabad (India),3,63,38,21,138.2962963,0,0,0
+Rahul Buddhi,Hyderabad (India),3,31,29,10.33333333,118.4126984,0,0,0
+A Prateek Reddy,Hyderabad (India),2,3,13,1.5,13.63636364,0,0,1
+Tanay Thyagarajan,Hyderabad (India),3,36,32,12,106.2049062,0,0,0
+CV Milind,Hyderabad (India),3,10,10,3.333333333,70.83333333,0,0,1
+Rakshan Readdi,Hyderabad (India),1,2,4,2,50,0,0,0
+Pratham Singh,Railways,4,9,16,2.25,48.21428571,0,0,1
+Shivam Chaudhary,Railways,4,198,166,49.5,101.1723327,0,2,0
+Mohammad Saif,Railways,3,32,45,10.66666667,26.66666667,0,0,2
+Upendra Yadav,Railways,4,116,100,29,110.0301659,0,1,0
+Vivek Singh,Railways,4,107,85,26.75,111.1690328,0,1,0
+Suraj Ahuja,Railways,4,39,24,9.75,142.8571429,0,0,0
+MR Raut,Railways,4,12,18,3,59.22619048,0,0,1
+Avneesh Sudha,Uttarakhand,4,133,115,33.25,116.5082237,0,0,0
+Jiwanjot Singh,Uttarakhand,2,97,81,48.5,108.75,0,1,0
+AP Tare,Uttarakhand,4,115,84,28.75,133.6115002,0,0,0
+Kunal Chandela,Uttarakhand,4,62,56,15.5,99.79395604,0,0,0
+Swapnil Singh,Uttarakhand,4,35,32,8.75,101.7857143,0,0,0
+Joshua Ozukum,Nagaland,4,47,54,11.75,93.81313131,0,0,0
+Sedezhalie Rupero,Nagaland,4,20,30,5,66.52597403,0,0,0
+SS Mundhe,Nagaland,4,103,82,25.75,70.4245283,0,1,1
+Rongsen Jonathan,Nagaland,4,122,117,30.5,72.52262443,0,1,1
+Hokaito Zhimomi,Nagaland,3,12,31,4,24.69135802,0,0,1
+Chetan Bist,Nagaland,3,105,102,35,102.8413028,0,0,0
+Imliwati Lemtur,Nagaland,2,20,18,10,100,0,0,0
+Akash Singh,Nagaland,4,25,28,6.25,134.2261905,0,0,0
+Tahmeed Rahman,Nagaland,3,8,10,2.666666667,50,0,0,1
+HS Desai,Baroda,3,52,47,17.33333333,113.6363636,0,0,0
+Mitesh Patel,Baroda,4,108,87,27,97.18137255,0,1,1
+Vishnu Solanki,Baroda,4,78,63,19.5,97.29020979,0,1,0
+P Nitesh Reddy,Hyderabad (India),1,2,9,2,22.22222222,0,0,0
+K Bhagath Varma,Hyderabad (India),1,1,1,1,100,0,0,0
+Ramachandran Ragupathy,Puducherry,2,35,37,17.5,48.61111111,0,0,1
+Damodaran Rohit,Puducherry,3,40,30,13.33333333,134.6464646,0,0,0
+P Dogra,Puducherry,1,12,12,12,100,0,0,0
+Parameeswaran Sivaraman,Puducherry,3,32,38,10.66666667,34.40860215,0,0,2
+Mohit Mittan,Puducherry,3,54,48,18,88.77344877,0,0,0
+KB Arun Karthik,Puducherry,2,22,16,11,130.1587302,0,0,0
+Hiten Dalal,Delhi,3,8,8,2.666666667,83.33333333,0,0,1
+YV Dhull,Delhi,4,162,151,40.5,99.76185408,0,1,0
+Himmat Singh,Delhi,4,36,23,9,113.2142857,0,0,1
+Pukhraj Mann,Punjab,2,18,12,9,250,0,0,0
+C Rathore,Madhya Pradesh,2,10,11,5,50,0,0,1
+Shubham Sharma,Madhya Pradesh,3,106,87,35.33333333,119.742351,0,1,0
+Akshat Raghuwanshi,Madhya Pradesh,3,24,23,8,95.3968254,0,0,0
+Parth Sahani,Madhya Pradesh,3,26,31,8.666666667,83.33333333,0,0,0
+Ashwin Das,Madhya Pradesh,3,84,40,28,182.2222222,0,1,0
+Puneet Datey,Madhya Pradesh,1,1,1,1,100,0,0,0
+Dhruv Patel,Baroda,1,13,27,13,48.14814815,0,0,0
+Bhanu Pania,Baroda,3,51,34,17,135,0,0,0
+Tarang Gohel,Saurashtra,3,40,35,13.33333333,125.5555556,0,0,0
+Samarth Vyas,Saurashtra,5,190,114,38,154.597166,0,1,0
+Jay Gohil,Saurashtra,5,49,37,9.8,129.7619048,0,0,0
+Chirag Jani,Saurashtra,3,24,21,8,76.92307692,0,0,1
+Nagaho Chishi,Nagaland,1,0,1,0,0,0,0,1
+Piyush Singh,Bihar,1,10,11,10,90.90909091,0,0,0
+Bipin Saurabh,Bihar,3,81,62,27,91.66666667,0,1,1
+Mangal Mahrour,Bihar,2,98,76,49,129.1753292,0,1,0
+S Gani,Bihar,3,70,55,23.33333333,138.2716049,0,0,0
+R Pratap Singh,Bihar,1,3,1,3,300,0,0,0
+Snehal Kauthankar,Goa,2,32,39,16,87.03703704,0,0,0
+Aditya Kaushik,Goa,1,33,22,33,150,0,0,0
+TT Sawkar,Goa,3,58,52,19.33333333,133.459596,0,0,0
+SD Lad,Goa,2,20,22,10,52.63157895,0,0,1
+Darshan Misal,Goa,2,14,22,7,48.61111111,0,0,0
+Eknath Kerkar,Goa,2,19,19,9.5,55.88235294,0,0,1
+Deepraj Gaonkar,Goa,3,57,48,19,120.4040404,0,0,0
+Arjun Tendulkar,Goa,3,17,22,5.666666667,63.88888889,0,0,1
+Amit Yadav,Goa,1,9,7,9,128.5714286,0,0,0
+Lakshay Garg,Goa,1,7,7,7,100,0,0,0
+Pranshu Vijayran,Delhi,1,5,4,5,125,0,0,0
+Shivank Vashisth,Delhi,2,7,14,3.5,73.07692308,0,0,0
+Yogesh Sharma,Delhi,1,1,1,1,100,0,0,0
+Aryan Juyal,Uttar Pradesh,2,17,21,8.5,80,0,0,0
+AD Nath,Uttar Pradesh,2,37,41,18.5,103.0555556,0,0,0
+YB Kothari,Rajasthan,2,24,38,12,85.83333333,0,0,0
+AL Menaria,Rajasthan,2,20,18,10,84.375,0,0,0
+SF Khan,Rajasthan,2,75,64,37.5,118.1866384,0,0,0
+Samarpit Joshi,Rajasthan,1,39,28,39,139.2857143,0,0,0
+Arjit Gupta,Rajasthan,2,20,15,10,120.8333333,0,0,0
+KS Rathore,Rajasthan,2,40,25,20,236.9047619,0,0,0
+KL Nagarkoti,Rajasthan,2,2,2,1,100,0,0,1
+KV Sharma,Railways,2,23,14,11.5,167.7777778,0,0,0
+Dhrushant Soni,Railways,1,0,1,0,0,0,0,1
+Harsh Tyagi,Railways,1,1,1,1,100,0,0,0
+Denish Das,Assam,2,24,28,12,86.66666667,0,0,0
+RG Hazarika,Assam,3,72,64,24,104.7138047,0,0,0
+Abhishek Thakuri,Assam,1,8,7,8,114.2857143,0,0,0
+Rishav Das,Assam,2,15,11,7.5,150,0,0,0
+NR Narah,Assam,3,16,14,5.333333333,88.88888889,0,0,1
+Wasiqur Rahman,Assam,2,6,14,3,30,0,0,1
+Rajjakuddin Ahmed,Assam,2,44,29,22,158.3333333,0,0,0
+D Rabha,Assam,1,9,5,9,180,0,0,0
+Mukhtar Hussain,Assam,1,25,12,25,208.3333333,0,0,0
+Mrinmoy Dutta,Assam,1,6,8,6,75,0,0,0
+NA Rathva,Baroda,2,29,39,14.5,74.21052632,0,0,0
+A Sheth,Baroda,2,24,18,12,153.8461538,0,0,0
+KR Kakade,Baroda,2,10,7,5,154.1666667,0,0,0
+VR Aaron,Baroda,2,9,8,4.5,64.28571429,0,0,1
+Chinta Gandhi,Baroda,1,1,1,1,100,0,0,0
+Urvil Patel,Gujarat,4,150,91,37.5,140.8928571,0,1,0
+Priyank Panchal,Gujarat,4,148,105,37,148.9560932,0,1,0
+Saurav Chauhan,Gujarat,4,32,38,8,62.56410256,0,0,1
+Het Patel,Gujarat,4,40,58,10,64.12698413,0,0,0
+Chirag Gandhi,Gujarat,4,111,71,27.75,135.5357143,0,1,0
+Hemang Patel,Gujarat,1,2,2,2,100,0,0,0
+PP Chawla,Gujarat,3,15,11,5,190.4761905,0,0,1
+Vishal Jayswal,Gujarat,2,0,2,0,0,0,0,2
+Roosh Kalaria,Gujarat,2,7,4,3.5,250,0,0,0
+Piyush Joshi,Uttarakhand,3,81,63,27,128.6973704,0,1,0
+NS Rathour,Uttarakhand,1,3,4,3,75,0,0,0
+Dikshanshu Negi,Uttarakhand,3,38,38,12.66666667,116.2337662,0,0,0
+Vijay Sharma,Uttarakhand,3,27,20,9,67.64705882,0,0,1
+SP Goswami,Mizoram,3,15,19,5,62.5,0,0,1
+T Kohli,Mizoram,3,109,94,36.33333333,116.1616162,0,1,0
+Lalhmangaiha,Mizoram,3,19,44,6.333333333,46.15384615,0,0,0
+Joseph Lalthankhuma,Mizoram,3,38,63,12.66666667,61.95652174,0,0,0
+Avinash Yadav,Mizoram,3,21,25,7,56.34920635,0,0,1
+Vikash Kumar,Mizoram,2,4,8,2,33.33333333,0,0,1
+F Lalmuanzuala,Mizoram,3,8,32,2.666666667,26.18421053,0,0,0
+G Lalbiakvela,Mizoram,2,1,7,0.5,8.333333333,0,0,1
+Bobby Zothansanga,Mizoram,2,5,8,2.5,75,0,0,0
+Remruatdika Ralte,Mizoram,1,3,5,3,60,0,0,0
+SN Mandal,Assam,1,39,40,39,97.5,0,0,0
+Parth Chauhan,Saurashtra,2,28,23,14,98.52941176,0,0,0
+Dharmendrasinh Jadeja,Saurashtra,3,9,15,3,56.48148148,0,0,1
+AM Reddy,Andhra,3,29,32,9.666666667,78.57142857,0,0,0
+Ashwin Hebbar,Andhra,3,89,50,29.66666667,170.9401709,0,1,0
+RK Bhui,Andhra,3,89,66,29.66666667,135.5555556,0,0,0
+SK Rasheed,Andhra,2,52,43,26,115.3935185,0,0,0
+Karan Shinde,Andhra,3,105,66,35,138.7533875,0,1,0
+Nitesh Sedai,Manipur,2,0,5,0,0,0,0,2
+Ahmed Shah (2),Manipur,1,0,4,0,0,0,0,1
+Karnajit Yumnam,Manipur,2,17,29,8.5,49.47368421,0,0,0
+Langlonyamba Meitan Keishangbam,Manipur,2,43,57,21.5,65.67460317,0,0,0
+Kangabam Singh,Manipur,2,17,18,8.5,87.66233766,0,0,0
+Rex Rajkumar,Manipur,2,26,26,13,77.08333333,0,0,0
+Johnson Singh,Manipur,2,9,14,4.5,40.90909091,0,0,1
+L Kishan Singha,Manipur,1,1,5,1,20,0,0,0
+Sultan Karim,Manipur,1,0,2,0,0,0,0,1
+BM Chingakham,Manipur,2,13,10,6.5,72.22222222,0,0,1
+Bikash Singh,Manipur,2,14,35,7,31.66666667,0,0,0
+BB Ghosh,Tripura,1,1,3,1,33.33333333,0,0,0
+Bikramkumar Das,Tripura,2,128,100,64,132.3481117,0,2,0
+Sudip Chatterjee,Tripura,2,54,40,27,121.875,0,0,0
+Rajat Dey,Tripura,2,15,12,7.5,132.8571429,0,0,0
+Manisankar Murasingh,Tripura,1,11,6,11,183.3333333,0,0,0
+D Khatri,Tripura,1,13,7,13,185.7142857,0,0,0
+Rana Dutta,Tripura,1,14,8,14,175,0,0,0
+Y Avinash Jadhav,Puducherry,2,28,22,14,116.1904762,0,0,0
+Ankit Sharma,Puducherry,2,28,31,14,73.09782609,0,0,0
+Marimuthu Vikneshwaran,Puducherry,2,37,35,18.5,83.62068966,0,0,0
+Bharat Sharma,Puducherry,2,26,33,13,87.03703704,0,0,0
+Sagar Udeshi,Puducherry,2,3,11,1.5,25,0,0,1
+Parvez Ahmed,Mizoram,2,14,35,7,30.43478261,0,0,1
+SM Patidar,Madhya Pradesh,1,25,19,25,131.5789474,0,0,0
+Atharva Taide,Vidarbha,5,101,92,20.2,87.55072464,0,0,0
+Akshay Wadkar,Vidarbha,5,104,105,20.8,62.25070909,0,1,0
+SB Dubey,Vidarbha,5,97,83,19.4,111.7670293,0,0,0
+AV Wankhade,Vidarbha,5,152,114,30.4,122.7798696,0,1,0
+Akshay Karnewar,Vidarbha,3,24,24,8,103.968254,0,0,0
+DG Nalkande,Vidarbha,2,8,10,4,79.16666667,0,0,0
+Mayank Mishra,Uttarakhand,1,0,1,0,0,0,0,1
+P Chopra,Himachal Pradesh,5,144,128,28.8,125.4350366,0,1,0
+AKS Bains,Himachal Pradesh,5,96,93,19.2,107.7324278,0,0,0
+SL Verma,Himachal Pradesh,4,84,49,21,118.6339286,0,1,1
+Nikhil Gangta,Himachal Pradesh,3,87,65,29,130.5555556,0,1,0
+Akash Vasisht,Himachal Pradesh,3,105,70,35,149.6258235,0,0,0
+EC Sen,Himachal Pradesh,3,80,59,26.66666667,134.1954023,0,0,0
+N A Sharma,Himachal Pradesh,2,4,8,2,28.57142857,0,0,1
+Pankaj Jaswal,Himachal Pradesh,2,33,20,16.5,159.375,0,0,0
+K D Patel,Saurashtra,1,9,5,9,180,0,0,0
+Babul Kumar,Bihar,2,104,70,52,158.1196581,0,1,0
+Girinath Reddy,Andhra,2,18,25,9,83.33333333,0,0,0
+K V Sasikanth,Andhra,2,32,20,16,222.2222222,0,0,0
+Bandaru Ayyappa,Andhra,1,1,2,1,50,0,0,0
+P Prafullomani,Manipur,1,3,3,3,100,0,0,0
+Arkaprabha Sinha,Tripura,1,20,18,20,111.1111111,0,0,0
+SZ Mulani,Mumbai,4,4,8,1,66.66666667,0,0,1
+Hardik Tamore,Mumbai,1,5,8,5,62.5,0,0,0
+Tanush Kotian,Mumbai,3,44,36,14.66666667,142.5641026,0,0,0
+TU Deshpande,Mumbai,1,3,4,3,75,0,0,0
+Lalhruaizela,Mizoram,1,5,7,5,71.42857143,0,0,0
+Manish Golamaru,Andhra,1,0,3,0,0,0,0,1
+Shoaib Mohammed Khan,Andhra,1,9,13,9,69.23076923,0,0,0
+Priyesh Patel,Gujarat,2,36,22,18,160.7142857,0,0,0
+Sameer Rizvi,Uttar Pradesh,1,16,17,16,94.11764706,0,0,0
+D Joshi,Uttar Pradesh,1,8,5,8,160,0,0,0
+Shiva Singh,Uttar Pradesh,1,6,4,6,150,0,0,0
+AA Kargave,Puducherry,1,35,43,35,81.39534884,0,0,0
+Akshay Jain,Puducherry,1,0,2,0,0,0,0,1
+Ishaan Gadekar,Goa,1,45,25,45,180,0,0,0
+VS Kahlon,Goa,1,0,3,0,0,0,0,1
+SS Dubhashi,Goa,1,6,11,6,54.54545455,0,0,0
+Nipan Deka,Assam,1,42,28,42,150,0,0,0
+AR Pandey,Railways,1,10,13,10,76.92307692,0,0,0
+AR Mokhade,Vidarbha,1,1,2,1,50,0,0,0
+Yashaswi Rishav,Bihar,1,35,33,35,106.0606061,0,0,0
+Harsh Vikram Singh,Bihar,1,1,3,1,33.33333333,0,0,0
+Ashutosh Aman,Bihar,1,2,2,2,100,0,0,0
+Nzanthung Mozhui,Nagaland,1,5,18,5,27.77777778,0,0,0
+Chaitanya Bishnoi,Haryana,1,17,21,17,80.95238095,0,0,0
+YY Singh,Haryana,1,13,12,13,108.3333333,0,0,0
+Himanshu Rana,Haryana,1,17,15,17,113.3333333,0,0,0
+DB Bana,Haryana,1,17,16,17,106.25,0,0,0
+N Sindhu,Haryana,1,42,25,42,168,0,0,0
+PA Dahiya,Haryana,1,7,11,7,63.63636364,0,0,0
+Sumit Kumar,Haryana,1,0,1,0,0,0,0,1
+A Kamboj,Haryana,1,8,11,8,72.72727273,0,0,0
+A Mishra,Haryana,1,3,3,3,100,0,0,0
+AA Herwadkar,Chhattisgarh,1,19,22,19,86.36363636,0,0,0
+Amandeep Khare,Chhattisgarh,1,25,27,25,92.59259259,0,0,0
+Sanjeet Desai,Chhattisgarh,1,4,10,4,40,0,0,0
+Harpreet Singh,Chhattisgarh,1,27,25,27,108,0,0,0
+Ajay Mandal,Chhattisgarh,1,10,14,10,71.42857143,0,0,0
+Sahban Khan,Chhattisgarh,1,1,7,1,14.28571429,0,0,0
+Lavin Coster,Chhattisgarh,1,2,4,2,50,0,0,0
+Sumit Ruikar,Chhattisgarh,1,5,3,5,166.6666667,0,0,0
+Ravi Kiran,Chhattisgarh,1,2,4,2,50,0,0,0
+Sourabh Majumdar,Chhattisgarh,1,3,6,3,50,0,0,0
+Sanjay Raghunath,Vidarbha,3,98,88,32.66666667,101.1877395,0,1,0
+H Desai,Saurashtra,2,35,31,17.5,114.7619048,0,0,0
+Vishvaraj Jadeja,Saurashtra,2,32,26,16,84.05797101,0,0,0
+Rohan Kunnummal,Kerala,1,22,19,22,115.7894737,0,0,0
+Mohammed Azharuddeen,Kerala,1,0,3,0,0,0,0,1
+Sachin Baby,Kerala,1,64,49,64,130.6122449,0,1,0
+Abdul Basith,Kerala,1,12,7,12,171.4285714,0,0,0
+Vishnu Vinod,Kerala,1,12,8,12,150,0,0,0
+RA Patil,Karnataka,1,2,4,2,50,0,0,0
+LR Chethan,Karnataka,1,33,25,33,132,0,0,0
+LUVNITH SISODIA,Karnataka,1,6,4,6,150,0,0,0
+MS Bhandage,Karnataka,1,25,10,25,250,0,0,0
+L Thareja,Delhi,1,4,2,4,200,0,0,0
+Sairaj Patil,Mumbai,1,31,27,31,114.8148148,0,0,0
+Abhimanyu Rana,Himachal Pradesh,1,2,7,2,28.57142857,0,0,0
+Mayank Dagar,Himachal Pradesh,1,21,12,21,175,0,0,0
+HB Dickson,Cook Islands,2,51,40,25.5,65.38461538,0,1,1
+A Parima,Cook Islands,5,87,72,17.4,123.4079254,0,0,0
+T Parima,Cook Islands,5,63,47,12.6,103.2222222,0,0,1
+C Dickson,Cook Islands,4,58,62,14.5,86.52777778,0,0,0
+D Teinaki,Cook Islands,4,36,40,9,94.57070707,0,0,0
+L Denny,Cook Islands,4,78,61,19.5,128.59375,0,0,0
+T Ritawa,Cook Islands,2,7,6,3.5,100,0,0,0
+T Vanuarua,Cook Islands,2,12,12,6,100,0,0,0
+B Vakatini,Cook Islands,2,5,8,2.5,35.71428571,0,0,1
+N Acawei,Fiji,5,51,71,10.2,75.65517241,0,0,1
+M Beitaki,Fiji,5,56,41,11.2,130.4126984,0,0,0
+DS Maraiwai,Fiji,5,71,63,14.2,99.68253968,0,0,1
+PV Vuniwaqa,Fiji,5,245,150,49,173.1145521,0,2,0
+J Baleicikoibia,Fiji,5,61,81,12.2,73.64035088,0,0,0
+P Cabebula,Fiji,4,1,10,0.25,25,0,0,3
+SM Tupou,Fiji,5,74,77,14.8,86.60561661,0,0,0
+J Batinibulu,Fiji,3,8,18,2.666666667,41.66666667,0,0,0
+S Ravoka,Fiji,5,24,38,4.8,65.45634921,0,0,0
+S Cotter,Samoa,5,74,72,14.8,92.23232323,0,0,1
+DP Michael,Samoa,5,162,148,32.4,104.7238095,0,2,0
+T Kaisala,Samoa,4,64,78,16,70.8212677,0,0,0
+AJ Michael,Samoa,5,66,81,13.2,79.28845101,0,0,0
+F Suluoto,Samoa,5,49,58,9.8,63.9038079,0,0,1
+S Sola,Samoa,5,17,39,3.4,65,0,0,0
+JD Baker,Samoa,5,50,49,10,55.33816425,0,0,1
+CK Jasmat,Samoa,5,39,40,7.8,90.05128205,0,0,0
+SF Tiai,Samoa,5,75,51,15,117.3333333,0,0,1
+U Sofi,Samoa,1,8,6,8,133.3333333,0,0,0
+D Finau,Samoa,2,4,6,2,75,0,0,0
+PK Matautaava,Vanuatu,8,165,120,20.625,143.9720737,0,0,0
+W Wotu,Vanuatu,2,28,30,14,79.54545455,0,0,0
+TS Waqavakatoga,Fiji,3,24,24,8,66.15384615,0,0,1
+S Delai,Fiji,1,16,36,16,44.44444444,0,0,0
+S Draunivudi,Fiji,1,6,4,6,150,0,0,0
+S Weleilakeba,Fiji,1,8,3,8,266.6666667,0,0,0
+DE Roache,Samoa,1,1,1,1,100,0,0,0
+D Simpson,Cook Islands,1,4,5,4,80,0,0,0
+W Kokaua,Cook Islands,1,2,5,2,40,0,0,0
+L Yamamoto-Lake,Japan,5,115,81,23,129.2424242,0,1,0
+S Navaratne,Japan,3,37,29,12.33333333,111.1111111,0,0,0
+K Kadowaki-Fleming,Japan,5,252,124,50.4,187.4793552,1,1,0
+S Ravichandran,Japan,4,51,48,12.75,111.2418831,0,0,0
+S Kimura,Japan,4,34,38,8.5,93.57142857,0,0,0
+GA Priandana,Indonesia,6,146,161,24.33333333,87.52241123,0,0,0
+IW Budiarta,Indonesia,2,4,4,2,66.66666667,0,0,1
+Anjar Tadarus,Indonesia,5,28,32,5.6,74,0,0,1
+PR Surve,Indonesia,6,146,143,24.33333333,92.13168552,0,1,0
+KC Ramamoorthy,Indonesia,6,46,77,7.666666667,57.79985453,0,0,1
+DJ Hawoe,Indonesia,6,34,24,5.666666667,94.07407407,0,0,2
+Ahmad Ramdoni,Indonesia,5,26,42,5.2,94.38405797,0,0,0
+IK Gamantika,Indonesia,6,76,98,12.66666667,71.2109575,0,0,1
+I Takahashi,Japan,4,42,49,10.5,123.342803,0,0,1
+Vinay Iyer,Japan,1,6,11,6,54.54545455,0,0,0
+A Patmore,Japan,4,32,52,8,76.62337662,0,0,0
+D Suzuki,Japan,4,32,35,8,91.66666667,0,0,0
+M Taniyama,Japan,2,11,14,5.5,70,0,0,0
+P Kumbhare,Japan,2,0,4,0,0,0,0,2
+KK Dobell,Japan,2,3,6,1.5,37.5,0,0,1
+R Drake,Japan,1,1,1,1,100,0,0,0
+F Banunaek,Indonesia,2,4,14,2,16.66666667,0,0,1
+IKEG Artawan,Indonesia,3,2,7,0.6666666667,13.33333333,0,0,2
+N Brand,Titans,6,76,73,12.66666667,104.6783626,0,0,0
+Dayyaan Galiem,Titans,9,152,112,16.88888889,137.0462388,0,0,0
+A Simelane,Dolphins,5,27,28,5.4,110.6565657,0,0,1
+T Ntini,Dolphins,1,1,4,1,25,0,0,0
+Evan Jones,Lions,4,78,61,19.5,106.0416667,0,0,1
+TG Mokoena,North West,4,57,57,14.25,107.8634085,0,0,0
+K Cotani,North West,5,31,51,6.2,77.96425796,0,0,1
+J Hermann,Warriors,5,162,142,32.4,88.83743568,0,2,1
+B Swanepoel,Warriors,2,23,12,11.5,135,0,0,0
+Z Abrahams,Warriors,1,0,4,0,0,0,0,1
+K Molefe,Warriors,1,0,4,0,0,0,0,1
+EJ Cunningham,Western Province,2,2,4,1,33.33333333,0,0,1
+Abdullah Bayoumy,Western Province,6,28,37,4.666666667,70.83333333,0,0,0
+KI Simmonds,Western Province,3,35,28,11.66666667,101.8518519,0,0,0
+J Pillay,Titans,8,234,218,29.25,94.1940943,0,2,1
+M Manack,Lions,2,4,11,2,25,0,0,1
+TM Maphaka,Lions,1,1,3,1,33.33333333,0,0,0
+TL Moreki,Western Province,4,11,20,2.75,49.375,0,0,1
+N Burger,Western Province,3,8,16,2.666666667,52.38095238,0,0,1
+TA Dithole,Dolphins,3,32,38,10.66666667,120.5254516,0,0,0
+H Coetzer,North West,4,19,26,4.75,47.1875,0,0,1
+R Meyer,North West,2,1,2,0.5,50,0,0,1
+M Twala,Titans,2,17,19,8.5,47.22222222,0,0,1
+N Roux,Knights,1,7,11,7,63.63636364,0,0,0
+AR Swanepoel,Knights,6,52,58,8.666666667,72,0,0,0
+M Budaza,Knights,3,0,5,0,0,0,0,3
+M Mhlanga,Knights,2,3,6,1.5,110,0,0,0
+B Xenxe,Boland,3,17,14,5.666666667,112.5,0,0,1
+M Boast,Titans,1,1,1,1,100,0,0,0
+L Tywaku,Western Province,2,8,21,4,20,0,0,1
+S Pillay,North West,1,12,17,12,70.58823529,0,0,0
+O Motlhoaring,Knights,3,16,19,5.333333333,69.84126984,0,0,0
+I Dikgale,Knights,3,38,28,12.66666667,103.8888889,0,0,0
+G Adams,Lions,1,3,4,3,75,0,0,0
+T Bokako,Lions,1,3,2,3,150,0,0,0
+IK Darmawan,Indonesia,2,25,35,12.5,78.57142857,0,0,0
+Kim Daeyeon,South Korea,3,35,45,11.66666667,65.33333333,0,0,0
+Aamir Lal,South Korea,3,38,17,12.66666667,138.8888889,0,0,1
+Asif Iqbal (2),South Korea,3,36,45,12,94.00921659,0,0,0
+Jun Hyunwoo,South Korea,3,66,70,22,96.42857143,0,0,0
+Kuldeep Gurjar,South Korea,1,2,7,2,28.57142857,0,0,0
+Raja Shoaib,South Korea,3,49,43,16.33333333,91.66666667,0,0,0
+Hwanhee Lee,South Korea,1,3,6,3,50,0,0,0
+Alam Nakash,South Korea,3,25,27,8.333333333,44.6969697,0,0,1
+Mudassir Iqbal,South Korea,3,56,49,18.66666667,79.8576902,0,0,0
+AN Hyobeom,South Korea,2,8,14,4,70,0,0,0
+Sana Ullah,South Korea,1,0,2,0,0,0,0,1
+R Sakurano-Thomas,Japan,3,18,14,6,92.06349206,0,0,1
+Lee Kangmin,South Korea,1,9,8,9,112.5,0,0,0
+RM Koda,Indonesia,1,1,2,1,50,0,0,0
+Anik Ahmed,Italy,4,53,61,13.25,67.4137931,0,0,1
+Gurpreet Singh,Italy,2,17,14,8.5,112.5,0,0,0
+P Sadev,Italy,1,1,4,1,25,0,0,0
+Anmoldeep Singh,Italy,1,2,7,2,28.57142857,0,0,0
+Waleed Rana,Italy,3,37,50,12.33333333,60.48748353,0,0,0
+P Fernando,Italy,1,0,3,0,0,0,0,1
+J van Heerden,Germany,2,56,57,28,92.73504274,0,0,0
+Muhammad Yasin,Spain,4,70,54,17.5,130.6944444,0,0,0
+P Dhiman,Spain,4,41,57,10.25,52.52525253,0,0,0
+Mohammad Ihsan,Spain,4,30,31,7.5,73.88888889,0,0,0
+Sahir Naqash,Germany,2,15,16,7.5,93.75,0,0,0
+BR Hampton,Northern Districts,2,25,17,12.5,83.33333333,0,0,1
+MWT Boyle,Canterbury,3,42,35,14,85.96491228,0,0,1
+CR McLachlan,Wellington,1,5,10,5,50,0,0,0
+D Foxcroft,Otago,3,129,112,43,106.557377,0,1,0
+JL Finnie,Otago,3,19,18,6.333333333,66.02564103,0,0,1
+L Delport,Auckland,2,14,11,7,137.5,0,0,0
+GR Hay,Central Districts,3,41,41,13.66666667,101.0774411,0,0,0
+BM Johnson,Central Districts,3,5,5,1.666666667,55.55555556,0,0,2
+TK Parkes,Otago,2,16,25,8,47.80701754,0,0,0
+BNJ Lockrose,Otago,1,10,7,10,142.8571429,0,0,0
+ATE Hazeldine,Otago,1,4,4,4,100,0,0,0
+KDC Clarke,Northern Districts,1,8,3,8,266.6666667,0,0,0
+JG Walker,Northern Districts,1,1,2,1,50,0,0,0
+BG Randell,Central Districts,1,4,1,4,400,0,0,0
+G Toka,Papua New Guinea,3,3,10,1,20,0,0,2
+K Doriga,Papua New Guinea,4,105,199,26.25,54.27009456,0,1,0
+Shayan Jahangir,United States of America,4,59,74,14.75,96.02577499,0,0,0
+BJ McMullen,Scotland,3,119,144,39.66666667,84.15935533,0,1,0
+Gulsan Jha,Nepal,6,110,161,18.33333333,62.44645551,0,0,0
+LN Rajbanshi,Nepal,5,31,78,6.2,37.94577352,0,0,1
+H Shah,Nepal,2,9,25,4.5,31.54761905,0,0,0
+V Sukumaran,United Arab Emirates,2,17,48,8.5,31.25,0,0,0
+Hazrat Bilal,United Arab Emirates,2,21,59,10.5,42.54385965,0,0,0
+T Perera,Botswana,4,85,81,21.25,110.9375,0,0,0
+D Maisuria,Botswana,1,0,1,0,0,0,0,1
+B Khumalo,Botswana,1,2,5,2,40,0,0,0
+O Tuyisenge,Rwanda,15,294,276,19.6,92.57870507,0,2,3
+E Dusingizimana,Rwanda,15,358,323,23.86666667,97.1897844,0,2,1
+W Niyitanga,Rwanda,14,181,206,12.92857143,69.82053239,0,1,2
+E Niyomugabo,Rwanda,14,74,108,5.285714286,78.21011804,0,0,2
+C Rububagumya,Rwanda,13,133,169,10.23076923,56.64349483,0,0,2
+E Sebareme,Rwanda,13,117,125,9,76.44406056,0,0,3
+D Ndikubwimana,Rwanda,8,53,94,6.625,55.79326923,0,0,0
+Mohammad Maaz Khan,Lesotho,4,47,41,11.75,87.28070175,0,0,1
+Sameer Patel,Lesotho,4,32,49,8,55.86229947,0,0,1
+C Tlali,Lesotho,4,31,43,7.75,60.95588235,0,0,1
+LM Gabriel,Lesotho,4,90,73,22.5,103.5714286,0,0,1
+Waseem Yaqoob,Lesotho,4,83,98,20.75,83.89473684,0,0,0
+Khan Arbaaz,Lesotho,2,17,23,8.5,40.47619048,0,0,1
+YYM Jakda,Lesotho,4,11,9,2.75,62.5,0,0,2
+ME Leoela,Lesotho,3,5,17,1.666666667,40.47619048,0,0,1
+M Sidibe,Mali,3,5,22,1.666666667,9.259259259,0,0,2
+D Traore,Mali,2,10,23,5,43.65079365,0,0,0
+Mohamed Coulibaly,Mali,5,18,40,3.6,54.91330891,0,0,0
+MS Diawara,Mali,4,11,30,2.75,26.44927536,0,0,2
+MT Diaby,Mali,5,23,39,4.6,44.25490196,0,0,1
+CA Keita,Mali,4,39,47,9.75,38.25757576,0,0,2
+TM Macalou,Mali,4,26,51,6.5,41.36904762,0,0,1
+SG Diaby,Mali,3,9,17,3,51.11111111,0,0,1
+S Kamate,Mali,4,11,38,2.75,23.6013986,0,0,2
+MS Diakite,Mali,3,14,17,4.666666667,83.33333333,0,0,0
+L Sanogo,Mali,4,6,11,1.5,45.83333333,0,0,2
+P Sharma,Kenya,4,80,68,20,121.6847826,0,0,0
+M Akayezu,Rwanda,11,38,51,3.454545455,61.77489177,0,0,2
+Z Bimenyimana,Rwanda,7,39,36,5.571428571,72.82967033,0,0,3
+V Mitari,Rwanda,5,4,11,0.8,40,0,0,2
+A Langham,St Helena,3,43,43,14.33333333,68.46846847,0,0,1
+B Isaac,St Helena,1,2,12,2,16.66666667,0,0,0
+AR Leo,St Helena,3,25,40,8.333333333,29.7979798,0,0,1
+S Crowie,St Helena,3,24,47,8,54.5751634,0,0,0
+CR Richards,St Helena,2,7,6,3.5,112.5,0,0,0
+A Yon,St Helena,3,60,45,20,76.11111111,0,1,0
+J Henry,St Helena,3,20,17,6.666666667,84.44444444,0,0,0
+R Francis,St Helena,3,11,11,3.666666667,80.55555556,0,0,1
+BK Stroud,St Helena,1,10,20,10,50,0,0,0
+G Johnson,St Helena,1,2,12,2,16.66666667,0,0,0
+AAA Patel,Lesotho,1,9,7,9,128.5714286,0,0,0
+TD Chaoana,Lesotho,3,3,8,1,33.33333333,0,0,1
+V Jayant,Lesotho,3,6,17,2,27.97619048,0,0,1
+MV Matsau,Lesotho,3,3,6,1,100,0,0,1
+Mazharul Islam,Seychelles,4,77,76,19.25,84.73214286,0,1,0
+TKP Rajapaksha,Seychelles,4,67,85,16.75,62.43563082,0,0,0
+SKDT Madusanka,Seychelles,4,49,57,12.25,126.0401635,0,0,0
+STRA de Silva,Seychelles,3,65,65,21.66666667,70.90277778,0,0,1
+D Kalvin,Seychelles,2,22,37,11,60.67251462,0,0,0
+L Berthe,Mali,2,1,6,0.5,25,0,0,1
+K Irakoze,Rwanda,9,76,82,8.444444444,78.56397306,0,0,1
+TG Thamae,Lesotho,2,0,5,0,0,0,0,2
+R Mbaiwa,Botswana,1,2,7,2,28.57142857,0,0,0
+K Piet,Botswana,1,0,1,0,0,0,0,1
+DL Richards,St Helena,2,5,5,2.5,100,0,0,0
+P Abhijit,Seychelles,2,5,9,2.5,31.25,0,0,1
+N Krishna,Seychelles,2,4,5,2,66.66666667,0,0,1
+SR Rocket,Seychelles,2,2,10,1,16.66666667,0,0,1
+HL Harji,Seychelles,2,1,7,0.5,12.5,0,0,1
+T Shanmugam,Seychelles,1,8,10,8,80,0,0,0
+Z Makadji,Mali,1,0,1,0,0,0,0,1
+M Malle,Mali,1,3,25,3,12,0,0,0
+VL Mukesh,Seychelles,1,3,4,3,75,0,0,0
+S Udhayan,Seychelles,1,0,1,0,0,0,0,1
+J Bangura,Sierra Leone,3,34,34,11.33333333,36.55913978,0,0,2
+G Ngegba,Sierra Leone,6,95,91,15.83333333,90.69936055,0,0,1
+A Gbla,Sierra Leone,4,32,43,8,70.53104575,0,0,0
+M Kpaka,Sierra Leone,2,0,6,0,0,0,0,2
+L Lamin,Sierra Leone,5,99,94,19.8,113.6055796,0,0,1
+Zahid Khan,Sierra Leone,3,8,20,2.666666667,41.30952381,0,0,0
+G Sesay,Sierra Leone,4,18,30,4.5,69.24603175,0,0,1
+Mohamed Khan,Sierra Leone,3,6,6,2,50,0,0,2
+C Bah,Sierra Leone,3,24,19,8,117.8571429,0,0,0
+R Coker,Sierra Leone,5,33,65,6.6,53.5300207,0,0,0
+S Conteh,Sierra Leone,2,0,4,0,0,0,0,2
+JM Joao,Mozambique,1,1,10,1,10,0,0,0
+DV Macome,Mozambique,1,6,6,6,100,0,0,0
+AT Chuvale,Mozambique,1,3,8,3,37.5,0,0,0
+Sulaimon Runsewe,Nigeria,6,118,114,19.66666667,96.17929155,0,0,0
+AA Onikoyi,Nigeria,2,51,82,25.5,58.20512821,0,0,0
+A Shreshta,Nigeria,6,186,171,31,104.5078367,0,1,0
+AE Isesele,Nigeria,4,48,38,12,70.74074074,0,0,0
+Andre Jarju,Gambia,5,13,44,2.6,25.25490196,0,0,2
+Mustapha Suwareh,Gambia,6,20,41,3.333333333,40.83333333,0,0,1
+Muhammed Manga,Gambia,6,124,169,20.66666667,58.31603737,0,1,0
+A Conteh,Gambia,6,35,58,5.833333333,61.56746032,0,0,1
+G Riley,Gambia,2,3,19,1.5,15,0,0,1
+Ismaila Tanba,Gambia,6,92,81,15.33333333,110.9936668,0,0,0
+F Campbell,Gambia,4,34,52,8.5,52.89855072,0,0,1
+Ousman Bah,Gambia,6,22,61,3.666666667,25.89065256,0,0,2
+ML Bojang,Gambia,5,32,33,6.4,95.42857143,0,0,1
+P Campbell,Gambia,4,15,32,3.75,28.125,0,0,2
+M Jobarteh,Gambia,5,26,27,5.2,91.21212121,0,0,0
+T Sandeep,Eswatini,5,137,137,27.4,85.1744186,0,1,0
+C Forbes,Eswatini,4,25,54,6.25,36.83862434,0,0,1
+Naeem Gull,Eswatini,5,98,97,19.6,90.56923639,0,1,0
+Adil Butt (2),Eswatini,5,124,92,24.8,130.1965812,0,1,1
+W Dlamini,Eswatini,2,6,12,3,48.57142857,0,0,0
+H Rashid,Eswatini,5,37,47,7.4,50.83333333,0,0,2
+Umair Qasim,Eswatini,4,33,35,8.25,94.23701299,0,0,0
+I Kamara,Sierra Leone,2,1,7,0.5,10,0,0,1
+CN Onwuzulike,Nigeria,4,19,23,4.75,91.66666667,0,0,0
+IO Okpe,Nigeria,4,90,53,22.5,182.1078431,0,1,0
+G Bakiweyem,Ghana,1,4,6,4,66.66666667,0,0,0
+P Abanda,Cameroon,5,24,35,4.8,64,0,0,1
+A Turay,Sierra Leone,3,62,47,20.66666667,122.5,0,0,0
+S Williams,Sierra Leone,1,0,3,0,0,0,0,1
+CB Ondoa,Cameroon,4,18,64,4.5,27.63157895,0,0,0
+RD Atangana,Cameroon,4,3,12,0.75,35.41666667,0,0,1
+JO Adedeji,Nigeria,2,14,26,7,31.81818182,0,0,1
+P Useni,Nigeria,3,16,7,5.333333333,291.6666667,0,0,0
+SA Okpe,Nigeria,2,20,31,10,50.5952381,0,0,0
+Eric Phiri,Eswatini,2,7,13,3.5,54.76190476,0,0,0
+M Jele,Eswatini,2,16,15,8,103.8461538,0,0,0
+D Polpitiya,Eswatini,1,0,1,0,0,0,0,1
+M Magagula,Eswatini,1,0,4,0,0,0,0,1
+A Osei,Ghana,1,8,19,8,42.10526316,0,0,0
+S Thakor,Tanzania,11,95,67,8.636363636,137.1291866,0,0,0
+MO Kitunda,Tanzania,13,173,153,13.30769231,101.1593321,0,0,1
+AM Kimote,Tanzania,8,66,64,8.25,87.29395604,0,0,2
+Mohammed Alamgir,Eswatini,1,10,9,10,111.1111111,0,0,0
+Abubacarr Kuyateh,Gambia,5,16,31,3.2,23.33333333,0,0,3
+F Thorpe,Gambia,1,0,1,0,0,0,0,1
+O Touray,Gambia,2,6,8,3,42.85714286,0,0,1
+R Abdulkareem,Nigeria,1,0,9,0,0,0,0,1
+P Aho,Nigeria,1,6,3,6,200,0,0,0
+C Udekwe,Nigeria,1,1,2,1,50,0,0,0
+LI Salomone,Mozambique,1,1,2,1,50,0,0,0
+P Ayoleyine,Ghana,1,0,1,0,0,0,0,1
+N Ndouteng,Cameroon,1,1,4,1,25,0,0,0
+A Kaul,Singapore,6,21,51,3.5,41.5181224,0,0,1
+S Srikanth,Singapore,5,31,76,6.2,51.06837607,0,0,1
+Syed Rehmatullah,Malaysia,5,10,27,2,47.85714286,0,0,0
+Yousuf Ali,Qatar,2,1,2,0.5,50,0,0,1
+A Johnson,Canada,11,479,310,43.54545455,127.050373,1,5,1
+Pargat Singh,Canada,10,245,276,24.5,68.25743845,0,2,2
+SA Wijeratne,Canada,11,310,308,28.18181818,84.17430183,0,4,1
+N Dutta,Canada,4,100,98,25,106.5018315,0,1,0
+JOA Gordon,Canada,1,2,3,2,66.66666667,0,0,0
+IP Swaney,Singapore,5,48,61,9.6,92.03947368,0,0,0
+Dharmang Patel,Qatar,3,22,62,7.333333333,25.28860029,0,0,1
+Syed Tameem,Qatar,2,12,29,6,32.24637681,0,0,0
+VN Veetil,Qatar,5,108,120,21.6,65.51984127,0,2,1
+J Santhanam,Singapore,1,5,7,5,71.42857143,0,0,0
+Rizwan Haider,Malaysia,2,2,5,1,33.33333333,0,0,1
+Abdul Waheed,Saudi Arabia,7,80,86,11.42857143,91.98979592,0,0,0
+Faisal Khan,Saudi Arabia,7,106,63,15.14285714,78.87445887,0,1,2
+Kashif Siddique,Saudi Arabia,7,91,95,13,86.2914884,0,0,1
+Hisham Sheikh,Saudi Arabia,6,105,123,17.5,90.98390993,0,0,0
+Saad Khan,Saudi Arabia,6,117,107,19.5,92.70069112,0,1,1
+Irfan Sarfraz,Saudi Arabia,3,38,56,12.66666667,88.57142857,0,0,0
+Haseeb Ghafoor,Saudi Arabia,6,118,111,19.66666667,98.35523953,0,0,0
+Zain Ul Abidin,Saudi Arabia,4,10,20,2.5,38.88888889,0,0,1
+Ishtiaq Ahmad,Saudi Arabia,2,1,3,0.5,50,0,0,1
+Atif-Ur-Rehman,Saudi Arabia,4,12,14,3,111.4285714,0,0,0
+Ahmer Bin Nisar,Bahrain,10,231,185,23.1,114.6015739,0,1,0
+Sohail Ahmed,Bahrain,12,460,334,38.33333333,116.7324161,0,5,1
+A Kapoor,Canada,1,9,4,9,225,0,0,0
+Irshad Mubbashar,Saudi Arabia,4,64,76,16,85.42857143,0,0,0
+Usman Najeeb,Saudi Arabia,4,55,49,13.75,140.2777778,0,0,0
+Rafiullah,Oman,5,87,46,17.4,156.6666667,0,0,1
+S Shrivastava,Oman,1,22,11,22,200,0,0,0
+Imran Yousaf,Saudi Arabia,2,3,6,1.5,70,0,0,0
+Danish Jasnaik,Bahrain,3,6,15,2,59.25925926,0,0,0
+Rizwan Butt,Bahrain,3,10,15,3.333333333,41.11111111,0,0,1
+R Lutaaya,Uganda,5,115,85,23,127.9803922,0,1,0
+CN Kakuru,Uganda,7,67,70,9.571428571,66.6821274,0,0,2
+J Baguma,Uganda,6,38,51,6.333333333,79.47781385,0,0,0
+O Manishimwe,Rwanda,5,29,48,5.8,63.33333333,0,0,0
+AJ Jabiri,Tanzania,9,87,137,9.666666667,58.78676033,0,0,1
+AA Hussein,Tanzania,1,1,1,1,100,0,0,0
+JJ Nyambo,Tanzania,2,6,13,3,45.23809524,0,0,0
+YM Nkanya,Tanzania,2,0,2,0,0,0,0,2
+I Ntirenganya,Rwanda,3,3,5,1,66.66666667,0,0,0
+E Kubwimana,Rwanda,1,0,2,0,0,0,0,1
+DA Mehta,Tanzania,1,12,9,12,133.3333333,0,0,0
+A Modi,Singapore,5,48,77,9.6,63.58863287,0,0,0
+Waseeq Ahmed,Bahrain,1,1,2,1,50,0,0,0
+V Hampihallikar,Singapore,3,15,42,5,89.28571429,0,0,0
+Mohamed Arief,Malaysia,1,4,3,4,133.3333333,0,0,0
+Aslam Khan,Malaysia,2,44,32,22,143.7229437,0,0,0
+NA Karnik,Singapore,1,2,15,2,13.33333333,0,0,0
+Yousif Wali,Bahrain,1,2,2,2,100,0,0,0
+Fitri Sham,Malaysia,1,0,1,0,0,0,0,1
